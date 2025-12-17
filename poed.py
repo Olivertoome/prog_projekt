@@ -18,7 +18,7 @@ class Store:
 
 
 def normalize(text: str) -> str:
-    return text.strip().lower().replace(" ", "")
+    return re.sub(r"\s+", " ", text.strip().lower())
 
 
 def parse_price_to_float(price_text: str) -> float | None:
