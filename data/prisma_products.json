@@ -1,3722 +1,2978 @@
 [
     {
-        "name": "MINI RUKKI RIISIPIRUKAS 6 TK PAKK",
-        "price": "1,89 €",
-        "store": "Prisma"
+        "nimi": "MINI RUKKI RIISIPIRUKAS 6 TK PAKK",
+        "hind": "1,89 €"
     },
     {
-        "name": "Baguette",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "Baguette",
+        "hind": "2,85 €"
     },
     {
-        "name": "Baguette juustuga",
-        "price": "3,39 €",
-        "store": "Prisma"
+        "nimi": "Baguette juustuga",
+        "hind": "3,39 €"
     },
     {
-        "name": "Ciabatta",
-        "price": "2,89 €",
-        "store": "Prisma"
+        "nimi": "Ciabatta",
+        "hind": "2,89 €"
     },
     {
-        "name": "Ciabatta india pähklite ja jõhvikatega",
-        "price": "3,99 €",
-        "store": "Prisma"
+        "nimi": "Ciabatta india pähklite ja jõhvikatega",
+        "hind": "3,99 €"
     },
     {
-        "name": "Ciabatta kõrvitsaseemnetega",
-        "price": "2,39 €",
-        "store": "Prisma"
+        "nimi": "Ciabatta kõrvitsaseemnetega",
+        "hind": "2,39 €"
     },
     {
-        "name": "Päts cheddar juustuga",
-        "price": "3,75 €",
-        "store": "Prisma"
+        "nimi": "Päts cheddar juustuga",
+        "hind": "3,75 €"
     },
     {
-        "name": "Tume baguette seemnetega",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Tume baguette seemnetega",
+        "hind": "2,95 €"
     },
     {
-        "name": "Tume ciabatta seemnetega",
-        "price": "3,15 €",
-        "store": "Prisma"
+        "nimi": "Tume ciabatta seemnetega",
+        "hind": "3,15 €"
     },
     {
-        "name": "Vahemere ciabatta",
-        "price": "3,75 €",
-        "store": "Prisma"
+        "nimi": "Vahemere ciabatta",
+        "hind": "3,75 €"
     },
     {
-        "name": "Täisteraleib",
-        "price": "2,65 €",
-        "store": "Prisma"
+        "nimi": "Täisteraleib",
+        "hind": "2,65 €"
     },
     {
-        "name": "Must päts",
-        "price": "2,65 €",
-        "store": "Prisma"
+        "nimi": "Must päts",
+        "hind": "2,65 €"
     },
     {
-        "name": "Focaccia päikesekuivatatud tomatitega",
-        "price": "4,19 €",
-        "store": "Prisma"
+        "nimi": "Focaccia päikesekuivatatud tomatitega",
+        "hind": "4,19 €"
     },
     {
-        "name": "Geisha šokolaadivahukook, sulatatud 2 tk, 160 g",
-        "price": "4,25 €",
-        "store": "Prisma"
+        "nimi": "Geisha šokolaadivahukook, sulatatud 2 tk, 160 g",
+        "hind": "4,25 €"
     },
     {
-        "name": "Passioni,juustukoogirull, sulatatud 485 g",
-        "price": "6,19 €",
-        "store": "Prisma"
+        "nimi": "Passioni,juustukoogirull, sulatatud 485 g",
+        "hind": "6,19 €"
     },
     {
-        "name": "Ciabatta Röstsibulaga",
-        "price": "2,19 €",
-        "store": "Prisma"
+        "nimi": "Ciabatta Röstsibulaga",
+        "hind": "2,19 €"
     },
     {
-        "name": "Marianne šokolaadrirull, sulatatud 485 g",
-        "price": "6,09 €",
-        "store": "Prisma"
+        "nimi": "Marianne šokolaadrirull, sulatatud 485 g",
+        "hind": "6,09 €"
     },
     {
-        "name": "Dumle pontšik",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Dumle pontšik",
+        "hind": "1,75 €"
     },
     {
-        "name": "Karamellitäidisega pontšik glasuuriga",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Karamellitäidisega pontšik glasuuriga",
+        "hind": "1,75 €"
     },
     {
-        "name": "Vaarikatäidisega pontšik glasuuriga",
-        "price": "1,89 €",
-        "store": "Prisma"
+        "nimi": "Vaarikatäidisega pontšik glasuuriga",
+        "hind": "1,89 €"
     },
     {
-        "name": "Dallase sai",
-        "price": "1,39 €",
-        "store": "Prisma"
+        "nimi": "Dallase sai",
+        "hind": "1,39 €"
     },
     {
-        "name": "Kaneelisai",
-        "price": "1,49 €",
-        "store": "Prisma"
+        "nimi": "Kaneelisai",
+        "hind": "1,49 €"
     },
     {
-        "name": "Kohupiimasõrnik",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Kohupiimasõrnik",
+        "hind": "1,35 €"
     },
     {
-        "name": "Kohupiimatasku",
-        "price": "1,69 €",
-        "store": "Prisma"
+        "nimi": "Kohupiimatasku",
+        "hind": "1,69 €"
     },
     {
-        "name": "Maasikakorp",
-        "price": "1,65 €",
-        "store": "Prisma"
+        "nimi": "Maasikakorp",
+        "hind": "1,65 €"
     },
     {
-        "name": "Pähkli-šokolaadicroissant",
-        "price": "1,39 €",
-        "store": "Prisma"
+        "nimi": "Pähkli-šokolaadicroissant",
+        "hind": "1,39 €"
     },
     {
-        "name": "Šokolaaditäidisega sõõrik",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Šokolaaditäidisega sõõrik",
+        "hind": "1,19 €"
     },
     {
-        "name": "Viinisai",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "Viinisai",
+        "hind": "1,55 €"
     },
     {
-        "name": "Võisai",
-        "price": "0,79 €",
-        "store": "Prisma"
+        "nimi": "Võisai",
+        "hind": "0,79 €"
     },
     {
-        "name": "Viineripirukas",
-        "price": "1,05 €",
-        "store": "Prisma"
+        "nimi": "Viineripirukas",
+        "hind": "1,05 €"
     },
     {
-        "name": "Juustucroissant",
-        "price": "0,75 €",
-        "store": "Prisma"
+        "nimi": "Juustucroissant",
+        "hind": "0,75 €"
     },
     {
-        "name": "Singi-juustupirukas",
-        "price": "0,65 €",
-        "store": "Prisma"
+        "nimi": "Singi-juustupirukas",
+        "hind": "0,65 €"
     },
     {
-        "name": "Spinatistruudel",
-        "price": "1,99 €",
-        "store": "Prisma"
+        "nimi": "Spinatistruudel",
+        "hind": "1,99 €"
     },
     {
-        "name": "Minipitsa suitsukanaga",
-        "price": "1,65 €",
-        "store": "Prisma"
+        "nimi": "Minipitsa suitsukanaga",
+        "hind": "1,65 €"
     },
     {
-        "name": "Mini liha-riisipirukas",
-        "price": "0,39 €",
-        "store": "Prisma"
+        "nimi": "Mini liha-riisipirukas",
+        "hind": "0,39 €"
     },
     {
-        "name": "Juusturull mozzarellaga",
-        "price": "1,99 €",
-        "store": "Prisma"
+        "nimi": "Juusturull mozzarellaga",
+        "hind": "1,99 €"
     },
     {
-        "name": "Juustustritsel",
-        "price": "3,89 €",
-        "store": "Prisma"
+        "nimi": "Juustustritsel",
+        "hind": "3,89 €"
     },
     {
-        "name": "Baguette juustu-küüslaugu",
-        "price": "2,59 €",
-        "store": "Prisma"
+        "nimi": "Baguette juustu-küüslaugu",
+        "hind": "2,59 €"
     },
     {
-        "name": "Gluteenivaba karamellikook",
-        "price": "1,79 €",
-        "store": "Prisma"
+        "nimi": "Gluteenivaba karamellikook",
+        "hind": "1,79 €"
     },
     {
-        "name": "Suur võicroissant",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "Suur võicroissant",
+        "hind": "0,85 €"
     },
     {
-        "name": "Kohupiimapall",
-        "price": "0,39 €",
-        "store": "Prisma"
+        "nimi": "Kohupiimapall",
+        "hind": "0,39 €"
     },
     {
-        "name": "Sepik rukkihelvestega",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Sepik rukkihelvestega",
+        "hind": "1,95 €"
     },
     {
-        "name": "Pistaatsiacroissant 130 g",
-        "price": "2,59 €",
-        "store": "Prisma"
+        "nimi": "Pistaatsiacroissant 130 g",
+        "hind": "2,59 €"
     },
     {
-        "name": "Lihapirukas 85 g",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "Lihapirukas 85 g",
+        "hind": "1,29 €"
     },
     {
-        "name": "Vanilje-rosinarull 95 g",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "Vanilje-rosinarull 95 g",
+        "hind": "1,29 €"
     },
     {
-        "name": "Põhjamaine vormisai 440 g",
-        "price": "2,49 €",
-        "store": "Prisma"
+        "nimi": "Põhjamaine vormisai 440 g",
+        "hind": "2,49 €"
     },
     {
-        "name": "Rukkileib 310 g",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Rukkileib 310 g",
+        "hind": "1,95 €"
     },
     {
-        "name": "Hele crookie 120 g",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "Hele crookie 120 g",
+        "hind": "1,55 €"
     },
     {
-        "name": "Mustikapirukas 320 g",
-        "price": "3,15 €",
-        "store": "Prisma"
+        "nimi": "Mustikapirukas 320 g",
+        "hind": "3,15 €"
     },
     {
-        "name": "Mustika-vaarikapirukas 320 g",
-        "price": "3,15 €",
-        "store": "Prisma"
+        "nimi": "Mustika-vaarikapirukas 320 g",
+        "hind": "3,15 €"
     },
     {
-        "name": "Mascarpone, vaarika, granaatõuna saiake 550 g",
-        "price": "0,89 €",
-        "store": "Prisma"
+        "nimi": "Mascarpone, vaarika, granaatõuna saiake 550 g",
+        "hind": "0,89 €"
     },
     {
-        "name": "Moonisai 165 g",
-        "price": "1,49 €",
-        "store": "Prisma"
+        "nimi": "Moonisai 165 g",
+        "hind": "1,49 €"
     },
     {
-        "name": "Pitsatasku 105 g",
-        "price": "1,59 €",
-        "store": "Prisma"
+        "nimi": "Pitsatasku 105 g",
+        "hind": "1,59 €"
     },
     {
-        "name": "3-juustu suitsukanapirukas 84 g",
-        "price": "1,25 €",
-        "store": "Prisma"
+        "nimi": "3-juustu suitsukanapirukas 84 g",
+        "hind": "1,25 €"
     },
     {
-        "name": "Tiramisu rull 450 g",
-        "price": "5,59 €",
-        "store": "Prisma"
+        "nimi": "Tiramisu rull 450 g",
+        "hind": "5,59 €"
     },
     {
-        "name": "Juuretiseleib 500 g",
-        "price": "2,55 €",
-        "store": "Prisma"
+        "nimi": "Juuretiseleib 500 g",
+        "hind": "2,55 €"
     },
     {
-        "name": "Mini sõõrik MIX 22 g",
-        "price": "0,39 €",
-        "store": "Prisma"
+        "nimi": "Mini sõõrik MIX 22 g",
+        "hind": "0,39 €"
     },
     {
-        "name": "Banaani-toffee pontšik 106 g",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Banaani-toffee pontšik 106 g",
+        "hind": "1,75 €"
     },
     {
-        "name": "Fazer Rosina-toffeekeeks 330 g",
-        "price": "2,99 €",
-        "store": "Prisma"
+        "nimi": "Fazer Rosina-toffeekeeks 330 g",
+        "hind": "2,99 €"
     },
     {
-        "name": "Fazer Original Tippaleipä 180 g",
-        "price": "3,59 €",
-        "store": "Prisma"
+        "nimi": "Fazer Original Tippaleipä 180 g",
+        "hind": "3,59 €"
     },
     {
-        "name": "Fazer Brokoli Minipitsa 100 g",
-        "price": "1,39 €",
-        "store": "Prisma"
+        "nimi": "Fazer Brokoli Minipitsa 100 g",
+        "hind": "1,39 €"
     },
     {
-        "name": "Fazer Pitsaamps Singiga 20 g",
-        "price": "0,35 €",
-        "store": "Prisma"
+        "nimi": "Fazer Pitsaamps Singiga 20 g",
+        "hind": "0,35 €"
     },
     {
-        "name": "Fazer Salaami-Fetajuustu Minipitsa 110 g",
-        "price": "1,69 €",
-        "store": "Prisma"
+        "nimi": "Fazer Salaami-Fetajuustu Minipitsa 110 g",
+        "hind": "1,69 €"
     },
     {
-        "name": "Fazer Pitsaamps seenega 20 g",
-        "price": "0,35 €",
-        "store": "Prisma"
+        "nimi": "Fazer Pitsaamps seenega 20 g",
+        "hind": "0,35 €"
     },
     {
-        "name": "Fazer Singi - Juustustritsel 330 g",
-        "price": "4,09 €",
-        "store": "Prisma"
+        "nimi": "Fazer Singi - Juustustritsel 330 g",
+        "hind": "4,09 €"
     },
     {
-        "name": "Fazer Hot Dog rull 85 g",
-        "price": "1,39 €",
-        "store": "Prisma"
+        "nimi": "Fazer Hot Dog rull 85 g",
+        "hind": "1,39 €"
     },
     {
-        "name": "Fazer Tume Juuretiseleib 500 g",
-        "price": "2,55 €",
-        "store": "Prisma"
+        "nimi": "Fazer Tume Juuretiseleib 500 g",
+        "hind": "2,55 €"
     },
     {
-        "name": "Fazer Pohla-Mandli Cruffin 75 g",
-        "price": "1,59 €",
-        "store": "Prisma"
+        "nimi": "Fazer Pohla-Mandli Cruffin 75 g",
+        "hind": "1,59 €"
     },
     {
-        "name": "Fazer Šokolaadi-Piparmündi Rullkook 410 g",
-        "price": "6,49 €",
-        "store": "Prisma"
+        "nimi": "Fazer Šokolaadi-Piparmündi Rullkook 410 g",
+        "hind": "6,49 €"
     },
     {
-        "name": "Fazer Talvine Õnneleib 420 g",
-        "price": "4,55 €",
-        "store": "Prisma"
+        "nimi": "Fazer Talvine Õnneleib 420 g",
+        "hind": "4,55 €"
     },
     {
-        "name": "Fazer Dallase Sai Apelsiniga 100 g",
-        "price": "1,39 €",
-        "store": "Prisma"
+        "nimi": "Fazer Dallase Sai Apelsiniga 100 g",
+        "hind": "1,39 €"
     },
     {
-        "name": "Fazer Pohla-Mandlistritsel 520 g",
-        "price": "6,29 €",
-        "store": "Prisma"
+        "nimi": "Fazer Pohla-Mandlistritsel 520 g",
+        "hind": "6,29 €"
     },
     {
-        "name": "Maybelline ripsmetušš Colossal 01 Black Waterproof",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Maybelline ripsmetušš Colossal 01 Black Waterproof",
+        "hind": "7,48 €"
     },
     {
-        "name": "Kinder šokolaadimuna 20g",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Kinder šokolaadimuna 20g",
+        "hind": "1,35 €"
     },
     {
-        "name": "Kinder Country piimašokolaad piimatäidise ja teraviljadega 24g.",
-        "price": "0,58 €",
-        "store": "Prisma"
+        "nimi": "Kinder Country piimašokolaad piimatäidise ja teraviljadega 24g.",
+        "hind": "0,58 €"
     },
     {
-        "name": "Kinder piimatäidisega piimašokolaad T8 100 g",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Kinder piimatäidisega piimašokolaad T8 100 g",
+        "hind": "1,68 €"
     },
     {
-        "name": "Kinder Milk Slice magustoit, 28g",
-        "price": "0,82 €",
-        "store": "Prisma"
+        "nimi": "Kinder Milk Slice magustoit, 28g",
+        "hind": "0,82 €"
     },
     {
-        "name": "Orbit White Freshmint närimiskumm 14 g",
-        "price": "0,84 €",
-        "store": "Prisma"
+        "nimi": "Orbit White Freshmint närimiskumm 14 g",
+        "hind": "0,84 €"
     },
     {
-        "name": "Orbit White Spearmint närimiskummid 14 g",
-        "price": "0,84 €",
-        "store": "Prisma"
+        "nimi": "Orbit White Spearmint närimiskummid 14 g",
+        "hind": "0,84 €"
     },
     {
-        "name": "Orbit Watermelon närimiskummid 14 g",
-        "price": "0,84 €",
-        "store": "Prisma"
+        "nimi": "Orbit Watermelon närimiskummid 14 g",
+        "hind": "0,84 €"
     },
     {
-        "name": "ORBIT White maasika närimiskummid 14g",
-        "price": "0,78 €",
-        "store": "Prisma"
+        "nimi": "ORBIT White maasika närimiskummid 14g",
+        "hind": "0,78 €"
     },
     {
-        "name": "Mentos puuviljamaitseline nätsukomm 38 g",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": "Mentos puuviljamaitseline nätsukomm 38 g",
+        "hind": "0,88 €"
     },
     {
-        "name": "Orbit Sweetmint närimiskummid 14 g",
-        "price": "0,84 €",
-        "store": "Prisma"
+        "nimi": "Orbit Sweetmint närimiskummid 14 g",
+        "hind": "0,84 €"
     },
     {
-        "name": "Max Factor lauvärv-pliiats Kohl Pencil 10 White",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Max Factor lauvärv-pliiats Kohl Pencil 10 White",
+        "hind": "7,58 €"
     },
     {
-        "name": "Max Factor lauvärv-pliiats Kohl Pencil 30 Brown",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Max Factor lauvärv-pliiats Kohl Pencil 30 Brown",
+        "hind": "7,58 €"
     },
     {
-        "name": "Max Factor silmapliiats 20 Black",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Max Factor silmapliiats 20 Black",
+        "hind": "7,58 €"
     },
     {
-        "name": "Max Factor Ripsmetušš 2000 Calorie Black",
-        "price": "8,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor Ripsmetušš 2000 Calorie Black",
+        "hind": "8,88 €"
     },
     {
-        "name": "Max Factor 2000 Calorie Dramatic Volume ripsmetušš 04",
-        "price": "8,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor 2000 Calorie Dramatic Volume ripsmetušš 04",
+        "hind": "8,88 €"
     },
     {
-        "name": "Max Factor jumestuskreem Lasting Performance 105 soft Beige",
-        "price": "17,08 €",
-        "store": "Prisma"
+        "nimi": "Max Factor jumestuskreem Lasting Performance 105 soft Beige",
+        "hind": "17,08 €"
     },
     {
-        "name": "Max Factor jumestuskreem Lasting Performance 102 Pastille 35ml",
-        "price": "17,08 €",
-        "store": "Prisma"
+        "nimi": "Max Factor jumestuskreem Lasting Performance 102 Pastille 35ml",
+        "hind": "17,08 €"
     },
     {
-        "name": "MF jumestuskreem Lasting Performance 101 Ivory Beige",
-        "price": "17,08 €",
-        "store": "Prisma"
+        "nimi": "MF jumestuskreem Lasting Performance 101 Ivory Beige",
+        "hind": "17,08 €"
     },
     {
-        "name": "Max Factor jumestuskreem Lasting Performance 100 Fair 35ml",
-        "price": "17,08 €",
-        "store": "Prisma"
+        "nimi": "Max Factor jumestuskreem Lasting Performance 100 Fair 35ml",
+        "hind": "17,08 €"
     },
     {
-        "name": "Max Factor puuderkreemipulk Pan Stik 13 Nouveau Beige",
-        "price": "10,48 €",
-        "store": "Prisma"
+        "nimi": "Max Factor puuderkreemipulk Pan Stik 13 Nouveau Beige",
+        "hind": "10,48 €"
     },
     {
-        "name": "Max Factor puuderkreemipulk Pan Stik 12 True Beige",
-        "price": "10,48 €",
-        "store": "Prisma"
+        "nimi": "Max Factor puuderkreemipulk Pan Stik 12 True Beige",
+        "hind": "10,48 €"
     },
     {
-        "name": "Kulmupliiats 01 Ebony",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Kulmupliiats 01 Ebony",
+        "hind": "7,58 €"
     },
     {
-        "name": "Kulmupliiats 02 Hazel",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Kulmupliiats 02 Hazel",
+        "hind": "7,58 €"
     },
     {
-        "name": "Nutella pähklikreem, 630g",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Nutella pähklikreem, 630g",
+        "hind": "7,58 €"
     },
     {
-        "name": "Kinder Bueno šokolaadibatoon 43 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Kinder Bueno šokolaadibatoon 43 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Nutella pähklikreem 350 g",
-        "price": "4,19 €",
-        "store": "Prisma"
+        "nimi": "Nutella pähklikreem 350 g",
+        "hind": "4,19 €"
     },
     {
-        "name": "Kinder piimatäidisega piimašokolaad T4 50 g",
-        "price": "1,08 €",
-        "store": "Prisma"
+        "nimi": "Kinder piimatäidisega piimašokolaad T4 50 g",
+        "hind": "1,08 €"
     },
     {
-        "name": "MENTOS 38G RAINBOW Närimiskommid",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": "MENTOS 38G RAINBOW Närimiskommid",
+        "hind": "0,88 €"
     },
     {
-        "name": "Tabasco punane piprakaste 57ml",
-        "price": "3,68 €",
-        "store": "Prisma"
+        "nimi": "Tabasco punane piprakaste 57ml",
+        "hind": "3,68 €"
     },
     {
-        "name": "Tabasco Chipotle kaste 60ml",
-        "price": "3,68 €",
-        "store": "Prisma"
+        "nimi": "Tabasco Chipotle kaste 60ml",
+        "hind": "3,68 €"
     },
     {
-        "name": "Ahmad must tee English tea No.1 25x2g",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Ahmad must tee English tea No.1 25x2g",
+        "hind": "1,68 €"
     },
     {
-        "name": "Ahmad must purutee Earl Grey 100g",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Ahmad must purutee Earl Grey 100g",
+        "hind": "2,48 €"
     },
     {
-        "name": "Ahmad must purutee English Tea No.1 100 g",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Ahmad must purutee English Tea No.1 100 g",
+        "hind": "2,48 €"
     },
     {
-        "name": "Ahmad must tee Earl Grey 25x2g",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Ahmad must tee Earl Grey 25x2g",
+        "hind": "1,68 €"
     },
     {
-        "name": "Olmeca Altos 100% Agave Tequila piiritusjook 38%vol 700ml",
-        "price": "29,98 €",
-        "store": "Prisma"
+        "nimi": "Olmeca Altos 100% Agave Tequila piiritusjook 38%vol 700ml",
+        "hind": "29,98 €"
     },
     {
-        "name": "Chivas Regal 12 YO Scotch Whisky 40%vol 500ml",
-        "price": "26,98 €",
-        "store": "Prisma"
+        "nimi": "Chivas Regal 12 YO Scotch Whisky 40%vol 500ml",
+        "hind": "26,98 €"
     },
     {
-        "name": "Chivas Regal 12YO Scotch whisky 40%vol 700ml",
-        "price": "39,98 €",
-        "store": "Prisma"
+        "nimi": "Chivas Regal 12YO Scotch whisky 40%vol 700ml",
+        "hind": "39,98 €"
     },
     {
-        "name": "Huulepulk lipfinity 120",
-        "price": "15,88 €",
-        "store": "Prisma"
+        "nimi": "Huulepulk lipfinity 120",
+        "hind": "15,88 €"
     },
     {
-        "name": "Captain Morgan Dark rumm 40%vol 500ml",
-        "price": "16,48 €",
-        "store": "Prisma"
+        "nimi": "Captain Morgan Dark rumm 40%vol 500ml",
+        "hind": "16,48 €"
     },
     {
-        "name": "Raseerimisgeel Gillette Series kakaovõiga 200ml",
-        "price": "5,55 €",
-        "store": "Prisma"
+        "nimi": "Raseerimisgeel Gillette Series kakaovõiga 200ml",
+        "hind": "5,55 €"
     },
     {
-        "name": "Piper Heidsieck Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
-        "price": "46,98 €",
-        "store": "Prisma"
+        "nimi": "Piper Heidsieck Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "46,98 €"
     },
     {
-        "name": "Barton&Guestier Chardonnay Reserve KGT vein 13%vol 750ml",
-        "price": "9,28 €",
-        "store": "Prisma"
+        "nimi": "Barton&Guestier Chardonnay Reserve KGT vein 13%vol 750ml",
+        "hind": "9,28 €"
     },
     {
-        "name": "Barton&Guestier Merlot Reserve KGT vein 13,5%vol 750ml",
-        "price": "9,28 €",
-        "store": "Prisma"
+        "nimi": "Barton&Guestier Merlot Reserve KGT vein 13,5%vol 750ml",
+        "hind": "9,28 €"
     },
     {
-        "name": "Cointreau liköör 40%vol 500ml",
-        "price": "21,28 €",
-        "store": "Prisma"
+        "nimi": "Cointreau liköör 40%vol 500ml",
+        "hind": "21,28 €"
     },
     {
-        "name": "Lindt Excellence Dark 99% kakaosisaldusega tume šokolaad 50 g",
-        "price": "5,50 €",
-        "store": "Prisma"
+        "nimi": "Lindt Excellence Dark 99% kakaosisaldusega tume šokolaad 50 g",
+        "hind": "5,50 €"
     },
     {
-        "name": "Courvoisier VS Cognac 40%vol 500 ml",
-        "price": "34,98 €",
-        "store": "Prisma"
+        "nimi": "Courvoisier VS Cognac 40%vol 500 ml",
+        "hind": "34,98 €"
     },
     {
-        "name": "Courvoisier VSOP Cognac 40%vol 700 ml",
-        "price": "59,98 €",
-        "store": "Prisma"
+        "nimi": "Courvoisier VSOP Cognac 40%vol 700 ml",
+        "hind": "59,98 €"
     },
     {
-        "name": "Veuve Clicquot Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
-        "price": "64,98 €",
-        "store": "Prisma"
+        "nimi": "Veuve Clicquot Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "64,98 €"
     },
     {
-        "name": "Evian looduslik mineraalvesi 500 ml",
-        "price": "1,18 €",
-        "store": "Prisma"
+        "nimi": "Evian looduslik mineraalvesi 500 ml",
+        "hind": "1,18 €"
     },
     {
-        "name": "Evian looduslik mineraalvesi 1,5 L",
-        "price": "2,15 €",
-        "store": "Prisma"
+        "nimi": "Evian looduslik mineraalvesi 1,5 L",
+        "hind": "2,15 €"
     },
     {
-        "name": "Bonduelle valged oad tomatikastmes 430 g",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Bonduelle valged oad tomatikastmes 430 g",
+        "hind": "1,98 €"
     },
     {
-        "name": "Bonduelle mais 530/360 g",
-        "price": "2,15 €",
-        "store": "Prisma"
+        "nimi": "Bonduelle mais 530/360 g",
+        "hind": "2,15 €"
     },
     {
-        "name": "Bonduelle suured herned klaaspurgis 530/375 g, 580 ml",
-        "price": "2,53 €",
-        "store": "Prisma"
+        "nimi": "Bonduelle suured herned klaaspurgis 530/375 g, 580 ml",
+        "hind": "2,53 €"
     },
     {
-        "name": "Bonduelle punased oad maisiga 430g",
-        "price": "2,73 €",
-        "store": "Prisma"
+        "nimi": "Bonduelle punased oad maisiga 430g",
+        "hind": "2,73 €"
     },
     {
-        "name": "Bonduelle herned 212ml/130g",
-        "price": "1,45 €",
-        "store": "Prisma"
+        "nimi": "Bonduelle herned 212ml/130g",
+        "hind": "1,45 €"
     },
     {
-        "name": "Raseerija Bic Flex 4-tera comfort 3tk",
-        "price": "3,38 €",
-        "store": "Prisma"
+        "nimi": "Raseerija Bic Flex 4-tera comfort 3tk",
+        "hind": "3,38 €"
     },
     {
-        "name": "Raseerija 3-tera senstitive 4tk",
-        "price": "2,19 €",
-        "store": "Prisma"
+        "nimi": "Raseerija 3-tera senstitive 4tk",
+        "hind": "2,19 €"
     },
     {
-        "name": "Koogivorm 27 cm, klaas",
-        "price": "10,10 €",
-        "store": "Prisma"
+        "nimi": "Koogivorm 27 cm, klaas",
+        "hind": "10,10 €"
     },
     {
-        "name": "Porto Cruz Tawny KPN liköörvein 19%vol 750ml",
-        "price": "16,98 €",
-        "store": "Prisma"
+        "nimi": "Porto Cruz Tawny KPN liköörvein 19%vol 750ml",
+        "hind": "16,98 €"
     },
     {
-        "name": "Study sirklikarp 2 osa",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Study sirklikarp 2 osa",
+        "hind": "3,95 €"
     },
     {
-        "name": "Maped väike joonlaudade komplekt",
-        "price": "1,05 €",
-        "store": "Prisma"
+        "nimi": "Maped väike joonlaudade komplekt",
+        "hind": "1,05 €"
     },
     {
-        "name": "Desperados õlu 5,9%vol 330 ml",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Desperados õlu 5,9%vol 330 ml",
+        "hind": "2,25 €"
     },
     {
-        "name": "Vittel mineraalvesi 1,5L",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "Vittel mineraalvesi 1,5L",
+        "hind": "1,55 €"
     },
     {
-        "name": "Vittel vesi, 500 ml",
-        "price": "1,08 €",
-        "store": "Prisma"
+        "nimi": "Vittel vesi, 500 ml",
+        "hind": "1,08 €"
     },
     {
-        "name": "Vittel Karboniseerimata mineraalvesi 750 ml",
-        "price": "1,25 €",
-        "store": "Prisma"
+        "nimi": "Vittel Karboniseerimata mineraalvesi 750 ml",
+        "hind": "1,25 €"
     },
     {
-        "name": "PERRIER MINERAALVESI 1 L",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "PERRIER MINERAALVESI 1 L",
+        "hind": "1,55 €"
     },
     {
-        "name": "Moet&Chandon Brut Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
-        "price": "48,98 €",
-        "store": "Prisma"
+        "nimi": "Moet&Chandon Brut Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "48,98 €"
     },
     {
-        "name": "Moet&Chandon Brut Imperial Rose Champagne KPN kvaliteetvahuvein 12%vol 750ml",
-        "price": "65,98 €",
-        "store": "Prisma"
+        "nimi": "Moet&Chandon Brut Imperial Rose Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "65,98 €"
     },
     {
-        "name": "Moet&Chandon Nectar Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
-        "price": "58,98 €",
-        "store": "Prisma"
+        "nimi": "Moet&Chandon Nectar Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "58,98 €"
     },
     {
-        "name": "Martell VS Cognac 40%vol 350ml",
-        "price": "20,98 €",
-        "store": "Prisma"
+        "nimi": "Martell VS Cognac 40%vol 350ml",
+        "hind": "20,98 €"
     },
     {
-        "name": "President kitsejuust Sainte Maure, 200 g",
-        "price": "5,07 €",
-        "store": "Prisma"
+        "nimi": "President kitsejuust Sainte Maure, 200 g",
+        "hind": "5,07 €"
     },
     {
-        "name": "President Brie valgehallitusjuust, 200 g",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "President Brie valgehallitusjuust, 200 g",
+        "hind": "3,98 €"
     },
     {
-        "name": "Hennessy XO Cognac 40%vol 350ml, karbis",
-        "price": "123,98 €",
-        "store": "Prisma"
+        "nimi": "Hennessy XO Cognac 40%vol 350ml, karbis",
+        "hind": "123,98 €"
     },
     {
-        "name": "Hennessy VS Cognac 350ml",
-        "price": "19,85 €",
-        "store": "Prisma"
+        "nimi": "Hennessy VS Cognac 350ml",
+        "hind": "19,85 €"
     },
     {
-        "name": "Hennessy VS Cognac 40%vol 500ml",
-        "price": "26,98 €",
-        "store": "Prisma"
+        "nimi": "Hennessy VS Cognac 40%vol 500ml",
+        "hind": "26,98 €"
     },
     {
-        "name": "Hennessy VSOP Cognac 40%vol 700ml",
-        "price": "59,98 €",
-        "store": "Prisma"
+        "nimi": "Hennessy VSOP Cognac 40%vol 700ml",
+        "hind": "59,98 €"
     },
     {
-        "name": "Meukow VS Cognac 40%vol 700ml",
-        "price": "29,98 €",
-        "store": "Prisma"
+        "nimi": "Meukow VS Cognac 40%vol 700ml",
+        "hind": "29,98 €"
     },
     {
-        "name": "Meukow VSOP Cognac 40%vol 700ml",
-        "price": "49,29 €",
-        "store": "Prisma"
+        "nimi": "Meukow VSOP Cognac 40%vol 700ml",
+        "hind": "49,29 €"
     },
     {
-        "name": "JP. Chenet VSOP Brandy 36%vol 700ml",
-        "price": "18,98 €",
-        "store": "Prisma"
+        "nimi": "JP. Chenet VSOP Brandy 36%vol 700ml",
+        "hind": "18,98 €"
     },
     {
-        "name": "Claude Chatelier XO Cognac 40%vol 700ml",
-        "price": "72,98 €",
-        "store": "Prisma"
+        "nimi": "Claude Chatelier XO Cognac 40%vol 700ml",
+        "hind": "72,98 €"
     },
     {
-        "name": "Chateau De Montifaud VSOP Cognac 700ml",
-        "price": "54,98 €",
-        "store": "Prisma"
+        "nimi": "Chateau De Montifaud VSOP Cognac 700ml",
+        "hind": "54,98 €"
     },
     {
-        "name": "Maybelline Great lash ripsmetušš must",
-        "price": "10,48 €",
-        "store": "Prisma"
+        "nimi": "Maybelline Great lash ripsmetušš must",
+        "hind": "10,48 €"
     },
     {
-        "name": "Vegeta üldmaitseaine 75 g",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "Vegeta üldmaitseaine 75 g",
+        "hind": "0,85 €"
     },
     {
-        "name": "Podravka Vegeta 200 g",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Podravka Vegeta 200 g",
+        "hind": "1,98 €"
     },
     {
-        "name": "Rexona spreideodorant Cobalt 150ml",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Rexona spreideodorant Cobalt 150ml",
+        "hind": "2,48 €"
     },
     {
-        "name": "Ritter Sport valge šokolaad tervete metspähklitega 100g",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Ritter Sport valge šokolaad tervete metspähklitega 100g",
+        "hind": "2,95 €"
     },
     {
-        "name": "Ritter Sport tume šokolaad tervete metspähklitega 100g",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Ritter Sport tume šokolaad tervete metspähklitega 100g",
+        "hind": "2,95 €"
     },
     {
-        "name": "Käserei Juust CAMBOZOLA 70% 150g",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Käserei Juust CAMBOZOLA 70% 150g",
+        "hind": "3,95 €"
     },
     {
-        "name": "Käserei Sinihallitusjuust Dorblu, 100 g",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Käserei Sinihallitusjuust Dorblu, 100 g",
+        "hind": "1,68 €"
     },
     {
-        "name": "MAOAM Kracher, närimiskommid 200g",
-        "price": "2,15 €",
-        "store": "Prisma"
+        "nimi": "MAOAM Kracher, närimiskommid 200g",
+        "hind": "2,15 €"
     },
     {
-        "name": "Bergader Bavaria blu sinihallitusjuust, 175 g",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Bergader Bavaria blu sinihallitusjuust, 175 g",
+        "hind": "3,95 €"
     },
     {
-        "name": "Bergader Bavaria blu sinihallitusjuust, 150 g",
-        "price": "3,45 €",
-        "store": "Prisma"
+        "nimi": "Bergader Bavaria blu sinihallitusjuust, 150 g",
+        "hind": "3,45 €"
     },
     {
-        "name": "Kohvifiltrid valged 1 x 4 / 80",
-        "price": "4,16 €",
-        "store": "Prisma"
+        "nimi": "Kohvifiltrid valged 1 x 4 / 80",
+        "hind": "4,16 €"
     },
     {
-        "name": "Zewa Majapidamispaber Wisch&Weg Design 2 rulli",
-        "price": "5,78 €",
-        "store": "Prisma"
+        "nimi": "Zewa Majapidamispaber Wisch&Weg Design 2 rulli",
+        "hind": "5,78 €"
     },
     {
-        "name": "Dr. Zenzen Liebfraumilch Rheinhessen KPN vein 9,5%vol 750 ml",
-        "price": "6,75 €",
-        "store": "Prisma"
+        "nimi": "Dr. Zenzen Liebfraumilch Rheinhessen KPN vein 9,5%vol 750 ml",
+        "hind": "6,75 €"
     },
     {
-        "name": "Kinder Surprise Maxi üllatusmuna 100 g",
-        "price": "5,24 €",
-        "store": "Prisma"
+        "nimi": "Kinder Surprise Maxi üllatusmuna 100 g",
+        "hind": "5,24 €"
     },
     {
-        "name": "Kinder Bueno boonuspakk 129g",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Kinder Bueno boonuspakk 129g",
+        "hind": "2,88 €"
     },
     {
-        "name": "Kinder Maxi King batoon, 35g",
-        "price": "1,17 €",
-        "store": "Prisma"
+        "nimi": "Kinder Maxi King batoon, 35g",
+        "hind": "1,17 €"
     },
     {
-        "name": "Föön Remington D3015",
-        "price": "33,95 €",
-        "store": "Prisma"
+        "nimi": "Föön Remington D3015",
+        "hind": "33,95 €"
     },
     {
-        "name": "Toffifee kommikarp 125 g",
-        "price": "2,35 €",
-        "store": "Prisma"
+        "nimi": "Toffifee kommikarp 125 g",
+        "hind": "2,35 €"
     },
     {
-        "name": "Merci šokolaadiassortii 400 g",
-        "price": "11,88 €",
-        "store": "Prisma"
+        "nimi": "Merci šokolaadiassortii 400 g",
+        "hind": "11,88 €"
     },
     {
-        "name": "Toffifee 400 G Toffifee",
-        "price": "7,28 €",
-        "store": "Prisma"
+        "nimi": "Toffifee 400 G Toffifee",
+        "hind": "7,28 €"
     },
     {
-        "name": "Merci Assorted Selection assortii 250 g",
-        "price": "6,88 €",
-        "store": "Prisma"
+        "nimi": "Merci Assorted Selection assortii 250 g",
+        "hind": "6,88 €"
     },
     {
-        "name": "MERCI Milk assortii piimašokolaadist 250g",
-        "price": "6,88 €",
-        "store": "Prisma"
+        "nimi": "MERCI Milk assortii piimašokolaadist 250g",
+        "hind": "6,88 €"
     },
     {
-        "name": "Merci tumeda shokolaadi assortii 250g",
-        "price": "6,88 €",
-        "store": "Prisma"
+        "nimi": "Merci tumeda shokolaadi assortii 250g",
+        "hind": "6,88 €"
     },
     {
-        "name": "Toffifee jõulu maiustused 3x125g",
-        "price": "7,71 €",
-        "store": "Prisma"
+        "nimi": "Toffifee jõulu maiustused 3x125g",
+        "hind": "7,71 €"
     },
     {
-        "name": "Schöfferhofer Weissbier õlu 5%vol 500ml",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Schöfferhofer Weissbier õlu 5%vol 500ml",
+        "hind": "2,25 €"
     },
     {
-        "name": "Wella juukselakk hydrostyle 250ml",
-        "price": "4,78 €",
-        "store": "Prisma"
+        "nimi": "Wella juukselakk hydrostyle 250ml",
+        "hind": "4,78 €"
     },
     {
-        "name": "Sierra Gold Reposado Tequila 38%vol 500ml",
-        "price": "18,28 €",
-        "store": "Prisma"
+        "nimi": "Sierra Gold Reposado Tequila 38%vol 500ml",
+        "hind": "18,28 €"
     },
     {
-        "name": "Sierra Blanco Tequila piiritusjook 38%vol 500ml",
-        "price": "18,28 €",
-        "store": "Prisma"
+        "nimi": "Sierra Blanco Tequila piiritusjook 38%vol 500ml",
+        "hind": "18,28 €"
     },
     {
-        "name": "Paulaner Hefe-Weisbier õlu 5,5%vol 500 ml",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Paulaner Hefe-Weisbier õlu 5,5%vol 500 ml",
+        "hind": "2,48 €"
     },
     {
-        "name": "Jägermeister liköör 35%vol 700ml",
-        "price": "20,49 €",
-        "store": "Prisma"
+        "nimi": "Jägermeister liköör 35%vol 700ml",
+        "hind": "20,49 €"
     },
     {
-        "name": "Jägermeister liköör 35%vol 350ml",
-        "price": "12,35 €",
-        "store": "Prisma"
+        "nimi": "Jägermeister liköör 35%vol 350ml",
+        "hind": "12,35 €"
     },
     {
-        "name": "Jägermeister liköör 35%vol 500ml",
-        "price": "13,98 €",
-        "store": "Prisma"
+        "nimi": "Jägermeister liköör 35%vol 500ml",
+        "hind": "13,98 €"
     },
     {
-        "name": "Old Spice pulkdeodorant Wolfthorn 50ml",
-        "price": "3,78 €",
-        "store": "Prisma"
+        "nimi": "Old Spice pulkdeodorant Wolfthorn 50ml",
+        "hind": "3,78 €"
     },
     {
-        "name": "Mozart südamed karbis 80 g",
-        "price": "7,38 €",
-        "store": "Prisma"
+        "nimi": "Mozart südamed karbis 80 g",
+        "hind": "7,38 €"
     },
     {
-        "name": "Mozart piimašokolaad pistaatsiamartsipani ja sarapuupähkli täidisega 100g",
-        "price": "5,75 €",
-        "store": "Prisma"
+        "nimi": "Mozart piimašokolaad pistaatsiamartsipani ja sarapuupähkli täidisega 100g",
+        "hind": "5,75 €"
     },
     {
-        "name": "Vahetusfilter Aquaphor B15",
-        "price": "4,70 €",
-        "store": "Prisma"
+        "nimi": "Vahetusfilter Aquaphor B15",
+        "hind": "4,70 €"
     },
     {
-        "name": "Blokus",
-        "price": "39,95 €",
-        "store": "Prisma"
+        "nimi": "Blokus",
+        "hind": "39,95 €"
     },
     {
-        "name": "Rakvere Pihvid 530 g",
-        "price": "5,28 €",
-        "store": "Prisma"
+        "nimi": "Rakvere Pihvid 530 g",
+        "hind": "5,28 €"
     },
     {
-        "name": "Kalev Pilveke piimabatoonike 150 g",
-        "price": "2,38 €",
-        "store": "Prisma"
+        "nimi": "Kalev Pilveke piimabatoonike 150 g",
+        "hind": "2,38 €"
     },
     {
-        "name": "Kalev Lily jõhvikamaitseline marmelaadikompvek 175 g",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Kalev Lily jõhvikamaitseline marmelaadikompvek 175 g",
+        "hind": "2,48 €"
     },
     {
-        "name": "Kalev Mesikäpp batoonike 150 g",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Kalev Mesikäpp batoonike 150 g",
+        "hind": "2,48 €"
     },
     {
-        "name": "Kalev Bitter tume šokolaad 100 g",
-        "price": "2,94 €",
-        "store": "Prisma"
+        "nimi": "Kalev Bitter tume šokolaad 100 g",
+        "hind": "2,94 €"
     },
     {
-        "name": "Saku Manchester Punane õlu 4,2%vol 500ml",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Saku Manchester Punane õlu 4,2%vol 500ml",
+        "hind": "1,75 €"
     },
     {
-        "name": "Saku Mõdu 4%vol 500ml muu alkohoolne jook",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Saku Mõdu 4%vol 500ml muu alkohoolne jook",
+        "hind": "1,85 €"
     },
     {
-        "name": "Tere Küüslaugu-juustu dipikaste, 200 g",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Tere Küüslaugu-juustu dipikaste, 200 g",
+        "hind": "1,35 €"
     },
     {
-        "name": "Emma Kakao kohupiimakreem, 150 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Emma Kakao kohupiimakreem, 150 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Emma Rosina kohupiimakreem 150 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Emma Rosina kohupiimakreem 150 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Emma Vanilje kohupiimakreem, 150 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Emma Vanilje kohupiimakreem, 150 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Tere Või 82%, 200 g",
-        "price": "2,79 €",
-        "store": "Prisma"
+        "nimi": "Tere Või 82%, 200 g",
+        "hind": "2,79 €"
     },
     {
-        "name": "Tere Laktoosivaba kohupiimapasta, 300 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Tere Laktoosivaba kohupiimapasta, 300 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Tere Banaani kohupiimapasta, 300 g",
-        "price": "1,09 €",
-        "store": "Prisma"
+        "nimi": "Tere Banaani kohupiimapasta, 300 g",
+        "hind": "1,09 €"
     },
     {
-        "name": "Tere Rosina kohupiimapasta, 300 g",
-        "price": "1,09 €",
-        "store": "Prisma"
+        "nimi": "Tere Rosina kohupiimapasta, 300 g",
+        "hind": "1,09 €"
     },
     {
-        "name": "Vana Tallinn liköör 40%vol 500ml",
-        "price": "11,25 €",
-        "store": "Prisma"
+        "nimi": "Vana Tallinn liköör 40%vol 500ml",
+        "hind": "11,25 €"
     },
     {
-        "name": "Vana Tallinn liköör 45%vol 500ml",
-        "price": "12,55 €",
-        "store": "Prisma"
+        "nimi": "Vana Tallinn liköör 45%vol 500ml",
+        "hind": "12,55 €"
     },
     {
-        "name": "Vana Tallinn kooreliköör 16%vol 500ml",
-        "price": "7,68 €",
-        "store": "Prisma"
+        "nimi": "Vana Tallinn kooreliköör 16%vol 500ml",
+        "hind": "7,68 €"
     },
     {
-        "name": "Vana Tallinn Chocolate Cream liköör 16%vol 500ml",
-        "price": "7,68 €",
-        "store": "Prisma"
+        "nimi": "Vana Tallinn Chocolate Cream liköör 16%vol 500ml",
+        "hind": "7,68 €"
     },
     {
-        "name": "A. Le Coq Premium hele õlu 4,7%vol 500ml",
-        "price": "1,65 €",
-        "store": "Prisma"
+        "nimi": "A. Le Coq Premium hele õlu 4,7%vol 500ml",
+        "hind": "1,65 €"
     },
     {
-        "name": "A. Le Coq Porter tume õlu 6,5%vol 500ml",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "A. Le Coq Porter tume õlu 6,5%vol 500ml",
+        "hind": "1,85 €"
     },
     {
-        "name": "Tõmmu Hiid tume õlu 4,7%vol 500ml",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Tõmmu Hiid tume õlu 4,7%vol 500ml",
+        "hind": "1,68 €"
     },
     {
-        "name": "Farmi Koorene jogurt Polka maasikatega, 400 g",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "Farmi Koorene jogurt Polka maasikatega, 400 g",
+        "hind": "1,29 €"
     },
     {
-        "name": "Farmi Koorene mustikajogurt, 400 g",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "Farmi Koorene mustikajogurt, 400 g",
+        "hind": "1,29 €"
     },
     {
-        "name": "Farmi Köögi toorjuust, 400 g",
-        "price": "3,69 €",
-        "store": "Prisma"
+        "nimi": "Farmi Köögi toorjuust, 400 g",
+        "hind": "3,69 €"
     },
     {
-        "name": "Farmi Toorjuust küüslauguga, 150 g",
-        "price": "2,28 €",
-        "store": "Prisma"
+        "nimi": "Farmi Toorjuust küüslauguga, 150 g",
+        "hind": "2,28 €"
     },
     {
-        "name": "Farmi Toorjuust murulauguga, 150 g",
-        "price": "2,28 €",
-        "store": "Prisma"
+        "nimi": "Farmi Toorjuust murulauguga, 150 g",
+        "hind": "2,28 €"
     },
     {
-        "name": "Farmi Toorjuust originaal, 150 g",
-        "price": "2,28 €",
-        "store": "Prisma"
+        "nimi": "Farmi Toorjuust originaal, 150 g",
+        "hind": "2,28 €"
     },
     {
-        "name": "Farmi Jogurt leiva-pähkli, 400 g",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "Farmi Jogurt leiva-pähkli, 400 g",
+        "hind": "1,29 €"
     },
     {
-        "name": "Gefilus Mustikajogurt, 380 g",
-        "price": "1,48 €",
-        "store": "Prisma"
+        "nimi": "Gefilus Mustikajogurt, 380 g",
+        "hind": "1,48 €"
     },
     {
-        "name": "Gefilus Virsiku-papaia jogurt, 380 g",
-        "price": "1,48 €",
-        "store": "Prisma"
+        "nimi": "Gefilus Virsiku-papaia jogurt, 380 g",
+        "hind": "1,48 €"
     },
     {
-        "name": "Emma kohupiimakreem maasika 150 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Emma kohupiimakreem maasika 150 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Emma Banaani kohupiimakreem, 150 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Emma Banaani kohupiimakreem, 150 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Valio Juust Atleet Originaal, viilutatud, 150 g",
-        "price": "1,58 €",
-        "store": "Prisma"
+        "nimi": "Valio Juust Atleet Originaal, viilutatud, 150 g",
+        "hind": "1,58 €"
     },
     {
-        "name": "Valio Juust Atleet Light, viilutatud, 150 g",
-        "price": "2,05 €",
-        "store": "Prisma"
+        "nimi": "Valio Juust Atleet Light, viilutatud, 150 g",
+        "hind": "2,05 €"
     },
     {
-        "name": "Karums Karums koorekreem vanilliga, 150 g",
-        "price": "1,05 €",
-        "store": "Prisma"
+        "nimi": "Karums Karums koorekreem vanilliga, 150 g",
+        "hind": "1,05 €"
     },
     {
-        "name": "Karums Koorekreem šokolaadiga 150 g",
-        "price": "1,05 €",
-        "store": "Prisma"
+        "nimi": "Karums Koorekreem šokolaadiga 150 g",
+        "hind": "1,05 €"
     },
     {
-        "name": "Karums Karamelli koorekreem, 150 g",
-        "price": "1,05 €",
-        "store": "Prisma"
+        "nimi": "Karums Karamelli koorekreem, 150 g",
+        "hind": "1,05 €"
     },
     {
-        "name": "Karums Vanilli glasuurkohuke, 45 g",
-        "price": "0,48 €",
-        "store": "Prisma"
+        "nimi": "Karums Vanilli glasuurkohuke, 45 g",
+        "hind": "0,48 €"
     },
     {
-        "name": "Karums Kookose glasuurkohuke, 45 g",
-        "price": "0,51 €",
-        "store": "Prisma"
+        "nimi": "Karums Kookose glasuurkohuke, 45 g",
+        "hind": "0,51 €"
     },
     {
-        "name": "Karums Karamelli glasuurkohuke, 45 g",
-        "price": "0,51 €",
-        "store": "Prisma"
+        "nimi": "Karums Karamelli glasuurkohuke, 45 g",
+        "hind": "0,51 €"
     },
     {
-        "name": "Karums Šokolaadi glasuurkohuke, 45 g",
-        "price": "0,51 €",
-        "store": "Prisma"
+        "nimi": "Karums Šokolaadi glasuurkohuke, 45 g",
+        "hind": "0,51 €"
     },
     {
-        "name": "Vici Kalapulgad 250 g",
-        "price": "0,95 €",
-        "store": "Prisma"
+        "nimi": "Vici Kalapulgad 250 g",
+        "hind": "0,95 €"
     },
     {
-        "name": "Vici Heeringafilee Traditsiooniline 240 G",
-        "price": "3,09 €",
-        "store": "Prisma"
+        "nimi": "Vici Heeringafilee Traditsiooniline 240 G",
+        "hind": "3,09 €"
     },
     {
-        "name": "Vici Krevetid Soolvees 100/200G",
-        "price": "5,19 €",
-        "store": "Prisma"
+        "nimi": "Vici Krevetid Soolvees 100/200G",
+        "hind": "5,19 €"
     },
     {
-        "name": "Vici Surimist Pulgad, Jahutatud, 300G",
-        "price": "3,88 €",
-        "store": "Prisma"
+        "nimi": "Vici Surimist Pulgad, Jahutatud, 300G",
+        "hind": "3,88 €"
     },
     {
-        "name": "Vici Lumekrabi Krabimait.Pulgad Surimi 150G",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Vici Lumekrabi Krabimait.Pulgad Surimi 150G",
+        "hind": "2,25 €"
     },
     {
-        "name": "Basilur must tee 4 seasons Winter Tea purutee 100g",
-        "price": "3,93 €",
-        "store": "Prisma"
+        "nimi": "Basilur must tee 4 seasons Winter Tea purutee 100g",
+        "hind": "3,93 €"
     },
     {
-        "name": "Veres baklazaanipüree, 500ml",
-        "price": "4,06 €",
-        "store": "Prisma"
+        "nimi": "Veres baklazaanipüree, 500ml",
+        "hind": "4,06 €"
     },
     {
-        "name": "Ararat 3Yo Brandy 40%vol 500ml",
-        "price": "15,98 €",
-        "store": "Prisma"
+        "nimi": "Ararat 3Yo Brandy 40%vol 500ml",
+        "hind": "15,98 €"
     },
     {
-        "name": "Ararat 5YO Brandy 40%vol 500ml",
-        "price": "17,98 €",
-        "store": "Prisma"
+        "nimi": "Ararat 5YO Brandy 40%vol 500ml",
+        "hind": "17,98 €"
     },
     {
-        "name": "Wine Man Pirosmani Red GT vein 11,5%vol 750ml",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Wine Man Pirosmani Red GT vein 11,5%vol 750ml",
+        "hind": "7,48 €"
     },
     {
-        "name": "Wine Man Pirosmani White GT vein 11,5%vol 750ml",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Wine Man Pirosmani White GT vein 11,5%vol 750ml",
+        "hind": "7,48 €"
     },
     {
-        "name": "Welly mudelauto 1:60-64, erinevad",
-        "price": "2,69 €",
-        "store": "Prisma"
+        "nimi": "Welly mudelauto 1:60-64, erinevad",
+        "hind": "2,69 €"
     },
     {
-        "name": "Heinz aedoad tomatikastmes, 415g",
-        "price": "2,35 €",
-        "store": "Prisma"
+        "nimi": "Heinz aedoad tomatikastmes, 415g",
+        "hind": "2,35 €"
     },
     {
-        "name": "Heinz sojakaste 150 ml",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Heinz sojakaste 150 ml",
+        "hind": "2,58 €"
     },
     {
-        "name": "Mars šokolaadibatoon 51 g",
-        "price": "1,14 €",
-        "store": "Prisma"
+        "nimi": "Mars šokolaadibatoon 51 g",
+        "hind": "1,14 €"
     },
     {
-        "name": "Old Spice habemeajamisjärgne näovesi Whitewater 100ml",
-        "price": "6,85 €",
-        "store": "Prisma"
+        "nimi": "Old Spice habemeajamisjärgne näovesi Whitewater 100ml",
+        "hind": "6,85 €"
     },
     {
-        "name": "After Eight 200 g piparmünditäidisega šokolaad",
-        "price": "4,48 €",
-        "store": "Prisma"
+        "nimi": "After Eight 200 g piparmünditäidisega šokolaad",
+        "hind": "4,48 €"
     },
     {
-        "name": "After Eight kommikarp 400g",
-        "price": "8,25 €",
-        "store": "Prisma"
+        "nimi": "After Eight kommikarp 400g",
+        "hind": "8,25 €"
     },
     {
-        "name": "Johnnie Walker Red Label Scotch Whisky 40%vol 1L",
-        "price": "31,98 €",
-        "store": "Prisma"
+        "nimi": "Johnnie Walker Red Label Scotch Whisky 40%vol 1L",
+        "hind": "31,98 €"
     },
     {
-        "name": "Johnnie Walker Red Label Whisky 40%vol 500ml",
-        "price": "11,88 €",
-        "store": "Prisma"
+        "nimi": "Johnnie Walker Red Label Whisky 40%vol 500ml",
+        "hind": "11,88 €"
     },
     {
-        "name": "Johnnie Walker Black Label Whisky 40%vol 500ml",
-        "price": "22,98 €",
-        "store": "Prisma"
+        "nimi": "Johnnie Walker Black Label Whisky 40%vol 500ml",
+        "hind": "22,98 €"
     },
     {
-        "name": "Singleton 12YO Single Malt Scotch Whisky 40%vol 700ml",
-        "price": "39,98 €",
-        "store": "Prisma"
+        "nimi": "Singleton 12YO Single Malt Scotch Whisky 40%vol 700ml",
+        "hind": "39,98 €"
     },
     {
-        "name": "Captain Morgan Spiced Gold piiritusjook 35%vol 500ml",
-        "price": "10,98 €",
-        "store": "Prisma"
+        "nimi": "Captain Morgan Spiced Gold piiritusjook 35%vol 500ml",
+        "hind": "10,98 €"
     },
     {
-        "name": "Captain Morgan Spiced Gold rumm 35%vol 700ml",
-        "price": "14,98 €",
-        "store": "Prisma"
+        "nimi": "Captain Morgan Spiced Gold rumm 35%vol 700ml",
+        "hind": "14,98 €"
     },
     {
-        "name": "Beefeater London Dry Gin 40%vol 700ml",
-        "price": "20,85 €",
-        "store": "Prisma"
+        "nimi": "Beefeater London Dry Gin 40%vol 700ml",
+        "hind": "20,85 €"
     },
     {
-        "name": "Bushmills Original Irish Whisky 40%vol 700 ml",
-        "price": "23,98 €",
-        "store": "Prisma"
+        "nimi": "Bushmills Original Irish Whisky 40%vol 700 ml",
+        "hind": "23,98 €"
     },
     {
-        "name": "Bushmills 10YO Irish Whisky 40%vol 700ml Karbis",
-        "price": "35,56 €",
-        "store": "Prisma"
+        "nimi": "Bushmills 10YO Irish Whisky 40%vol 700ml Karbis",
+        "hind": "35,56 €"
     },
     {
-        "name": "Ballantine´s Blended Scotch Whisky 40%vol 1l",
-        "price": "26,98 €",
-        "store": "Prisma"
+        "nimi": "Ballantine´s Blended Scotch Whisky 40%vol 1l",
+        "hind": "26,98 €"
     },
     {
-        "name": "Ballantine´s Finest Blended Scotch Whisky 700ml",
-        "price": "18,98 €",
-        "store": "Prisma"
+        "nimi": "Ballantine´s Finest Blended Scotch Whisky 700ml",
+        "hind": "18,98 €"
     },
     {
-        "name": "Jim Beam White Label whisky 40%Vol 700ml",
-        "price": "27,98 €",
-        "store": "Prisma"
+        "nimi": "Jim Beam White Label whisky 40%Vol 700ml",
+        "hind": "27,98 €"
     },
     {
-        "name": "Malibu liköör 21%vol 500ml",
-        "price": "15,98 €",
-        "store": "Prisma"
+        "nimi": "Malibu liköör 21%vol 500ml",
+        "hind": "15,98 €"
     },
     {
-        "name": "Greenall's Original London dry gin 40%vol 700ml",
-        "price": "19,98 €",
-        "store": "Prisma"
+        "nimi": "Greenall's Original London dry gin 40%vol 700ml",
+        "hind": "19,98 €"
     },
     {
-        "name": "Grant's Triple Wood whisky 40%vol 1l",
-        "price": "21,98 €",
-        "store": "Prisma"
+        "nimi": "Grant's Triple Wood whisky 40%vol 1l",
+        "hind": "21,98 €"
     },
     {
-        "name": "Grant´s Family Reserve Scotch Whisky 40%vol 500ml",
-        "price": "11,98 €",
-        "store": "Prisma"
+        "nimi": "Grant´s Family Reserve Scotch Whisky 40%vol 500ml",
+        "hind": "11,98 €"
     },
     {
-        "name": "Billington's hele suhkur Muscovado 500g",
-        "price": "2,37 €",
-        "store": "Prisma"
+        "nimi": "Billington's hele suhkur Muscovado 500g",
+        "hind": "2,37 €"
     },
     {
-        "name": "Billington's billington`s tume muscovado 500g",
-        "price": "2,18 €",
-        "store": "Prisma"
+        "nimi": "Billington's billington`s tume muscovado 500g",
+        "hind": "2,18 €"
     },
     {
-        "name": "Billington's granuleeritud suhkur 1 kg",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "Billington's granuleeritud suhkur 1 kg",
+        "hind": "3,98 €"
     },
     {
-        "name": "Bacardi Carta Blanca rumm 37,5%vol 500ml",
-        "price": "12,98 €",
-        "store": "Prisma"
+        "nimi": "Bacardi Carta Blanca rumm 37,5%vol 500ml",
+        "hind": "12,98 €"
     },
     {
-        "name": "Bacardi Oakheart Original Spiced muu piiritusjook 32,5%vol 500ml",
-        "price": "11,98 €",
-        "store": "Prisma"
+        "nimi": "Bacardi Oakheart Original Spiced muu piiritusjook 32,5%vol 500ml",
+        "hind": "11,98 €"
     },
     {
-        "name": "Grey Goose viin 40%vol 700ml",
-        "price": "42,98 €",
-        "store": "Prisma"
+        "nimi": "Grey Goose viin 40%vol 700ml",
+        "hind": "42,98 €"
     },
     {
-        "name": "Jameson Irish Whisky 40%vol 700ml",
-        "price": "20,98 €",
-        "store": "Prisma"
+        "nimi": "Jameson Irish Whisky 40%vol 700ml",
+        "hind": "20,98 €"
     },
     {
-        "name": "Jameson Whiskey 40%vol 1l",
-        "price": "35,75 €",
-        "store": "Prisma"
+        "nimi": "Jameson Whiskey 40%vol 1l",
+        "hind": "35,75 €"
     },
     {
-        "name": "Jameson Irish Whisky 40%vol 500ml",
-        "price": "19,58 €",
-        "store": "Prisma"
+        "nimi": "Jameson Irish Whisky 40%vol 500ml",
+        "hind": "19,58 €"
     },
     {
-        "name": "Baileys Irish Cream liköör 17%vol 700ml",
-        "price": "22,98 €",
-        "store": "Prisma"
+        "nimi": "Baileys Irish Cream liköör 17%vol 700ml",
+        "hind": "22,98 €"
     },
     {
-        "name": "Tullamore Dew Irish Whisky 40%vol 1L",
-        "price": "29,98 €",
-        "store": "Prisma"
+        "nimi": "Tullamore Dew Irish Whisky 40%vol 1L",
+        "hind": "29,98 €"
     },
     {
-        "name": "Tullamore Dew Irish Whisky 40%vol 700ml",
-        "price": "18,98 €",
-        "store": "Prisma"
+        "nimi": "Tullamore Dew Irish Whisky 40%vol 700ml",
+        "hind": "18,98 €"
     },
     {
-        "name": "Max Factor ripsmetušš Masterpiece veekindel must",
-        "price": "13,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš Masterpiece veekindel must",
+        "hind": "13,88 €"
     },
     {
-        "name": "Max Factor ripsmetušš Masterpiece Rich Black",
-        "price": "13,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš Masterpiece Rich Black",
+        "hind": "13,88 €"
     },
     {
-        "name": "Max Factor ripsmetušš Masterpiece Black",
-        "price": "13,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš Masterpiece Black",
+        "hind": "13,88 €"
     },
     {
-        "name": "Max Factor ripsmetušš Masterpiece must/pruun",
-        "price": "13,88 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš Masterpiece must/pruun",
+        "hind": "13,88 €"
     },
     {
-        "name": "Max Factor ripsmetušš False Lash must/pruun",
-        "price": "15,95 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš False Lash must/pruun",
+        "hind": "15,95 €"
     },
     {
-        "name": "Max Factor ripsmetušš False Lash must",
-        "price": "15,95 €",
-        "store": "Prisma"
+        "nimi": "Max Factor ripsmetušš False Lash must",
+        "hind": "15,95 €"
     },
     {
-        "name": "Kohvikapslid Dolce Gusto Cappuccino 200 g",
-        "price": "6,60 €",
-        "store": "Prisma"
+        "nimi": "Kohvikapslid Dolce Gusto Cappuccino 200 g",
+        "hind": "6,60 €"
     },
     {
-        "name": "Mootoriõli Mobil 1 FS x2 5W-50 1l",
-        "price": "14,90 €",
-        "store": "Prisma"
+        "nimi": "Mootoriõli Mobil 1 FS x2 5W-50 1l",
+        "hind": "14,90 €"
     },
     {
-        "name": "Jim Beam White L. 4YO Whisky 40%vol 500ml",
-        "price": "14,98 €",
-        "store": "Prisma"
+        "nimi": "Jim Beam White L. 4YO Whisky 40%vol 500ml",
+        "hind": "14,98 €"
     },
     {
-        "name": "Jack Daniel's Tennessee Whisky 40%vol 1L",
-        "price": "42,37 €",
-        "store": "Prisma"
+        "nimi": "Jack Daniel's Tennessee Whisky 40%vol 1L",
+        "hind": "42,37 €"
     },
     {
-        "name": "Jack Daniel's Tennessee Whisky 40%vol 700ml",
-        "price": "24,98 €",
-        "store": "Prisma"
+        "nimi": "Jack Daniel's Tennessee Whisky 40%vol 700ml",
+        "hind": "24,98 €"
     },
     {
-        "name": "7 Days kakaokreemi täidisega sarvesai 60 g",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": "7 Days kakaokreemi täidisega sarvesai 60 g",
+        "hind": "0,88 €"
     },
     {
-        "name": "Metaxa 5* Muu Piiritusjook 38%vol 500ml",
-        "price": "13,55 €",
-        "store": "Prisma"
+        "nimi": "Metaxa 5* Muu Piiritusjook 38%vol 500ml",
+        "hind": "13,55 €"
     },
     {
-        "name": "Metaxa 7Yo muu piiritusjook 40%vol 700ml",
-        "price": "28,28 €",
-        "store": "Prisma"
+        "nimi": "Metaxa 7Yo muu piiritusjook 40%vol 700ml",
+        "hind": "28,28 €"
     },
     {
-        "name": "Trühvlid Lemaitre Ballotin 175g",
-        "price": "3,48 €",
-        "store": "Prisma"
+        "nimi": "Trühvlid Lemaitre Ballotin 175g",
+        "hind": "3,48 €"
     },
     {
-        "name": "Alpro sojadessert maasika-banaani/virsiku-pirni 4x125g",
-        "price": "3,45 €",
-        "store": "Prisma"
+        "nimi": "Alpro sojadessert maasika-banaani/virsiku-pirni 4x125g",
+        "hind": "3,45 €"
     },
     {
-        "name": "Alpro sojajook vanilje, laktoosivaba, vegan, 250 ml",
-        "price": "1,45 €",
-        "store": "Prisma"
+        "nimi": "Alpro sojajook vanilje, laktoosivaba, vegan, 250 ml",
+        "hind": "1,45 €"
     },
     {
-        "name": "Alpro kaltsiumiga sojajook, 1 l",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Alpro kaltsiumiga sojajook, 1 l",
+        "hind": "2,68 €"
     },
     {
-        "name": "Raffaello kommikarp 40 g",
-        "price": "1,48 €",
-        "store": "Prisma"
+        "nimi": "Raffaello kommikarp 40 g",
+        "hind": "1,48 €"
     },
     {
-        "name": "KINDER Schoko-Bons 125g",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "KINDER Schoko-Bons 125g",
+        "hind": "2,88 €"
     },
     {
-        "name": "Coca-Cola karastusjook purk 330ml",
-        "price": "0,89 €",
-        "store": "Prisma"
+        "nimi": "Coca-Cola karastusjook purk 330ml",
+        "hind": "0,89 €"
     },
     {
-        "name": "Sprite karastusjook 2L",
-        "price": "2,78 €",
-        "store": "Prisma"
+        "nimi": "Sprite karastusjook 2L",
+        "hind": "2,78 €"
     },
     {
-        "name": "Mateus Rose vein 11%vol 750ml",
-        "price": "10,18 €",
-        "store": "Prisma"
+        "nimi": "Mateus Rose vein 11%vol 750ml",
+        "hind": "10,18 €"
     },
     {
-        "name": "Paakuv kassiliiv Cattia 5 L - looduslikust bentoniidist - 99% tolmuvaba.",
-        "price": "5,88 €",
-        "store": "Prisma"
+        "nimi": "Paakuv kassiliiv Cattia 5 L - looduslikust bentoniidist - 99% tolmuvaba.",
+        "hind": "5,88 €"
     },
     {
-        "name": "Danzka vodka 40%vol 500ml",
-        "price": "12,19 €",
-        "store": "Prisma"
+        "nimi": "Danzka vodka 40%vol 500ml",
+        "hind": "12,19 €"
     },
     {
-        "name": "TYMBARK Kaktuse maitseline multimahlajook 1l",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "TYMBARK Kaktuse maitseline multimahlajook 1l",
+        "hind": "1,88 €"
     },
     {
-        "name": "TYMBARK Laimi maitseline multimahlajook 1l",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "TYMBARK Laimi maitseline multimahlajook 1l",
+        "hind": "1,88 €"
     },
     {
-        "name": "Tükeldatud Aeduba 400 g",
-        "price": "1,47 €",
-        "store": "Prisma"
+        "nimi": "Tükeldatud Aeduba 400 g",
+        "hind": "1,47 €"
     },
     {
-        "name": "Hortex Brokolisegu 400 g",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Hortex Brokolisegu 400 g",
+        "hind": "1,88 €"
     },
     {
-        "name": "Hortex Mexico Segu 400 g",
-        "price": "1,72 €",
-        "store": "Prisma"
+        "nimi": "Hortex Mexico Segu 400 g",
+        "hind": "1,72 €"
     },
     {
-        "name": "Hortex Köögiviljad Praadimiseks 400 g",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Hortex Köögiviljad Praadimiseks 400 g",
+        "hind": "1,75 €"
     },
     {
-        "name": "Itaalia Maitseainetega Köögiviljad Praadimiseks 400 g",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Itaalia Maitseainetega Köögiviljad Praadimiseks 400 g",
+        "hind": "1,98 €"
     },
     {
-        "name": "Hortex Metsaseened, 400 g",
-        "price": "3,55 €",
-        "store": "Prisma"
+        "nimi": "Hortex Metsaseened, 400 g",
+        "hind": "3,55 €"
     },
     {
-        "name": "Hortex Kirsid kivideta 300 g",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Hortex Kirsid kivideta 300 g",
+        "hind": "2,98 €"
     },
     {
-        "name": "Hortex Mustsõstar 300 g",
-        "price": "3,68 €",
-        "store": "Prisma"
+        "nimi": "Hortex Mustsõstar 300 g",
+        "hind": "3,68 €"
     },
     {
-        "name": "Puzzle 100 osa",
-        "price": "5,79 €",
-        "store": "Prisma"
+        "nimi": "Puzzle 100 osa",
+        "hind": "5,79 €"
     },
     {
-        "name": "Puzzle 4In1",
-        "price": "7,99 €",
-        "store": "Prisma"
+        "nimi": "Puzzle 4In1",
+        "hind": "7,99 €"
     },
     {
-        "name": "Calgon Power veepehmendaja 500 g",
-        "price": "5,58 €",
-        "store": "Prisma"
+        "nimi": "Calgon Power veepehmendaja 500 g",
+        "hind": "5,58 €"
     },
     {
-        "name": "President Camembert juust, 120 g",
-        "price": "2,29 €",
-        "store": "Prisma"
+        "nimi": "President Camembert juust, 120 g",
+        "hind": "2,29 €"
     },
     {
-        "name": "President Brie valgehallitusjuust, 125 g",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "President Brie valgehallitusjuust, 125 g",
+        "hind": "2,85 €"
     },
     {
-        "name": "President Brie valgehallitusjuust pähklitega, 125 g",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "President Brie valgehallitusjuust pähklitega, 125 g",
+        "hind": "2,85 €"
     },
     {
-        "name": "Robertson Winery Natural Sweet GT vein 7,5%vol 750ml",
-        "price": "7,75 €",
-        "store": "Prisma"
+        "nimi": "Robertson Winery Natural Sweet GT vein 7,5%vol 750ml",
+        "hind": "7,75 €"
     },
     {
-        "name": "Robertson Winery Natural Sweet Red GT vein 9%vol 750ml",
-        "price": "7,75 €",
-        "store": "Prisma"
+        "nimi": "Robertson Winery Natural Sweet Red GT vein 9%vol 750ml",
+        "hind": "7,75 €"
     },
     {
-        "name": "Atria Spinatipannkook 400G",
-        "price": "3,18 €",
-        "store": "Prisma"
+        "nimi": "Atria Spinatipannkook 400G",
+        "hind": "3,18 €"
     },
     {
-        "name": "Valio Soolata või 82%, 500 g",
-        "price": "7,25 €",
-        "store": "Prisma"
+        "nimi": "Valio Soolata või 82%, 500 g",
+        "hind": "7,25 €"
     },
     {
-        "name": "Valio Aura sinihallitusjuust 29%, 170 g",
-        "price": "3,65 €",
-        "store": "Prisma"
+        "nimi": "Valio Aura sinihallitusjuust 29%, 170 g",
+        "hind": "3,65 €"
     },
     {
-        "name": "Valio maasikakissell magusainetega 1kg",
-        "price": "3,39 €",
-        "store": "Prisma"
+        "nimi": "Valio maasikakissell magusainetega 1kg",
+        "hind": "3,39 €"
     },
     {
-        "name": "HK Sinine Ring 580G",
-        "price": "3,88 €",
-        "store": "Prisma"
+        "nimi": "HK Sinine Ring 580G",
+        "hind": "3,88 €"
     },
     {
-        "name": "HK Maksavorst singiga 300g",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "HK Maksavorst singiga 300g",
+        "hind": "2,85 €"
     },
     {
-        "name": "HK Maksavorst 10% 300g",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "HK Maksavorst 10% 300g",
+        "hind": "2,85 €"
     },
     {
-        "name": "HK Lihakas Sinkvorst, Viil 250G",
-        "price": "2,45 €",
-        "store": "Prisma"
+        "nimi": "HK Lihakas Sinkvorst, Viil 250G",
+        "hind": "2,45 €"
     },
     {
-        "name": "HK Kabanoss 400G",
-        "price": "3,45 €",
-        "store": "Prisma"
+        "nimi": "HK Kabanoss 400G",
+        "hind": "3,45 €"
     },
     {
-        "name": "Via Pasta Bolognese 335 g",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Via Pasta Bolognese 335 g",
+        "hind": "3,95 €"
     },
     {
-        "name": "Kastrul 1,5 l kaanega, r/v teras",
-        "price": "22,90 €",
-        "store": "Prisma"
+        "nimi": "Kastrul 1,5 l kaanega, r/v teras",
+        "hind": "22,90 €"
     },
     {
-        "name": "Ahjuvorm 44,5x29x5 cm",
-        "price": "12,20 €",
-        "store": "Prisma"
+        "nimi": "Ahjuvorm 44,5x29x5 cm",
+        "hind": "12,20 €"
     },
     {
-        "name": "Muffinivorm 12-muffinile",
-        "price": "12,90 €",
-        "store": "Prisma"
+        "nimi": "Muffinivorm 12-muffinile",
+        "hind": "12,90 €"
     },
     {
-        "name": "Leiva-ja keeksivorm 24 cm",
-        "price": "8,50 €",
-        "store": "Prisma"
+        "nimi": "Leiva-ja keeksivorm 24 cm",
+        "hind": "8,50 €"
     },
     {
-        "name": "Keeksivorm auguga 22 cm",
-        "price": "11,20 €",
-        "store": "Prisma"
+        "nimi": "Keeksivorm auguga 22 cm",
+        "hind": "11,20 €"
     },
     {
-        "name": "Koogivorm 24 cm lahtikäiv",
-        "price": "10,90 €",
-        "store": "Prisma"
+        "nimi": "Koogivorm 24 cm lahtikäiv",
+        "hind": "10,90 €"
     },
     {
-        "name": "Koogivorm 26 cm lahtikäiv",
-        "price": "12,90 €",
-        "store": "Prisma"
+        "nimi": "Koogivorm 26 cm lahtikäiv",
+        "hind": "12,90 €"
     },
     {
-        "name": "Koogivorm 28 cm lahtikäiv",
-        "price": "11,80 €",
-        "store": "Prisma"
+        "nimi": "Koogivorm 28 cm lahtikäiv",
+        "hind": "11,80 €"
     },
     {
-        "name": "Saunaämber 5 l, alumiinium, bambusest käepide",
-        "price": "45,65 €",
-        "store": "Prisma"
+        "nimi": "Saunaämber 5 l, alumiinium, bambusest käepide",
+        "hind": "45,65 €"
     },
     {
-        "name": "Leilikulp 43 cm alumiinium, bambusest käepide",
-        "price": "18,90 €",
-        "store": "Prisma"
+        "nimi": "Leilikulp 43 cm alumiinium, bambusest käepide",
+        "hind": "18,90 €"
     },
     {
-        "name": "Saunatermomeeter",
-        "price": "19,95 €",
-        "store": "Prisma"
+        "nimi": "Saunatermomeeter",
+        "hind": "19,95 €"
     },
     {
-        "name": "Finn Crisp Original Taste õhukesed näkileivad 400 g",
-        "price": "3,59 €",
-        "store": "Prisma"
+        "nimi": "Finn Crisp Original Taste õhukesed näkileivad 400 g",
+        "hind": "3,59 €"
     },
     {
-        "name": "Finn Crisp Multigrain õhukesed näkileivad 175 g",
-        "price": "2,33 €",
-        "store": "Prisma"
+        "nimi": "Finn Crisp Multigrain õhukesed näkileivad 175 g",
+        "hind": "2,33 €"
     },
     {
-        "name": "Finn Crisp Traditional näkileivad 200 g",
-        "price": "2,28 €",
-        "store": "Prisma"
+        "nimi": "Finn Crisp Traditional näkileivad 200 g",
+        "hind": "2,28 €"
     },
     {
-        "name": "Finn Crisp õhukesed näkileivad köömnetega 200g",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Finn Crisp õhukesed näkileivad köömnetega 200g",
+        "hind": "1,95 €"
     },
     {
-        "name": "Herkkumaa võileivakurk 670/360 g",
-        "price": "3,91 €",
-        "store": "Prisma"
+        "nimi": "Herkkumaa võileivakurk 670/360 g",
+        "hind": "3,91 €"
     },
     {
-        "name": "Herkkumaa kornišonid 670/360 g",
-        "price": "6,29 €",
-        "store": "Prisma"
+        "nimi": "Herkkumaa kornišonid 670/360 g",
+        "hind": "6,29 €"
     },
     {
-        "name": "Herkkumaa kurgisektorid 670/360 g",
-        "price": "3,51 €",
-        "store": "Prisma"
+        "nimi": "Herkkumaa kurgisektorid 670/360 g",
+        "hind": "3,51 €"
     },
     {
-        "name": "Herkkumaa õunamoos, 460 g",
-        "price": "2,89 €",
-        "store": "Prisma"
+        "nimi": "Herkkumaa õunamoos, 460 g",
+        "hind": "2,89 €"
     },
     {
-        "name": "Herkkumaa apelsinimarmelaad, 450 g",
-        "price": "3,29 €",
-        "store": "Prisma"
+        "nimi": "Herkkumaa apelsinimarmelaad, 450 g",
+        "hind": "3,29 €"
     },
     {
-        "name": "Seep LV tundlikule nahale 100g",
-        "price": "1,45 €",
-        "store": "Prisma"
+        "nimi": "Seep LV tundlikule nahale 100g",
+        "hind": "1,45 €"
     },
     {
-        "name": "Paulig filtrikohv Juhla Mokka 500 g",
-        "price": "8,85 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtrikohv Juhla Mokka 500 g",
+        "hind": "8,85 €"
     },
     {
-        "name": "Paulig filtrikohv Classic 500 g",
-        "price": "6,98 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtrikohv Classic 500 g",
+        "hind": "6,98 €"
     },
     {
-        "name": "Paulig filtrikohv Classic 250 g keskmine röst",
-        "price": "6,85 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtrikohv Classic 250 g keskmine röst",
+        "hind": "6,85 €"
     },
     {
-        "name": "Paulig filtrikohv Classic 100 g keskmine röst",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtrikohv Classic 100 g keskmine röst",
+        "hind": "2,58 €"
     },
     {
-        "name": "Paulig filtri- ja presskannukohv Presidentti Gold 500 g",
-        "price": "7,98 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtri- ja presskannukohv Presidentti Gold 500 g",
+        "hind": "7,98 €"
     },
     {
-        "name": "Fazer Kismet šokolaadibatoon 55 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Fazer Kismet šokolaadibatoon 55 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Karl Fazer pähklite ja rosinatega piimašokolaad 200 g",
-        "price": "4,58 €",
-        "store": "Prisma"
+        "nimi": "Karl Fazer pähklite ja rosinatega piimašokolaad 200 g",
+        "hind": "4,58 €"
     },
     {
-        "name": "Karl Fazer piimašokolaad tervete metsapähklitega 200 g",
-        "price": "4,48 €",
-        "store": "Prisma"
+        "nimi": "Karl Fazer piimašokolaad tervete metsapähklitega 200 g",
+        "hind": "4,48 €"
     },
     {
-        "name": "Fazer Geisha šokolaad 100 g",
-        "price": "2,15 €",
-        "store": "Prisma"
+        "nimi": "Fazer Geisha šokolaad 100 g",
+        "hind": "2,15 €"
     },
     {
-        "name": "Fazer Geisha šokolaadibatoon 37 g",
-        "price": "0,80 €",
-        "store": "Prisma"
+        "nimi": "Fazer Geisha šokolaadibatoon 37 g",
+        "hind": "0,80 €"
     },
     {
-        "name": "Fazer Wienernougat kommikarp 210g",
-        "price": "7,98 €",
-        "store": "Prisma"
+        "nimi": "Fazer Wienernougat kommikarp 210g",
+        "hind": "7,98 €"
     },
     {
-        "name": "Fazer Rohelised kuulid 260g",
-        "price": "3,40 €",
-        "store": "Prisma"
+        "nimi": "Fazer Rohelised kuulid 260g",
+        "hind": "3,40 €"
     },
     {
-        "name": "Fazer likööritäidisega šokolaadikompvekid 150 g",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "Fazer likööritäidisega šokolaadikompvekid 150 g",
+        "hind": "3,98 €"
     },
     {
-        "name": "Fazer Geisha šokolaadikommikarp 150 g",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "Fazer Geisha šokolaadikommikarp 150 g",
+        "hind": "3,98 €"
     },
     {
-        "name": "Dumle Original kommikott 120g",
-        "price": "2,55 €",
-        "store": "Prisma"
+        "nimi": "Dumle Original kommikott 120g",
+        "hind": "2,55 €"
     },
     {
-        "name": "Lõikur SingleStep S, vaheliti liikuvate teradega",
-        "price": "34,95 €",
-        "store": "Prisma"
+        "nimi": "Lõikur SingleStep S, vaheliti liikuvate teradega",
+        "hind": "34,95 €"
     },
     {
-        "name": "Hekikäärid SingleStep HS22 lainelise teraga, 19x58 cm",
-        "price": "34,90 €",
-        "store": "Prisma"
+        "nimi": "Hekikäärid SingleStep HS22 lainelise teraga, 19x58 cm",
+        "hind": "34,90 €"
     },
     {
-        "name": "Fiskars XSharp noa- ja kirveteritaja",
-        "price": "18,90 €",
-        "store": "Prisma"
+        "nimi": "Fiskars XSharp noa- ja kirveteritaja",
+        "hind": "18,90 €"
     },
     {
-        "name": "Turun sinappi mahedamaitseline sinep 275 g",
-        "price": "2,47 €",
-        "store": "Prisma"
+        "nimi": "Turun sinappi mahedamaitseline sinep 275 g",
+        "hind": "2,47 €"
     },
     {
-        "name": "Leivon, laktoosivabad õhukesed kaeraküpsised 250 g",
-        "price": "2,23 €",
-        "store": "Prisma"
+        "nimi": "Leivon, laktoosivabad õhukesed kaeraküpsised 250 g",
+        "hind": "2,23 €"
     },
     {
-        "name": "Saarioinen maasikamoos 500 g",
-        "price": "4,56 €",
-        "store": "Prisma"
+        "nimi": "Saarioinen maasikamoos 500 g",
+        "hind": "4,56 €"
     },
     {
-        "name": "Saarioinen vaarikamoos 500 g",
-        "price": "4,95 €",
-        "store": "Prisma"
+        "nimi": "Saarioinen vaarikamoos 500 g",
+        "hind": "4,95 €"
     },
     {
-        "name": "Saarioinen pohlamoos 500 g",
-        "price": "4,33 €",
-        "store": "Prisma"
+        "nimi": "Saarioinen pohlamoos 500 g",
+        "hind": "4,33 €"
     },
     {
-        "name": "Panda klassikalised šokolaadikompvekid 150g",
-        "price": "4,55 €",
-        "store": "Prisma"
+        "nimi": "Panda klassikalised šokolaadikompvekid 150g",
+        "hind": "4,55 €"
     },
     {
-        "name": "Panda peolaua šokolaadikompvekid 300g",
-        "price": "4,92 €",
-        "store": "Prisma"
+        "nimi": "Panda peolaua šokolaadikompvekid 300g",
+        "hind": "4,92 €"
     },
     {
-        "name": "Panda Täytelaku lagritsad 250 g",
-        "price": "2,35 €",
-        "store": "Prisma"
+        "nimi": "Panda Täytelaku lagritsad 250 g",
+        "hind": "2,35 €"
     },
     {
-        "name": "Heegelnõel nr.1,5/12cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.1,5/12cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Sukavardad nr.2/20cm alumiinium",
-        "price": "5,00 €",
-        "store": "Prisma"
+        "nimi": "Sukavardad nr.2/20cm alumiinium",
+        "hind": "5,00 €"
     },
     {
-        "name": "Sukavardad nr.2,5/20cm alumiinium",
-        "price": "5,00 €",
-        "store": "Prisma"
+        "nimi": "Sukavardad nr.2,5/20cm alumiinium",
+        "hind": "5,00 €"
     },
     {
-        "name": "Sukavardad nr.3/20cm alumiinium",
-        "price": "5,05 €",
-        "store": "Prisma"
+        "nimi": "Sukavardad nr.3/20cm alumiinium",
+        "hind": "5,05 €"
     },
     {
-        "name": "Sukavardad nr.3,5/20cm alumiinium",
-        "price": "5,05 €",
-        "store": "Prisma"
+        "nimi": "Sukavardad nr.3,5/20cm alumiinium",
+        "hind": "5,05 €"
     },
     {
-        "name": "Sukavardad nr.4/20cm alumiinum",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Sukavardad nr.4/20cm alumiinum",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.3/60cm alumiinium",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.3/60cm alumiinium",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.35/60cm alumiinium",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.35/60cm alumiinium",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.4/60cm alumiinium",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.4/60cm alumiinium",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.5/60cm alumiinium",
-        "price": "7,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.5/60cm alumiinium",
+        "hind": "7,05 €"
     },
     {
-        "name": "Heegelnõel nr.2/15cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.2/15cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel nr.2,5/15cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.2,5/15cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel nr.3/15cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.3/15cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel nr.3,5/15cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.3,5/15cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel nr.5/15cm alumiinium",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.5/15cm alumiinium",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel nr.6/15cm plast",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel nr.6/15cm plast",
+        "hind": "4,00 €"
     },
     {
-        "name": "Heegelnõel 7,0/15 cm plast",
-        "price": "4,00 €",
-        "store": "Prisma"
+        "nimi": "Heegelnõel 7,0/15 cm plast",
+        "hind": "4,00 €"
     },
     {
-        "name": "Ringvardad nr.3,5/80cm alumiinium",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.3,5/80cm alumiinium",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.4/80cm alumiinium",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.4/80cm alumiinium",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ringvardad nr.5/80cm alumiinium",
-        "price": "7,05 €",
-        "store": "Prisma"
+        "nimi": "Ringvardad nr.5/80cm alumiinium",
+        "hind": "7,05 €"
     },
     {
-        "name": "Kuusekard hõbe 25 mm * 5 m",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Kuusekard hõbe 25 mm * 5 m",
+        "hind": "1,98 €"
     },
     {
-        "name": "Lapin Kulta õlu 5,2%vol 500ml EI TEL",
-        "price": "1,58 €",
-        "store": "Prisma"
+        "nimi": "Lapin Kulta õlu 5,2%vol 500ml EI TEL",
+        "hind": "1,58 €"
     },
     {
-        "name": "Ibero juukseklamber 2 tk metall",
-        "price": "5,58 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklamber 2 tk metall",
+        "hind": "5,58 €"
     },
     {
-        "name": "Ibero juuksekumm must samet",
-        "price": "5,45 €",
-        "store": "Prisma"
+        "nimi": "Ibero juuksekumm must samet",
+        "hind": "5,45 €"
     },
     {
-        "name": "Ibero juukseehe",
-        "price": "5,58 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseehe",
+        "hind": "5,58 €"
     },
     {
-        "name": "Ibero juukselõksud 5 cm, 24 tk",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukselõksud 5 cm, 24 tk",
+        "hind": "2,98 €"
     },
     {
-        "name": "Ibero juukseklambrid 6 tk",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklambrid 6 tk",
+        "hind": "2,88 €"
     },
     {
-        "name": "Ibero juukseklambrid 6 tk",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklambrid 6 tk",
+        "hind": "2,88 €"
     },
     {
-        "name": "Ibero laste juukseaksessuaarid 30 tk",
-        "price": "4,25 €",
-        "store": "Prisma"
+        "nimi": "Ibero laste juukseaksessuaarid 30 tk",
+        "hind": "4,25 €"
     },
     {
-        "name": "Ibero juukseklamber 3 tk lastele",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklamber 3 tk lastele",
+        "hind": "2,88 €"
     },
     {
-        "name": "Ibero laste juukse aksessuaarid 16 tk",
-        "price": "3,48 €",
-        "store": "Prisma"
+        "nimi": "Ibero laste juukse aksessuaarid 16 tk",
+        "hind": "3,48 €"
     },
     {
-        "name": "Dansukker tume tükksuhkur fairtrade 500 g",
-        "price": "2,43 €",
-        "store": "Prisma"
+        "nimi": "Dansukker tume tükksuhkur fairtrade 500 g",
+        "hind": "2,43 €"
     },
     {
-        "name": "Muumi Baby püksmähkmed Walkers 6, 12-20kg, 36 tk",
-        "price": "12,79 €",
-        "store": "Prisma"
+        "nimi": "Muumi Baby püksmähkmed Walkers 6, 12-20kg, 36 tk",
+        "hind": "12,79 €"
     },
     {
-        "name": "Muumi Baby püksmäkmed Walkers 7, 16-26 kg, 34 tk",
-        "price": "12,79 €",
-        "store": "Prisma"
+        "nimi": "Muumi Baby püksmäkmed Walkers 7, 16-26 kg, 34 tk",
+        "hind": "12,79 €"
     },
     {
-        "name": "Vuokkoset Cotton Night hügieeniside 9 tk",
-        "price": "2,05 €",
-        "store": "Prisma"
+        "nimi": "Vuokkoset Cotton Night hügieeniside 9 tk",
+        "hind": "2,05 €"
     },
     {
-        "name": "Meira meresool 800 g",
-        "price": "1,51 €",
-        "store": "Prisma"
+        "nimi": "Meira meresool 800 g",
+        "hind": "1,51 €"
     },
     {
-        "name": "Lv pesuloputusvahend 750ml",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Lv pesuloputusvahend 750ml",
+        "hind": "2,48 €"
     },
     {
-        "name": "LV nõudepesuvahend 500ml",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "LV nõudepesuvahend 500ml",
+        "hind": "2,88 €"
     },
     {
-        "name": "Xz sh shampoon kohvi-vanilje 250ml",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Xz sh shampoon kohvi-vanilje 250ml",
+        "hind": "2,95 €"
     },
     {
-        "name": "Xz palsam kohvi-vanilje 200ml",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Xz palsam kohvi-vanilje 200ml",
+        "hind": "2,95 €"
     },
     {
-        "name": "Dušigeel LV 250ml",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Dušigeel LV 250ml",
+        "hind": "2,68 €"
     },
     {
-        "name": "Kotimaista Spinatisupp 400 g",
-        "price": "2,37 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Spinatisupp 400 g",
+        "hind": "2,37 €"
     },
     {
-        "name": "Kotimaista Külmutatud Mustikad 200 g",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Külmutatud Mustikad 200 g",
+        "hind": "2,48 €"
     },
     {
-        "name": "Coop Mozzarellapitsa 350 g",
-        "price": "2,63 €",
-        "store": "Prisma"
+        "nimi": "Coop Mozzarellapitsa 350 g",
+        "hind": "2,63 €"
     },
     {
-        "name": "Coop Vaarikad  ja Mustikad 250 g",
-        "price": "2,94 €",
-        "store": "Prisma"
+        "nimi": "Coop Vaarikad  ja Mustikad 250 g",
+        "hind": "2,94 €"
     },
     {
-        "name": "Xtra Kokteil-Riisipirukad 1,35 kg",
-        "price": "3,45 €",
-        "store": "Prisma"
+        "nimi": "Xtra Kokteil-Riisipirukad 1,35 kg",
+        "hind": "3,45 €"
     },
     {
-        "name": "Coop Kartuliröst 700 g",
-        "price": "2,43 €",
-        "store": "Prisma"
+        "nimi": "Coop Kartuliröst 700 g",
+        "hind": "2,43 €"
     },
     {
-        "name": "Coop Sirged Friikartulid 750 g",
-        "price": "1,82 €",
-        "store": "Prisma"
+        "nimi": "Coop Sirged Friikartulid 750 g",
+        "hind": "1,82 €"
     },
     {
-        "name": "Kotimaista Pitsapõhjad 4 tk 360 g",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Pitsapõhjad 4 tk 360 g",
+        "hind": "1,88 €"
     },
     {
-        "name": "Kotimaista Kartuli-Sibulasegu 1 kg",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Kartuli-Sibulasegu 1 kg",
+        "hind": "1,95 €"
     },
     {
-        "name": "Kotimaista Juurviljasegu 250 g",
-        "price": "0,76 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Juurviljasegu 250 g",
+        "hind": "0,76 €"
     },
     {
-        "name": "Kotimaista Juurviljasegu Suppidele 200 g",
-        "price": "0,60 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Juurviljasegu Suppidele 200 g",
+        "hind": "0,60 €"
     },
     {
-        "name": "Kotimaista Punasekoorelised Kartulisektorid 600 g",
-        "price": "2,05 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Punasekoorelised Kartulisektorid 600 g",
+        "hind": "2,05 €"
     },
     {
-        "name": "Kotimaista Rosmariini ja Oliivõliga Maitsestatud Koorega Kartulisektorid 450 g",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Rosmariini ja Oliivõliga Maitsestatud Koorega Kartulisektorid 450 g",
+        "hind": "1,78 €"
     },
     {
-        "name": "Coop Pitsa Americana 340 g",
-        "price": "3,04 €",
-        "store": "Prisma"
+        "nimi": "Coop Pitsa Americana 340 g",
+        "hind": "3,04 €"
     },
     {
-        "name": "Kotimaista Kaneelirullid 390 g",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Kaneelirullid 390 g",
+        "hind": "2,68 €"
     },
     {
-        "name": "Kotimaista Pohlad 200 g",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Pohlad 200 g",
+        "hind": "2,68 €"
     },
     {
-        "name": "Kotimaista Küüslaugukartulid 750 g",
-        "price": "2,43 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Küüslaugukartulid 750 g",
+        "hind": "2,43 €"
     },
     {
-        "name": "Karhu Lager õlu 5,3%vol 330ml",
-        "price": "1,28 €",
-        "store": "Prisma"
+        "nimi": "Karhu Lager õlu 5,3%vol 330ml",
+        "hind": "1,28 €"
     },
     {
-        "name": "Rainbow köögilapp 10tk",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Rainbow köögilapp 10tk",
+        "hind": "1,78 €"
     },
     {
-        "name": "Rainbow nõudepesuhari",
-        "price": "1,28 €",
-        "store": "Prisma"
+        "nimi": "Rainbow nõudepesuhari",
+        "hind": "1,28 €"
     },
     {
-        "name": "Rainbow juuksegeel strong 150ml",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Rainbow juuksegeel strong 150ml",
+        "hind": "1,98 €"
     },
     {
-        "name": "Rainbow õunalõhnaline jalavannisool väsinud jalgadele 500g",
-        "price": "4,75 €",
-        "store": "Prisma"
+        "nimi": "Rainbow õunalõhnaline jalavannisool väsinud jalgadele 500g",
+        "hind": "4,75 €"
     },
     {
-        "name": "Juuksegeel Rainbow meeste Super Strong pantenooli 150ml",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Juuksegeel Rainbow meeste Super Strong pantenooli 150ml",
+        "hind": "2,48 €"
     },
     {
-        "name": "Taskurätikud Rainbow 2 kihiline 100tk",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Taskurätikud Rainbow 2 kihiline 100tk",
+        "hind": "1,95 €"
     },
     {
-        "name": "Valgendaja Rainbow Original 750ml",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Valgendaja Rainbow Original 750ml",
+        "hind": "1,85 €"
     },
     {
-        "name": "Rainbow vedelseep Clouds 500ML",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Rainbow vedelseep Clouds 500ML",
+        "hind": "1,78 €"
     },
     {
-        "name": "Rainbow vedelseep 500ml marjad",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Rainbow vedelseep 500ml marjad",
+        "hind": "1,78 €"
     },
     {
-        "name": "Rainbow hari juurviljade pesemiseks",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Rainbow hari juurviljade pesemiseks",
+        "hind": "2,68 €"
     },
     {
-        "name": "Xtra nõudepesuhari",
-        "price": "0,55 €",
-        "store": "Prisma"
+        "nimi": "Xtra nõudepesuhari",
+        "hind": "0,55 €"
     },
     {
-        "name": "Rainbow põrandalapp 50x60 cm 2 tk",
-        "price": "2,28 €",
-        "store": "Prisma"
+        "nimi": "Rainbow põrandalapp 50x60 cm 2 tk",
+        "hind": "2,28 €"
     },
     {
-        "name": "Rainbow WC-hari alusega",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Rainbow WC-hari alusega",
+        "hind": "2,95 €"
     },
     {
-        "name": "Rainbow hari ja kühvel",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Rainbow hari ja kühvel",
+        "hind": "2,98 €"
     },
     {
-        "name": "Rainbow küürimishari",
-        "price": "3,58 €",
-        "store": "Prisma"
+        "nimi": "Rainbow küürimishari",
+        "hind": "3,58 €"
     },
     {
-        "name": "Rainbow pesemishari",
-        "price": "3,35 €",
-        "store": "Prisma"
+        "nimi": "Rainbow pesemishari",
+        "hind": "3,35 €"
     },
     {
-        "name": "Rainbow põrandahari + kühvel",
-        "price": "11,95 €",
-        "store": "Prisma"
+        "nimi": "Rainbow põrandahari + kühvel",
+        "hind": "11,95 €"
     },
     {
-        "name": "Rainbow puhastuslapp 18x20 cm 3 tk",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Rainbow puhastuslapp 18x20 cm 3 tk",
+        "hind": "0,98 €"
     },
     {
-        "name": "Rainbow antiikküünal 10tk valge",
-        "price": "6,48 €",
-        "store": "Prisma"
+        "nimi": "Rainbow antiikküünal 10tk valge",
+        "hind": "6,48 €"
     },
     {
-        "name": "Rainbow Lemon üldpuhastusvahend 1 l",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Rainbow Lemon üldpuhastusvahend 1 l",
+        "hind": "1,98 €"
     },
     {
-        "name": "Rainbow Regular pesugeel 1 l, 20 pesukorda",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Rainbow Regular pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
     },
     {
-        "name": "Rainbow Color pesugeel 1 l, 20 pesukorda",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Rainbow Color pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
     },
     {
-        "name": "Rainbow Sensitive pesugeel 1 l, 20 pesukorda",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Rainbow Sensitive pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
     },
     {
-        "name": "Rainbow torupuhastusvahend 1l",
-        "price": "1,48 €",
-        "store": "Prisma"
+        "nimi": "Rainbow torupuhastusvahend 1l",
+        "hind": "1,48 €"
     },
     {
-        "name": "Rainbow nõudepesumasina loputusvahend 500 ml",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Rainbow nõudepesumasina loputusvahend 500 ml",
+        "hind": "1,98 €"
     },
     {
-        "name": "Rainbow männiseep 1l",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Rainbow männiseep 1l",
+        "hind": "2,25 €"
     },
     {
-        "name": "Rainbow Black pesugeel 1 l, 20 pesukorda",
-        "price": "2,68 €",
-        "store": "Prisma"
+        "nimi": "Rainbow Black pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
     },
     {
-        "name": "Rainbow WC-hari alusega",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Rainbow WC-hari alusega",
+        "hind": "3,95 €"
     },
     {
-        "name": "Grillsüsi Rainbow 2,5kg",
-        "price": "5,99 €",
-        "store": "Prisma"
+        "nimi": "Grillsüsi Rainbow 2,5kg",
+        "hind": "5,99 €"
     },
     {
-        "name": "Coop lasagne durumpasta munapasta 500g",
-        "price": "2,63 €",
-        "store": "Prisma"
+        "nimi": "Coop lasagne durumpasta munapasta 500g",
+        "hind": "2,63 €"
     },
     {
-        "name": "Kotimaista nisujahu 2 kg",
-        "price": "0,70 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista nisujahu 2 kg",
+        "hind": "0,70 €"
     },
     {
-        "name": "Kotimaista sepikujahu 2 kg",
-        "price": "1,62 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista sepikujahu 2 kg",
+        "hind": "1,62 €"
     },
     {
-        "name": "Kotimaista kuklijahu 2 kg",
-        "price": "1,82 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kuklijahu 2 kg",
+        "hind": "1,82 €"
     },
     {
-        "name": "Coop fusilli durumpasta 500g",
-        "price": "1,38 €",
-        "store": "Prisma"
+        "nimi": "Coop fusilli durumpasta 500g",
+        "hind": "1,38 €"
     },
     {
-        "name": "Coop gnocchi durumpasta 500g",
-        "price": "1,38 €",
-        "store": "Prisma"
+        "nimi": "Coop gnocchi durumpasta 500g",
+        "hind": "1,38 €"
     },
     {
-        "name": "Coop fusilli durumpasta tomati ja spinatiga 500g",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "Coop fusilli durumpasta tomati ja spinatiga 500g",
+        "hind": "1,55 €"
     },
     {
-        "name": "Coop farfalle durumpasta tomati ja spinatiga 500g",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Coop farfalle durumpasta tomati ja spinatiga 500g",
+        "hind": "1,88 €"
     },
     {
-        "name": "Rainbow jasmiiniriis 1 kg",
-        "price": "2,75 €",
-        "store": "Prisma"
+        "nimi": "Rainbow jasmiiniriis 1 kg",
+        "hind": "2,75 €"
     },
     {
-        "name": "Kotimaista kartulitärklis 500 g",
-        "price": "1,62 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kartulitärklis 500 g",
+        "hind": "1,62 €"
     },
     {
-        "name": "Kotimaista kaerahelbed 1 kg",
-        "price": "0,50 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kaerahelbed 1 kg",
+        "hind": "0,50 €"
     },
     {
-        "name": "Kotimaista täisterakaerahelbed 850g mahe",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista täisterakaerahelbed 850g mahe",
+        "hind": "1,35 €"
     },
     {
-        "name": "Kotimaista kuivatatud herned 500 g",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kuivatatud herned 500 g",
+        "hind": "1,19 €"
     },
     {
-        "name": "Kotimaista neljaviljahelbed 750 g",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista neljaviljahelbed 750 g",
+        "hind": "1,15 €"
     },
     {
-        "name": "Rainbow pähklibatoonide 3-pakk, 105g",
-        "price": "2,12 €",
-        "store": "Prisma"
+        "nimi": "Rainbow pähklibatoonide 3-pakk, 105g",
+        "hind": "2,12 €"
     },
     {
-        "name": "Kotimaista kiirkaerahelbed 750 g",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kiirkaerahelbed 750 g",
+        "hind": "1,35 €"
     },
     {
-        "name": "Kotimaista shokolaadikaste, 200 ml",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista shokolaadikaste, 200 ml",
+        "hind": "1,75 €"
     },
     {
-        "name": "Kotimaista laktoosivaba vanillikaste, 200 ml",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista laktoosivaba vanillikaste, 200 ml",
+        "hind": "1,75 €"
     },
     {
-        "name": "Rainbow õunamarmelaad 300 g",
-        "price": "1,31 €",
-        "store": "Prisma"
+        "nimi": "Rainbow õunamarmelaad 300 g",
+        "hind": "1,31 €"
     },
     {
-        "name": "Kotimaista karamellikaste vähese laktoosi sisaldusega 200 ml",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista karamellikaste vähese laktoosi sisaldusega 200 ml",
+        "hind": "1,85 €"
     },
     {
-        "name": "Rainbow murakamoos 400 g",
-        "price": "7,31 €",
-        "store": "Prisma"
+        "nimi": "Rainbow murakamoos 400 g",
+        "hind": "7,31 €"
     },
     {
-        "name": "Kotimaista suhkrukuivik 400g",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista suhkrukuivik 400g",
+        "hind": "1,98 €"
     },
     {
-        "name": "Coop tex mex tortilla wrapid 320 g 8 tk",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Coop tex mex tortilla wrapid 320 g 8 tk",
+        "hind": "1,98 €"
     },
     {
-        "name": "Kotimaista nisujahu jahuparandajaga 2 kg",
-        "price": "2,57 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista nisujahu jahuparandajaga 2 kg",
+        "hind": "2,57 €"
     },
     {
-        "name": "Kotimaista nisujahu 1 kg, organic",
-        "price": "1,41 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista nisujahu 1 kg, organic",
+        "hind": "1,41 €"
     },
     {
-        "name": "Kotimaista terved punapeedid marinaadis 700 g",
-        "price": "2,33 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista terved punapeedid marinaadis 700 g",
+        "hind": "2,33 €"
     },
     {
-        "name": "Kotimaista marineeritud kurgid 1650 g",
-        "price": "5,15 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista marineeritud kurgid 1650 g",
+        "hind": "5,15 €"
     },
     {
-        "name": "Kotimaista manna 1 kg",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista manna 1 kg",
+        "hind": "1,15 €"
     },
     {
-        "name": "Xtra küpsetuspulber 225 g",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Xtra küpsetuspulber 225 g",
+        "hind": "1,78 €"
     },
     {
-        "name": "Xtra vanilliinsuhkur 225 g",
-        "price": "1,92 €",
-        "store": "Prisma"
+        "nimi": "Xtra vanilliinsuhkur 225 g",
+        "hind": "1,92 €"
     },
     {
-        "name": "X-tra piparmündinärimiskumm 180 g",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "X-tra piparmündinärimiskumm 180 g",
+        "hind": "2,98 €"
     },
     {
-        "name": "Coop täisteraspagetti 500g",
-        "price": "0,89 €",
-        "store": "Prisma"
+        "nimi": "Coop täisteraspagetti 500g",
+        "hind": "0,89 €"
     },
     {
-        "name": "Coop tex mex suured tortilla wrapid 370 g 6 tk",
-        "price": "1,59 €",
-        "store": "Prisma"
+        "nimi": "Coop tex mex suured tortilla wrapid 370 g 6 tk",
+        "hind": "1,59 €"
     },
     {
-        "name": "Kotimaista magusad kurgid viilutatud 680/350 g",
-        "price": "2,78 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista magusad kurgid viilutatud 680/350 g",
+        "hind": "2,78 €"
     },
     {
-        "name": "Kotimaista pannkoogi- ja vahvlijahu 250 g",
-        "price": "1,54 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista pannkoogi- ja vahvlijahu 250 g",
+        "hind": "1,54 €"
     },
     {
-        "name": "Kotimaista Kartuli-Sibulasegu 500 g",
-        "price": "1,01 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista Kartuli-Sibulasegu 500 g",
+        "hind": "1,01 €"
     },
     {
-        "name": "Coop täisteratortilla 370 g",
-        "price": "1,59 €",
-        "store": "Prisma"
+        "nimi": "Coop täisteratortilla 370 g",
+        "hind": "1,59 €"
     },
     {
-        "name": "Kotimaista kaneelikuivikud 400g",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kaneelikuivikud 400g",
+        "hind": "1,98 €"
     },
     {
-        "name": "Rainbow pirnipoolikud suhkruleemes 410/230 g",
-        "price": "2,15 €",
-        "store": "Prisma"
+        "nimi": "Rainbow pirnipoolikud suhkruleemes 410/230 g",
+        "hind": "2,15 €"
     },
     {
-        "name": "Kotimaista kurgisalat, 360 g",
-        "price": "2,67 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kurgisalat, 360 g",
+        "hind": "2,67 €"
     },
     {
-        "name": "Kotimaista kurgiviilud 680 g",
-        "price": "2,27 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kurgiviilud 680 g",
+        "hind": "2,27 €"
     },
     {
-        "name": "Kotimaista punapeedi viilud 700/470 g",
-        "price": "2,19 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista punapeedi viilud 700/470 g",
+        "hind": "2,19 €"
     },
     {
-        "name": "Kotimaista kurgisalat sinepiga, 360 g",
-        "price": "2,57 €",
-        "store": "Prisma"
+        "nimi": "Kotimaista kurgisalat sinepiga, 360 g",
+        "hind": "2,57 €"
     },
     {
-        "name": "Geisha Dark kommikarp 150g",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "Geisha Dark kommikarp 150g",
+        "hind": "3,98 €"
     },
     {
-        "name": "Elovena kiirkaerahelbed 500g",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Elovena kiirkaerahelbed 500g",
+        "hind": "1,88 €"
     },
     {
-        "name": "Lauamäng Torn",
-        "price": "16,95 €",
-        "store": "Prisma"
+        "nimi": "Lauamäng Torn",
+        "hind": "16,95 €"
     },
     {
-        "name": "Jääkaabits Murska metallservaga",
-        "price": "1,50 €",
-        "store": "Prisma"
+        "nimi": "Jääkaabits Murska metallservaga",
+        "hind": "1,50 €"
     },
     {
-        "name": "Paulig filtrikohv Presidentti keskmine röst 500 g",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Paulig filtrikohv Presidentti keskmine röst 500 g",
+        "hind": "7,48 €"
     },
     {
-        "name": "Paulig kohvioad Arabica keskmine röst 1 kg",
-        "price": "15,48 €",
-        "store": "Prisma"
+        "nimi": "Paulig kohvioad Arabica keskmine röst 1 kg",
+        "hind": "15,48 €"
     },
     {
-        "name": "Santa Maria marinaadisegu kurkidele 100 g",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria marinaadisegu kurkidele 100 g",
+        "hind": "1,35 €"
     },
     {
-        "name": "Linkosuo rukkisuupisted 160 g",
-        "price": "2,84 €",
-        "store": "Prisma"
+        "nimi": "Linkosuo rukkisuupisted 160 g",
+        "hind": "2,84 €"
     },
     {
-        "name": "Linkosuo küüslaugumaitselised rukkisuupisted 150 g",
-        "price": "2,84 €",
-        "store": "Prisma"
+        "nimi": "Linkosuo küüslaugumaitselised rukkisuupisted 150 g",
+        "hind": "2,84 €"
     },
     {
-        "name": "Bonne Premium, mangopüree, 0,5 l",
-        "price": "3,34 €",
-        "store": "Prisma"
+        "nimi": "Bonne Premium, mangopüree, 0,5 l",
+        "hind": "3,34 €"
     },
     {
-        "name": "Ibero ripsmekamm",
-        "price": "6,45 €",
-        "store": "Prisma"
+        "nimi": "Ibero ripsmekamm",
+        "hind": "6,45 €"
     },
     {
-        "name": "Ibero küüneviil 11,5 cm 6 tk liivapaber",
-        "price": "1,48 €",
-        "store": "Prisma"
+        "nimi": "Ibero küüneviil 11,5 cm 6 tk liivapaber",
+        "hind": "1,48 €"
     },
     {
-        "name": "Ibero lokirullid 28 mm, 5 tk",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero lokirullid 28 mm, 5 tk",
+        "hind": "2,98 €"
     },
     {
-        "name": "Ibero lokirullid 40 mm 4 tk",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero lokirullid 40 mm 4 tk",
+        "hind": "2,98 €"
     },
     {
-        "name": "Ibero küünetangid väiksed",
-        "price": "1,95 €",
-        "store": "Prisma"
+        "nimi": "Ibero küünetangid väiksed",
+        "hind": "1,95 €"
     },
     {
-        "name": "Lapponia Lakka liköör 21%vol 500ml",
-        "price": "13,98 €",
-        "store": "Prisma"
+        "nimi": "Lapponia Lakka liköör 21%vol 500ml",
+        "hind": "13,98 €"
     },
     {
-        "name": "Lapponia Polar Karpalo jõhvikaliköör 21%vol 500ml",
-        "price": "11,28 €",
-        "store": "Prisma"
+        "nimi": "Lapponia Polar Karpalo jõhvikaliköör 21%vol 500ml",
+        "hind": "11,28 €"
     },
     {
-        "name": "Sini vars 140cm",
-        "price": "14,35 €",
-        "store": "Prisma"
+        "nimi": "Sini vars 140cm",
+        "hind": "14,35 €"
     },
     {
-        "name": "Sini käsnlapp kuiv 18x2 cm 3tk",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Sini käsnlapp kuiv 18x2 cm 3tk",
+        "hind": "1,88 €"
     },
     {
-        "name": "Sini hari+kühvel keskmise varrega",
-        "price": "24,95 €",
-        "store": "Prisma"
+        "nimi": "Sini hari+kühvel keskmise varrega",
+        "hind": "24,95 €"
     },
     {
-        "name": "Sini WC-hari alusega",
-        "price": "5,25 €",
-        "store": "Prisma"
+        "nimi": "Sini WC-hari alusega",
+        "hind": "5,25 €"
     },
     {
-        "name": "Felix, viilutatud kurk marinaadis, 560 g",
-        "price": "3,09 €",
-        "store": "Prisma"
+        "nimi": "Felix, viilutatud kurk marinaadis, 560 g",
+        "hind": "3,09 €"
     },
     {
-        "name": "Felix, soolakurk, 400 g",
-        "price": "2,78 €",
-        "store": "Prisma"
+        "nimi": "Felix, soolakurk, 400 g",
+        "hind": "2,78 €"
     },
     {
-        "name": "Ibero juuksepannal sesonki plast",
-        "price": "4,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero juuksepannal sesonki plast",
+        "hind": "4,98 €"
     },
     {
-        "name": "Tsingtao õlu 4,7%vol 330ml",
-        "price": "2,48 €",
-        "store": "Prisma"
+        "nimi": "Tsingtao õlu 4,7%vol 330ml",
+        "hind": "2,48 €"
     },
     {
-        "name": "3D puzzle MIX",
-        "price": "8,99 €",
-        "store": "Prisma"
+        "nimi": "3D puzzle MIX",
+        "hind": "8,99 €"
     },
     {
-        "name": "Löfbergs filtrikohv Kharisma tume röst 500 g",
-        "price": "6,98 €",
-        "store": "Prisma"
+        "nimi": "Löfbergs filtrikohv Kharisma tume röst 500 g",
+        "hind": "6,98 €"
     },
     {
-        "name": "Dansukker demerara suhkur fairtrade 500 g",
-        "price": "2,23 €",
-        "store": "Prisma"
+        "nimi": "Dansukker demerara suhkur fairtrade 500 g",
+        "hind": "2,23 €"
     },
     {
-        "name": "Dansukker karamellsuhkur pruun 500 g",
-        "price": "2,67 €",
-        "store": "Prisma"
+        "nimi": "Dansukker karamellsuhkur pruun 500 g",
+        "hind": "2,67 €"
     },
     {
-        "name": "Libresse String pesukaitse 30tk",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Libresse String pesukaitse 30tk",
+        "hind": "1,85 €"
     },
     {
-        "name": "Rekorderlig Maasika-Laimi siider 4,5%vol 500ml",
-        "price": "2,08 €",
-        "store": "Prisma"
+        "nimi": "Rekorderlig Maasika-Laimi siider 4,5%vol 500ml",
+        "hind": "2,08 €"
     },
     {
-        "name": "Santa Maria kivisool 140 g",
-        "price": "4,18 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria kivisool 140 g",
+        "hind": "4,18 €"
     },
     {
-        "name": "Santa Maria bbq kuivmarinaadisegu universaalne 22 g",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria bbq kuivmarinaadisegu universaalne 22 g",
+        "hind": "1,15 €"
     },
     {
-        "name": "Santa Maria bbq kuivmarinaadisegu ürtidega 22 g",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria bbq kuivmarinaadisegu ürtidega 22 g",
+        "hind": "1,15 €"
     },
     {
-        "name": "Santa Maria teriyaki kaste 300 ml",
-        "price": "6,15 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria teriyaki kaste 300 ml",
+        "hind": "6,15 €"
     },
     {
-        "name": "Santa Maria magus tšillikaste 200 ml",
-        "price": "2,33 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria magus tšillikaste 200 ml",
+        "hind": "2,33 €"
     },
     {
-        "name": "Santa Maria tex mex dipikaste 250 g",
-        "price": "3,75 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria tex mex dipikaste 250 g",
+        "hind": "3,75 €"
     },
     {
-        "name": "Santa Maria  jalapeno roheline terav 215/110 g",
-        "price": "3,68 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria  jalapeno roheline terav 215/110 g",
+        "hind": "3,68 €"
     },
     {
-        "name": "Santa Maria tellicherry pipar 210 g veskis",
-        "price": "14,95 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria tellicherry pipar 210 g veskis",
+        "hind": "14,95 €"
     },
     {
-        "name": "Santa Maria kivisool 455 g veskis",
-        "price": "5,98 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria kivisool 455 g veskis",
+        "hind": "5,98 €"
     },
     {
-        "name": "Santa Maria tsillisädemed 275 g veskis",
-        "price": "8,98 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria tsillisädemed 275 g veskis",
+        "hind": "8,98 €"
     },
     {
-        "name": "Santa Maria marinaad teriyaki 75 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria marinaad teriyaki 75 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Santa Maria üldmarinaad 75 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria üldmarinaad 75 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Santa Maria klassikaline kanamarinaad 75 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Santa Maria klassikaline kanamarinaad 75 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Absolut vodka 40%vol 500ml",
-        "price": "9,98 €",
-        "store": "Prisma"
+        "nimi": "Absolut vodka 40%vol 500ml",
+        "hind": "9,98 €"
     },
     {
-        "name": "Absolut Vodka 40%vol 700ml",
-        "price": "18,95 €",
-        "store": "Prisma"
+        "nimi": "Absolut Vodka 40%vol 700ml",
+        "hind": "18,95 €"
     },
     {
-        "name": "Annas original piparkoogid 300 g",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Annas original piparkoogid 300 g",
+        "hind": "2,98 €"
     },
     {
-        "name": "Almondy Daimi kook 400 g",
-        "price": "8,73 €",
-        "store": "Prisma"
+        "nimi": "Almondy Daimi kook 400 g",
+        "hind": "8,73 €"
     },
     {
-        "name": "Tualettpaber Zewa Deluxe 3-kih 8 rulli",
-        "price": "4,85 €",
-        "store": "Prisma"
+        "nimi": "Tualettpaber Zewa Deluxe 3-kih 8 rulli",
+        "hind": "4,85 €"
     },
     {
-        "name": "Zewa Tualettpaber Deluxe 8 rulli 3-kihiline",
-        "price": "5,98 €",
-        "store": "Prisma"
+        "nimi": "Zewa Tualettpaber Deluxe 8 rulli 3-kihiline",
+        "hind": "5,98 €"
     },
     {
-        "name": "Tualettpaber Zewa Deluxe 3-kihiline 4 rulli",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Tualettpaber Zewa Deluxe 3-kihiline 4 rulli",
+        "hind": "2,58 €"
     },
     {
-        "name": "X-tra soolapähklid 250 g",
-        "price": "1,41 €",
-        "store": "Prisma"
+        "nimi": "X-tra soolapähklid 250 g",
+        "hind": "1,41 €"
     },
     {
-        "name": "Xtra kehakreem 500ml",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Xtra kehakreem 500ml",
+        "hind": "1,88 €"
     },
     {
-        "name": "Xtra Sakilised Friikartulid 1 kg",
-        "price": "2,08 €",
-        "store": "Prisma"
+        "nimi": "Xtra Sakilised Friikartulid 1 kg",
+        "hind": "2,08 €"
     },
     {
-        "name": "Shampoon Xtra 500 ml",
-        "price": "1,25 €",
-        "store": "Prisma"
+        "nimi": "Shampoon Xtra 500 ml",
+        "hind": "1,25 €"
     },
     {
-        "name": "Palsam X-tra 500 ml",
-        "price": "1,25 €",
-        "store": "Prisma"
+        "nimi": "Palsam X-tra 500 ml",
+        "hind": "1,25 €"
     },
     {
-        "name": "Xtra vedelseep 500ml",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Xtra vedelseep 500ml",
+        "hind": "0,98 €"
     },
     {
-        "name": "Dušigeel Xtra 500ml",
-        "price": "1,45 €",
-        "store": "Prisma"
+        "nimi": "Dušigeel Xtra 500ml",
+        "hind": "1,45 €"
     },
     {
-        "name": "Taskurätikud Xtra 10x10tk 3-kihiline",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Taskurätikud Xtra 10x10tk 3-kihiline",
+        "hind": "1,15 €"
     },
     {
-        "name": "Tükiseep Xtra 3x90g",
-        "price": "1,18 €",
-        "store": "Prisma"
+        "nimi": "Tükiseep Xtra 3x90g",
+        "hind": "1,18 €"
     },
     {
-        "name": "Xtra majapidamispaber 2-kihiline 4 rulli",
-        "price": "1,88 €",
-        "store": "Prisma"
+        "nimi": "Xtra majapidamispaber 2-kihiline 4 rulli",
+        "hind": "1,88 €"
     },
     {
-        "name": "Xtra virsikupoolikud suhkruleemes 820/470 g",
-        "price": "2,78 €",
-        "store": "Prisma"
+        "nimi": "Xtra virsikupoolikud suhkruleemes 820/470 g",
+        "hind": "2,78 €"
     },
     {
-        "name": "X-tra lahustuv kohv 200 g",
-        "price": "4,98 €",
-        "store": "Prisma"
+        "nimi": "X-tra lahustuv kohv 200 g",
+        "hind": "4,98 €"
     },
     {
-        "name": "Xtra rapsiõli 1 l",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Xtra rapsiõli 1 l",
+        "hind": "2,25 €"
     },
     {
-        "name": "Xtra basmatiriis 2kg",
-        "price": "6,08 €",
-        "store": "Prisma"
+        "nimi": "Xtra basmatiriis 2kg",
+        "hind": "6,08 €"
     },
     {
-        "name": "Xtra kakao 1kg",
-        "price": "4,98 €",
-        "store": "Prisma"
+        "nimi": "Xtra kakao 1kg",
+        "hind": "4,98 €"
     },
     {
-        "name": "Xtra rohelised oliivid paprikatäidisega 935/550 g",
-        "price": "4,06 €",
-        "store": "Prisma"
+        "nimi": "Xtra rohelised oliivid paprikatäidisega 935/550 g",
+        "hind": "4,06 €"
     },
     {
-        "name": "Xtra õunapüree 720 g",
-        "price": "2,02 €",
-        "store": "Prisma"
+        "nimi": "Xtra õunapüree 720 g",
+        "hind": "2,02 €"
     },
     {
-        "name": "Xtra maasikakissell 1 l",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Xtra maasikakissell 1 l",
+        "hind": "1,98 €"
     },
     {
-        "name": "Xtra vaarikakissell 1 l",
-        "price": "2,45 €",
-        "store": "Prisma"
+        "nimi": "Xtra vaarikakissell 1 l",
+        "hind": "2,45 €"
     },
     {
-        "name": "Xtra maisihelbed 750g",
-        "price": "3,55 €",
-        "store": "Prisma"
+        "nimi": "Xtra maisihelbed 750g",
+        "hind": "3,55 €"
     },
     {
-        "name": "Xtra võileivakurk 1600/880g",
-        "price": "3,85 €",
-        "store": "Prisma"
+        "nimi": "Xtra võileivakurk 1600/880g",
+        "hind": "3,85 €"
     },
     {
-        "name": "Xtra kartulipudrupulber 540 g",
-        "price": "4,25 €",
-        "store": "Prisma"
+        "nimi": "Xtra kartulipudrupulber 540 g",
+        "hind": "4,25 €"
     },
     {
-        "name": "X-tra soolapähklid 1 kg",
-        "price": "4,58 €",
-        "store": "Prisma"
+        "nimi": "X-tra soolapähklid 1 kg",
+        "hind": "4,58 €"
     },
     {
-        "name": ".X-TRA PIIMASHOKOLAAD 100 GT UTZ",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": ".X-TRA PIIMASHOKOLAAD 100 GT UTZ",
+        "hind": "0,88 €"
     },
     {
-        "name": "X-tra purustatud metsapähklitega piimašokolaad 100 g",
-        "price": "1,25 €",
-        "store": "Prisma"
+        "nimi": "X-tra purustatud metsapähklitega piimašokolaad 100 g",
+        "hind": "1,25 €"
     },
     {
-        "name": "X-tra tume šokolaad 100 g",
-        "price": "1,09 €",
-        "store": "Prisma"
+        "nimi": "X-tra tume šokolaad 100 g",
+        "hind": "1,09 €"
     },
     {
-        "name": "Xtra üldpuhastusaine 1l",
-        "price": "1,38 €",
-        "store": "Prisma"
+        "nimi": "Xtra üldpuhastusaine 1l",
+        "hind": "1,38 €"
     },
     {
-        "name": "X-tra klaasipuhastusvahend 1 l",
-        "price": "1,58 €",
-        "store": "Prisma"
+        "nimi": "X-tra klaasipuhastusvahend 1 l",
+        "hind": "1,58 €"
     },
     {
-        "name": "Xtra sidrunimahl 200 ml",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": "Xtra sidrunimahl 200 ml",
+        "hind": "0,88 €"
     },
     {
-        "name": "Xtra Color pesugeel 2l",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Xtra Color pesugeel 2l",
+        "hind": "2,88 €"
     },
     {
-        "name": "Xtra puuviljamüsli 1 kg",
-        "price": "5,95 €",
-        "store": "Prisma"
+        "nimi": "Xtra puuviljamüsli 1 kg",
+        "hind": "5,95 €"
     },
     {
-        "name": "Xtra pohlamoos 800 g",
-        "price": "3,04 €",
-        "store": "Prisma"
+        "nimi": "Xtra pohlamoos 800 g",
+        "hind": "3,04 €"
     },
     {
-        "name": "Xtra maasikamoos 800 g",
-        "price": "3,55 €",
-        "store": "Prisma"
+        "nimi": "Xtra maasikamoos 800 g",
+        "hind": "3,55 €"
     },
     {
-        "name": "Xtra vaarikamoos 800 g",
-        "price": "3,95 €",
-        "store": "Prisma"
+        "nimi": "Xtra vaarikamoos 800 g",
+        "hind": "3,95 €"
     },
     {
-        "name": "Xtra pannkoogimoos 800 g",
-        "price": "2,84 €",
-        "store": "Prisma"
+        "nimi": "Xtra pannkoogimoos 800 g",
+        "hind": "2,84 €"
     },
     {
-        "name": "X-tra maapähklid tšillimaitselise kattega 500 g",
-        "price": "4,28 €",
-        "store": "Prisma"
+        "nimi": "X-tra maapähklid tšillimaitselise kattega 500 g",
+        "hind": "4,28 €"
     },
     {
-        "name": "Toblerone piimašokolaad 100 g",
-        "price": "2,85 €",
-        "store": "Prisma"
+        "nimi": "Toblerone piimašokolaad 100 g",
+        "hind": "2,85 €"
     },
     {
-        "name": "Marabou Twist kommikott 300g",
-        "price": "5,18 €",
-        "store": "Prisma"
+        "nimi": "Marabou Twist kommikott 300g",
+        "hind": "5,18 €"
     },
     {
-        "name": "Raseerija Gillette Blue 3-tera Comfort 3tk",
-        "price": "4,38 €",
-        "store": "Prisma"
+        "nimi": "Raseerija Gillette Blue 3-tera Comfort 3tk",
+        "hind": "4,38 €"
     },
     {
-        "name": "Caracter Santa Ana Chenin Chardonnay vein 13%vol 750ml",
-        "price": "6,68 €",
-        "store": "Prisma"
+        "nimi": "Caracter Santa Ana Chenin Chardonnay vein 13%vol 750ml",
+        "hind": "6,68 €"
     },
     {
-        "name": "Frontera Cabernet Sauvignon GT vein 12,5%vol 750ml",
-        "price": "6,95 €",
-        "store": "Prisma"
+        "nimi": "Frontera Cabernet Sauvignon GT vein 12,5%vol 750ml",
+        "hind": "6,95 €"
     },
     {
-        "name": "Frontera Chardonnay GT vein 12%vol 750ml",
-        "price": "6,95 €",
-        "store": "Prisma"
+        "nimi": "Frontera Chardonnay GT vein 12%vol 750ml",
+        "hind": "6,95 €"
     },
     {
-        "name": "Fresita Original aromaatne kvaliteetvahuvein 8%vol 750ml",
-        "price": "12,69 €",
-        "store": "Prisma"
+        "nimi": "Fresita Original aromaatne kvaliteetvahuvein 8%vol 750ml",
+        "hind": "12,69 €"
     },
     {
-        "name": "CAMPARI BITTER 25%VOL 500 ML",
-        "price": "17,98 €",
-        "store": "Prisma"
+        "nimi": "CAMPARI BITTER 25%VOL 500 ML",
+        "hind": "17,98 €"
     },
     {
-        "name": "Lavazza jahvatatud kohv Qualita Oro 250 g",
-        "price": "5,68 €",
-        "store": "Prisma"
+        "nimi": "Lavazza jahvatatud kohv Qualita Oro 250 g",
+        "hind": "5,68 €"
     },
     {
-        "name": "Lavazza kohvioad Qualita Oro 1 kg 100% Arabika",
-        "price": "27,95 €",
-        "store": "Prisma"
+        "nimi": "Lavazza kohvioad Qualita Oro 1 kg 100% Arabika",
+        "hind": "27,95 €"
     },
     {
-        "name": "Lavazza jahvatatud kohv Qualita Rossa 250 g",
-        "price": "5,48 €",
-        "store": "Prisma"
+        "nimi": "Lavazza jahvatatud kohv Qualita Rossa 250 g",
+        "hind": "5,48 €"
     },
     {
-        "name": "Lavazza Qualita Rossa kohvioad 1kg",
-        "price": "18,98 €",
-        "store": "Prisma"
+        "nimi": "Lavazza Qualita Rossa kohvioad 1kg",
+        "hind": "18,98 €"
     },
     {
-        "name": "Ferrero Rocher kompvekid 200 g",
-        "price": "7,95 €",
-        "store": "Prisma"
+        "nimi": "Ferrero Rocher kompvekid 200 g",
+        "hind": "7,95 €"
     },
     {
-        "name": "Ferrero Rocher pralineede kinkekarp 300g",
-        "price": "8,60 €",
-        "store": "Prisma"
+        "nimi": "Ferrero Rocher pralineede kinkekarp 300g",
+        "hind": "8,60 €"
     },
     {
-        "name": "Raffaello kommikarp 150 g",
-        "price": "4,18 €",
-        "store": "Prisma"
+        "nimi": "Raffaello kommikarp 150 g",
+        "hind": "4,18 €"
     },
     {
-        "name": "Ferrero Rocher püramiid pralineede kinkekarp 350g 28tk",
-        "price": "11,64 €",
-        "store": "Prisma"
+        "nimi": "Ferrero Rocher püramiid pralineede kinkekarp 350g 28tk",
+        "hind": "11,64 €"
     },
     {
-        "name": "Kinder Pingui Kookos 30g",
-        "price": "0,90 €",
-        "store": "Prisma"
+        "nimi": "Kinder Pingui Kookos 30g",
+        "hind": "0,90 €"
     },
     {
-        "name": "Rocher Collection T15 kompvekid 172 g",
-        "price": "8,48 €",
-        "store": "Prisma"
+        "nimi": "Rocher Collection T15 kompvekid 172 g",
+        "hind": "8,48 €"
     },
     {
-        "name": "Ferrero Collection pralineede assortii 359g",
-        "price": "11,48 €",
-        "store": "Prisma"
+        "nimi": "Ferrero Collection pralineede assortii 359g",
+        "hind": "11,48 €"
     },
     {
-        "name": "Martini Asti KPN kvaliteetvahuvein 7,5%vol 750ml",
-        "price": "8,98 €",
-        "store": "Prisma"
+        "nimi": "Martini Asti KPN kvaliteetvahuvein 7,5%vol 750ml",
+        "hind": "8,98 €"
     },
     {
-        "name": "Martini Prosecco KPN vahuvein 11,5%vol 750ml",
-        "price": "9,99 €",
-        "store": "Prisma"
+        "nimi": "Martini Prosecco KPN vahuvein 11,5%vol 750ml",
+        "hind": "9,99 €"
     },
     {
-        "name": "Birra Moretti L`autentica Premium Lager õlu 4,6%vol 330ml",
-        "price": "1,98 €",
-        "store": "Prisma"
+        "nimi": "Birra Moretti L`autentica Premium Lager õlu 4,6%vol 330ml",
+        "hind": "1,98 €"
     },
     {
-        "name": "Castelli Riccotta, 250g",
-        "price": "2,23 €",
-        "store": "Prisma"
+        "nimi": "Castelli Riccotta, 250g",
+        "hind": "2,23 €"
     },
     {
-        "name": "Granarolo Mozzarella, 125 g",
-        "price": "1,78 €",
-        "store": "Prisma"
+        "nimi": "Granarolo Mozzarella, 125 g",
+        "hind": "1,78 €"
     },
     {
-        "name": "Granoro kuskuss 1kg",
-        "price": "3,15 €",
-        "store": "Prisma"
+        "nimi": "Granoro kuskuss 1kg",
+        "hind": "3,15 €"
     },
     {
-        "name": "Peroni Nastro Azzurro õlu 5%vol 330ml",
-        "price": "2,45 €",
-        "store": "Prisma"
+        "nimi": "Peroni Nastro Azzurro õlu 5%vol 330ml",
+        "hind": "2,45 €"
     },
     {
-        "name": "Crich kreekerid soolaga 250g",
-        "price": "2,38 €",
-        "store": "Prisma"
+        "nimi": "Crich kreekerid soolaga 250g",
+        "hind": "2,38 €"
     },
     {
-        "name": "Schär soolakringlid, gluteenivaba 60g",
-        "price": "1,68 €",
-        "store": "Prisma"
+        "nimi": "Schär soolakringlid, gluteenivaba 60g",
+        "hind": "1,68 €"
     },
     {
-        "name": "Schär saiapulber mix b 1 kg, gluteeni- ja laktoosivaba",
-        "price": "6,19 €",
-        "store": "Prisma"
+        "nimi": "Schär saiapulber mix b 1 kg, gluteeni- ja laktoosivaba",
+        "hind": "6,19 €"
     },
     {
-        "name": "Barilla spagetid 500 g",
-        "price": "1,45 €",
-        "store": "Prisma"
+        "nimi": "Barilla spagetid 500 g",
+        "hind": "1,45 €"
     },
     {
-        "name": "Barilla pasta penne rigate 500 g",
-        "price": "1,69 €",
-        "store": "Prisma"
+        "nimi": "Barilla pasta penne rigate 500 g",
+        "hind": "1,69 €"
     },
     {
-        "name": "Barilla pasta farfalle 500 g",
-        "price": "2,25 €",
-        "store": "Prisma"
+        "nimi": "Barilla pasta farfalle 500 g",
+        "hind": "2,25 €"
     },
     {
-        "name": "Barilla pastakaste basilico 400 g",
-        "price": "2,69 €",
-        "store": "Prisma"
+        "nimi": "Barilla pastakaste basilico 400 g",
+        "hind": "2,69 €"
     },
     {
-        "name": "Barilla pesto genovese, 190g",
-        "price": "2,99 €",
-        "store": "Prisma"
+        "nimi": "Barilla pesto genovese, 190g",
+        "hind": "2,99 €"
     },
     {
-        "name": "Barilla barilla lasanjeplaadid 500 g",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Barilla barilla lasanjeplaadid 500 g",
+        "hind": "2,95 €"
     },
     {
-        "name": "Barilla pasta fettuccine, 500g",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Barilla pasta fettuccine, 500g",
+        "hind": "2,95 €"
     },
     {
-        "name": "Mulino bianco küpsised õunamoositäidisega 250g",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Mulino bianco küpsised õunamoositäidisega 250g",
+        "hind": "2,95 €"
     },
     {
-        "name": "Torres San Valentin Parellada KPN vein 11,5%vol 750ml",
-        "price": "9,55 €",
-        "store": "Prisma"
+        "nimi": "Torres San Valentin Parellada KPN vein 11,5%vol 750ml",
+        "hind": "9,55 €"
     },
     {
-        "name": "Torres Sangre De Toro KPN vein 13,5%vol 750ml",
-        "price": "9,98 €",
-        "store": "Prisma"
+        "nimi": "Torres Sangre De Toro KPN vein 13,5%vol 750ml",
+        "hind": "9,98 €"
     },
     {
-        "name": "Torres Ibericos Crianza KPN vein 14%vol 750ml",
-        "price": "10,98 €",
-        "store": "Prisma"
+        "nimi": "Torres Ibericos Crianza KPN vein 14%vol 750ml",
+        "hind": "10,98 €"
     },
     {
-        "name": "Borges ekstra väärisoliiviõli 500 ml",
-        "price": "11,29 €",
-        "store": "Prisma"
+        "nimi": "Borges ekstra väärisoliiviõli 500 ml",
+        "hind": "11,29 €"
     },
     {
-        "name": "Borges oliiviõli classic 500 ml",
-        "price": "11,35 €",
-        "store": "Prisma"
+        "nimi": "Borges oliiviõli classic 500 ml",
+        "hind": "11,35 €"
     },
     {
-        "name": "Castillo San Simon Tinto KPN vein 12,5%vol 750ml",
-        "price": "6,38 €",
-        "store": "Prisma"
+        "nimi": "Castillo San Simon Tinto KPN vein 12,5%vol 750ml",
+        "hind": "6,38 €"
     },
     {
-        "name": "Don Simon Sangria aromatiseeritud veinijook 7%vol 1L",
-        "price": "6,30 €",
-        "store": "Prisma"
+        "nimi": "Don Simon Sangria aromatiseeritud veinijook 7%vol 1L",
+        "hind": "6,30 €"
     },
     {
-        "name": "Faustino VII Tempranillo KPN vein 13,5%vol 750ml",
-        "price": "9,38 €",
-        "store": "Prisma"
+        "nimi": "Faustino VII Tempranillo KPN vein 13,5%vol 750ml",
+        "hind": "9,38 €"
     },
     {
-        "name": "Budweiser Budvar Lager õlu 5%vol 500ml",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Budweiser Budvar Lager õlu 5%vol 500ml",
+        "hind": "2,58 €"
     },
     {
-        "name": "Budweiser Budvar Dark õlu 4,7%vol 500ml",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Budweiser Budvar Dark õlu 4,7%vol 500ml",
+        "hind": "2,58 €"
     },
     {
-        "name": "Budweiser Budvar Lager õlu 5%vol 500ml",
-        "price": "2,58 €",
-        "store": "Prisma"
+        "nimi": "Budweiser Budvar Lager õlu 5%vol 500ml",
+        "hind": "2,58 €"
     },
     {
-        "name": "KINGALÄIGE INSTANT 50 ML VÄRVITU",
-        "price": "3,00 €",
-        "store": "Prisma"
+        "nimi": "KINGALÄIGE INSTANT 50 ML VÄRVITU",
+        "hind": "3,00 €"
     },
     {
-        "name": "KINGALÄIGE INSTANT 50 ML MUST",
-        "price": "3,00 €",
-        "store": "Prisma"
+        "nimi": "KINGALÄIGE INSTANT 50 ML MUST",
+        "hind": "3,00 €"
     },
     {
-        "name": "Farm Frites Oven Fries Sirge Friikartul 750 g",
-        "price": "2,94 €",
-        "store": "Prisma"
+        "nimi": "Farm Frites Oven Fries Sirge Friikartul 750 g",
+        "hind": "2,94 €"
     },
     {
-        "name": "Farm Frites Sakiline Friikartul 450 g",
-        "price": "1,89 €",
-        "store": "Prisma"
+        "nimi": "Farm Frites Sakiline Friikartul 450 g",
+        "hind": "1,89 €"
     },
     {
-        "name": "Dr. Pepper karastusjook 330ml",
-        "price": "1,09 €",
-        "store": "Prisma"
+        "nimi": "Dr. Pepper karastusjook 330ml",
+        "hind": "1,09 €"
     },
     {
-        "name": "Kikkoman, sojakaste, 150 ml",
-        "price": "4,08 €",
-        "store": "Prisma"
+        "nimi": "Kikkoman, sojakaste, 150 ml",
+        "hind": "4,08 €"
     },
     {
-        "name": "Kikkoman sojakaste 150 ml vähesoolane",
-        "price": "4,08 €",
-        "store": "Prisma"
+        "nimi": "Kikkoman sojakaste 150 ml vähesoolane",
+        "hind": "4,08 €"
     },
     {
-        "name": "Heinz ketšup 1 kg",
-        "price": "4,95 €",
-        "store": "Prisma"
+        "nimi": "Heinz ketšup 1 kg",
+        "hind": "4,95 €"
     },
     {
-        "name": "Kotanyi vaniljesuhkur 15 g",
-        "price": "1,58 €",
-        "store": "Prisma"
+        "nimi": "Kotanyi vaniljesuhkur 15 g",
+        "hind": "1,58 €"
     },
     {
-        "name": "Kotanyi loorberilehed 4 g",
-        "price": "1,38 €",
-        "store": "Prisma"
+        "nimi": "Kotanyi loorberilehed 4 g",
+        "hind": "1,38 €"
     },
     {
-        "name": "Kotanyi meresoola veski 92g",
-        "price": "3,58 €",
-        "store": "Prisma"
+        "nimi": "Kotanyi meresoola veski 92g",
+        "hind": "3,58 €"
     },
     {
-        "name": "Kotanyi itaalia maitserohelineveskis 48g",
-        "price": "3,98 €",
-        "store": "Prisma"
+        "nimi": "Kotanyi itaalia maitserohelineveskis 48g",
+        "hind": "3,98 €"
     },
     {
-        "name": "RED BULL 250 ML",
-        "price": "1,29 €",
-        "store": "Prisma"
+        "nimi": "RED BULL 250 ML",
+        "hind": "1,29 €"
     },
     {
-        "name": "Hardys Bin 343 Cabernet Shiraz GT vein 13,5%vol 750ml",
-        "price": "7,88 €",
-        "store": "Prisma"
+        "nimi": "Hardys Bin 343 Cabernet Shiraz GT vein 13,5%vol 750ml",
+        "hind": "7,88 €"
     },
     {
-        "name": "Yellow Tail Shiraz GT vein 13,5%vol 750ml",
-        "price": "9,25 €",
-        "store": "Prisma"
+        "nimi": "Yellow Tail Shiraz GT vein 13,5%vol 750ml",
+        "hind": "9,25 €"
     },
     {
-        "name": "Villa Maria Sauvignon Blanc vein 13%vol 750ml",
-        "price": "13,98 €",
-        "store": "Prisma"
+        "nimi": "Villa Maria Sauvignon Blanc vein 13%vol 750ml",
+        "hind": "13,98 €"
     },
     {
-        "name": "Sileni Marlborough Sauvignon Blanc vein 12,5%vol 750 ml",
-        "price": "13,98 €",
-        "store": "Prisma"
+        "nimi": "Sileni Marlborough Sauvignon Blanc vein 12,5%vol 750 ml",
+        "hind": "13,98 €"
     },
     {
-        "name": "Orhideepott 14cm",
-        "price": "9,59 €",
-        "store": "Prisma"
+        "nimi": "Orhideepott 14cm",
+        "hind": "9,59 €"
     },
     {
-        "name": "Captain Morgan Black Spiced rumm 40%vol 700ml",
-        "price": "25,98 €",
-        "store": "Prisma"
+        "nimi": "Captain Morgan Black Spiced rumm 40%vol 700ml",
+        "hind": "25,98 €"
     },
     {
-        "name": "Külmakast 30 l styrox",
-        "price": "15,90 €",
-        "store": "Prisma"
+        "nimi": "Külmakast 30 l styrox",
+        "hind": "15,90 €"
     },
     {
-        "name": "Meira ketsup 500g",
-        "price": "2,73 €",
-        "store": "Prisma"
+        "nimi": "Meira ketsup 500g",
+        "hind": "2,73 €"
     },
     {
-        "name": "Martell VS Cognac 40%vol 700 ml",
-        "price": "37,58 €",
-        "store": "Prisma"
+        "nimi": "Martell VS Cognac 40%vol 700 ml",
+        "hind": "37,58 €"
     },
     {
-        "name": "Melitta Kohvifilter 1x4 /80",
-        "price": "4,16 €",
-        "store": "Prisma"
+        "nimi": "Melitta Kohvifilter 1x4 /80",
+        "hind": "4,16 €"
     },
     {
-        "name": "Meira sinep traditsiooniline 500 g",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Meira sinep traditsiooniline 500 g",
+        "hind": "2,98 €"
     },
     {
-        "name": "Epiim Eesti juust, viilutatud, 500 g",
-        "price": "5,48 €",
-        "store": "Prisma"
+        "nimi": "Epiim Eesti juust, viilutatud, 500 g",
+        "hind": "5,48 €"
     },
     {
-        "name": "Monkey Shoulder Scotch Whisky 700ml",
-        "price": "29,98 €",
-        "store": "Prisma"
+        "nimi": "Monkey Shoulder Scotch Whisky 700ml",
+        "hind": "29,98 €"
     },
     {
-        "name": "Minttu liköör 40%vol 500ml",
-        "price": "15,98 €",
-        "store": "Prisma"
+        "nimi": "Minttu liköör 40%vol 500ml",
+        "hind": "15,98 €"
     },
     {
-        "name": "Koskenkorva vodka 40%vol 500ml",
-        "price": "9,99 €",
-        "store": "Prisma"
+        "nimi": "Koskenkorva vodka 40%vol 500ml",
+        "hind": "9,99 €"
     },
     {
-        "name": "Koskenkorva Viin 40%vol 1l",
-        "price": "19,98 €",
-        "store": "Prisma"
+        "nimi": "Koskenkorva Viin 40%vol 1l",
+        "hind": "19,98 €"
     },
     {
-        "name": "Hennessy VSOP Cognac karbis 40%vol 500ml",
-        "price": "57,84 €",
-        "store": "Prisma"
+        "nimi": "Hennessy VSOP Cognac karbis 40%vol 500ml",
+        "hind": "57,84 €"
     },
     {
-        "name": "NIISKUSKAITSE 300 ML",
-        "price": "6,05 €",
-        "store": "Prisma"
+        "nimi": "NIISKUSKAITSE 300 ML",
+        "hind": "6,05 €"
     },
     {
-        "name": "Ibero juukseklamber 50 mm 24 tk must",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklamber 50 mm 24 tk must",
+        "hind": "2,98 €"
     },
     {
-        "name": "Ibero juukseklamber 12 tk",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero juukseklamber 12 tk",
+        "hind": "2,98 €"
     },
     {
-        "name": "Ibero lokirullid 3 tk 56mm",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero lokirullid 3 tk 56mm",
+        "hind": "2,98 €"
     },
     {
-        "name": "Marli Juissi sidruni-laimijook 1L",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Marli Juissi sidruni-laimijook 1L",
+        "hind": "1,85 €"
     },
     {
-        "name": "Castillo De Albai Rioja Blanco KPN vein 12,5%vol 187ml",
-        "price": "3,75 €",
-        "store": "Prisma"
+        "nimi": "Castillo De Albai Rioja Blanco KPN vein 12,5%vol 187ml",
+        "hind": "3,75 €"
     },
     {
-        "name": "Castillo De Albai Rioja Tinto KPN vein 13%vol 187ml",
-        "price": "3,75 €",
-        "store": "Prisma"
+        "nimi": "Castillo De Albai Rioja Tinto KPN vein 13%vol 187ml",
+        "hind": "3,75 €"
     },
     {
-        "name": "Annas apelsini piparkoogid 300 g",
-        "price": "2,99 €",
-        "store": "Prisma"
+        "nimi": "Annas apelsini piparkoogid 300 g",
+        "hind": "2,99 €"
     },
     {
-        "name": "Marli Juissi ananassi-apelsinimahlajook 1 l",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Marli Juissi ananassi-apelsinimahlajook 1 l",
+        "hind": "1,85 €"
     },
     {
-        "name": "Marli Juissi pirni mahlajook 1L",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Marli Juissi pirni mahlajook 1L",
+        "hind": "1,75 €"
     },
     {
-        "name": "Marli Juissi maasikamahlajook 1 l",
-        "price": "1,85 €",
-        "store": "Prisma"
+        "nimi": "Marli Juissi maasikamahlajook 1 l",
+        "hind": "1,85 €"
     },
     {
-        "name": "Marli Jussi mustika-vaarika mahlajook 1L",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Marli Jussi mustika-vaarika mahlajook 1L",
+        "hind": "1,75 €"
     },
     {
-        "name": "Merci Crispy assortiišokolaad krõbeda - mandliga 250g",
-        "price": "6,88 €",
-        "store": "Prisma"
+        "nimi": "Merci Crispy assortiišokolaad krõbeda - mandliga 250g",
+        "hind": "6,88 €"
     },
     {
-        "name": "Raad.auto Hot Wheels 1:28 6 ass",
-        "price": "26,95 €",
-        "store": "Prisma"
+        "nimi": "Raad.auto Hot Wheels 1:28 6 ass",
+        "hind": "26,95 €"
     },
     {
-        "name": "Ibero laste juukse aksessuaarid 30 tk",
-        "price": "2,88 €",
-        "store": "Prisma"
+        "nimi": "Ibero laste juukse aksessuaarid 30 tk",
+        "hind": "2,88 €"
     },
     {
-        "name": "Ibero peavõru lastele past",
-        "price": "4,48 €",
-        "store": "Prisma"
+        "nimi": "Ibero peavõru lastele past",
+        "hind": "4,48 €"
     },
     {
-        "name": "Ibero juuksepael",
-        "price": "4,98 €",
-        "store": "Prisma"
+        "nimi": "Ibero juuksepael",
+        "hind": "4,98 €"
     },
     {
-        "name": "Zewa Salvrätikud karbis Deluxe Design 3-kihiline 90tk",
-        "price": "1,65 €",
-        "store": "Prisma"
+        "nimi": "Zewa Salvrätikud karbis Deluxe Design 3-kihiline 90tk",
+        "hind": "1,65 €"
     },
     {
-        "name": "Õhuvärskendaja Vanilla",
-        "price": "2,95 €",
-        "store": "Prisma"
+        "nimi": "Õhuvärskendaja Vanilla",
+        "hind": "2,95 €"
     },
     {
-        "name": "Kolorado Blue Ocean WC-loputuskasti värskendaja 2 x 45 g",
-        "price": "1,55 €",
-        "store": "Prisma"
+        "nimi": "Kolorado Blue Ocean WC-loputuskasti värskendaja 2 x 45 g",
+        "hind": "1,55 €"
     },
     {
-        "name": "Cointreau liköör 40%vol 50ml",
-        "price": "4,18 €",
-        "store": "Prisma"
+        "nimi": "Cointreau liköör 40%vol 50ml",
+        "hind": "4,18 €"
     },
     {
-        "name": "Maybelline ripsmetušš Colossal 01 Black",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Maybelline ripsmetušš Colossal 01 Black",
+        "hind": "7,48 €"
     },
     {
-        "name": "Maybelline ripsmetušš Colossal 02 Extra Black",
-        "price": "7,48 €",
-        "store": "Prisma"
+        "nimi": "Maybelline ripsmetušš Colossal 02 Extra Black",
+        "hind": "7,48 €"
     },
     {
-        "name": "Maybelline peitepulk Fit Me Concealer 6,8 ml 10 Light",
-        "price": "8,98 €",
-        "store": "Prisma"
+        "nimi": "Maybelline peitepulk Fit Me Concealer 6,8 ml 10 Light",
+        "hind": "8,98 €"
     },
     {
-        "name": "Maybelline peitepulk Fit Me Concealer 6,8 ml 20 Sand",
-        "price": "8,98 €",
-        "store": "Prisma"
+        "nimi": "Maybelline peitepulk Fit Me Concealer 6,8 ml 20 Sand",
+        "hind": "8,98 €"
     },
     {
-        "name": "Maybelline ripsmetušš Colossal Go Extreme 01 Very Black",
-        "price": "8,88 €",
-        "store": "Prisma"
+        "nimi": "Maybelline ripsmetušš Colossal Go Extreme 01 Very Black",
+        "hind": "8,88 €"
     },
     {
-        "name": "Maybelline ripsmetušš Colossal Go Extreme Leather Black",
-        "price": "8,88 €",
-        "store": "Prisma"
+        "nimi": "Maybelline ripsmetušš Colossal Go Extreme Leather Black",
+        "hind": "8,88 €"
     },
     {
-        "name": "Bounty Milk piimašokolaadibatoon 57 g",
-        "price": "1,35 €",
-        "store": "Prisma"
+        "nimi": "Bounty Milk piimašokolaadibatoon 57 g",
+        "hind": "1,35 €"
     },
     {
-        "name": "Werther´s Original koorekompvekid 50 g",
-        "price": "0,68 €",
-        "store": "Prisma"
+        "nimi": "Werther´s Original koorekompvekid 50 g",
+        "hind": "0,68 €"
     },
     {
-        "name": "Zott Kohvikoor 10%, 10 tk",
-        "price": "0,65 €",
-        "store": "Prisma"
+        "nimi": "Zott Kohvikoor 10%, 10 tk",
+        "hind": "0,65 €"
     },
     {
-        "name": "Zott Monte šokolaadi-pähkli piimadessert, 55 g, 1 TK",
-        "price": "0,75 €",
-        "store": "Prisma"
+        "nimi": "Zott Monte šokolaadi-pähkli piimadessert, 55 g, 1 TK",
+        "hind": "0,75 €"
     },
     {
-        "name": "Juuksevaha Taft Creative look 75ml",
-        "price": "7,08 €",
-        "store": "Prisma"
+        "nimi": "Juuksevaha Taft Creative look 75ml",
+        "hind": "7,08 €"
     },
     {
-        "name": "ZOTT Monte snack 29g",
-        "price": "0,39 €",
-        "store": "Prisma"
+        "nimi": "ZOTT Monte snack 29g",
+        "hind": "0,39 €"
     },
     {
-        "name": "Zottis puuviljadega piimadessert, 115 g, 1 TK",
-        "price": "0,56 €",
-        "store": "Prisma"
+        "nimi": "Zottis puuviljadega piimadessert, 115 g, 1 TK",
+        "hind": "0,56 €"
     },
     {
-        "name": "Ruf vahukooretugevdaja 40 g",
-        "price": "0,68 €",
-        "store": "Prisma"
+        "nimi": "Ruf vahukooretugevdaja 40 g",
+        "hind": "0,68 €"
     },
     {
-        "name": "Knoppers piima- ja pähklitäidisega krõbe vahvel 25 g",
-        "price": "0,59 €",
-        "store": "Prisma"
+        "nimi": "Knoppers piima- ja pähklitäidisega krõbe vahvel 25 g",
+        "hind": "0,59 €"
     },
     {
-        "name": "Jägermeister liköör 35%vol 40ml",
-        "price": "2,98 €",
-        "store": "Prisma"
+        "nimi": "Jägermeister liköör 35%vol 40ml",
+        "hind": "2,98 €"
     },
     {
-        "name": "Jägermeister Liköör 35%vol 200ml",
-        "price": "7,88 €",
-        "store": "Prisma"
+        "nimi": "Jägermeister Liköör 35%vol 200ml",
+        "hind": "7,88 €"
     },
     {
-        "name": "Orbit Blueberry närimiskummid 14 g",
-        "price": "0,78 €",
-        "store": "Prisma"
+        "nimi": "Orbit Blueberry närimiskummid 14 g",
+        "hind": "0,78 €"
     },
     {
-        "name": "Kreem Nivea 75 ml",
-        "price": "2,78 €",
-        "store": "Prisma"
+        "nimi": "Kreem Nivea 75 ml",
+        "hind": "2,78 €"
     },
     {
-        "name": "Orbit Spearmint pastillid 28 g",
-        "price": "1,08 €",
-        "store": "Prisma"
+        "nimi": "Orbit Spearmint pastillid 28 g",
+        "hind": "1,08 €"
     },
     {
-        "name": "ORBIT BUBBLEMINT 10tk",
-        "price": "0,78 €",
-        "store": "Prisma"
+        "nimi": "ORBIT BUBBLEMINT 10tk",
+        "hind": "0,78 €"
     },
     {
-        "name": "Coca-Cola karastusjook 500 ml",
-        "price": "1,19 €",
-        "store": "Prisma"
+        "nimi": "Coca-Cola karastusjook 500 ml",
+        "hind": "1,19 €"
     },
     {
-        "name": "Sprite karastusjook 500ml",
-        "price": "1,18 €",
-        "store": "Prisma"
+        "nimi": "Sprite karastusjook 500ml",
+        "hind": "1,18 €"
     },
     {
-        "name": "Fanta apelsini karastusjook 500ml",
-        "price": "1,18 €",
-        "store": "Prisma"
+        "nimi": "Fanta apelsini karastusjook 500ml",
+        "hind": "1,18 €"
     },
     {
-        "name": "Actimel Jogurtijook 4x100g, maasika",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Actimel Jogurtijook 4x100g, maasika",
+        "hind": "1,75 €"
     },
     {
-        "name": "Actimel Jogurtijook 4x100g, puuvilja",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Actimel Jogurtijook 4x100g, puuvilja",
+        "hind": "1,75 €"
     },
     {
-        "name": "Actimel Jogurtijook 4x100g, metsamarja",
-        "price": "1,75 €",
-        "store": "Prisma"
+        "nimi": "Actimel Jogurtijook 4x100g, metsamarja",
+        "hind": "1,75 €"
     },
     {
-        "name": "Bensiinilisand Carlube 300ml",
-        "price": "5,00 €",
-        "store": "Prisma"
+        "nimi": "Bensiinilisand Carlube 300ml",
+        "hind": "5,00 €"
     },
     {
-        "name": "Diiselkütuse lisand Carlube 300ml",
-        "price": "5,90 €",
-        "store": "Prisma"
+        "nimi": "Diiselkütuse lisand Carlube 300ml",
+        "hind": "5,90 €"
     },
     {
-        "name": "Pihustite puhastusvahend diiselmootorile Carlube 300ml",
-        "price": "6,90 €",
-        "store": "Prisma"
+        "nimi": "Pihustite puhastusvahend diiselmootorile Carlube 300ml",
+        "hind": "6,90 €"
     },
     {
-        "name": "Orbit Spearmint närimiskummid 14 g",
-        "price": "0,84 €",
-        "store": "Prisma"
+        "nimi": "Orbit Spearmint närimiskummid 14 g",
+        "hind": "0,84 €"
     },
     {
-        "name": "Rochester Ginger 725ml",
-        "price": "7,79 €",
-        "store": "Prisma"
+        "nimi": "Rochester Ginger 725ml",
+        "hind": "7,79 €"
     },
     {
-        "name": "Max Factor silmapliiats Kohl 60 Ice blue",
-        "price": "7,58 €",
-        "store": "Prisma"
+        "nimi": "Max Factor silmapliiats Kohl 60 Ice blue",
+        "hind": "7,58 €"
     },
     {
-        "name": "CHEWITS maasika 30G",
-        "price": "0,48 €",
-        "store": "Prisma"
+        "nimi": "CHEWITS maasika 30G",
+        "hind": "0,48 €"
     },
     {
-        "name": "Halls Extra Strong kurgupastillid 33 g",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "Halls Extra Strong kurgupastillid 33 g",
+        "hind": "0,85 €"
     },
     {
-        "name": "Halls mee ja sidruniga kurgupastillid 33 g",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "Halls mee ja sidruniga kurgupastillid 33 g",
+        "hind": "0,85 €"
     },
     {
-        "name": "Sukulaku lagritsapulk 14 g",
-        "price": "0,75 €",
-        "store": "Prisma"
+        "nimi": "Sukulaku lagritsapulk 14 g",
+        "hind": "0,75 €"
     },
     {
-        "name": "Mynthon Zipmint Menthol suhkruvabad pastillid  30 g",
-        "price": "1,65 €",
-        "store": "Prisma"
+        "nimi": "Mynthon Zipmint Menthol suhkruvabad pastillid  30 g",
+        "hind": "1,65 €"
     },
     {
-        "name": "Nordic kuivpärm 2*12 g 24 g",
-        "price": "0,98 €",
-        "store": "Prisma"
+        "nimi": "Nordic kuivpärm 2*12 g 24 g",
+        "hind": "0,98 €"
     },
     {
-        "name": "Nordic Pärm, 50 g",
-        "price": "0,36 €",
-        "store": "Prisma"
+        "nimi": "Nordic Pärm, 50 g",
+        "hind": "0,36 €"
     },
     {
-        "name": "TIC TAC Mint T1 18g",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "TIC TAC Mint T1 18g",
+        "hind": "0,85 €"
     },
     {
-        "name": "Citres päikesekuivatatud tomatid päevalilleõlis 290/168 g",
-        "price": "3,91 €",
-        "store": "Prisma"
+        "nimi": "Citres päikesekuivatatud tomatid päevalilleõlis 290/168 g",
+        "hind": "3,91 €"
     },
     {
-        "name": "Kinder Bueno White šokolaadibatoon 39 g",
-        "price": "1,15 €",
-        "store": "Prisma"
+        "nimi": "Kinder Bueno White šokolaadibatoon 39 g",
+        "hind": "1,15 €"
     },
     {
-        "name": "TIC-TAC STRAWBERRY MIX 18G",
-        "price": "0,85 €",
-        "store": "Prisma"
+        "nimi": "TIC-TAC STRAWBERRY MIX 18G",
+        "hind": "0,85 €"
     },
     {
-        "name": "Torres San Valentin Parellada KPN vein 11%vol 187ml",
-        "price": "3,58 €",
-        "store": "Prisma"
+        "nimi": "Torres San Valentin Parellada KPN vein 11%vol 187ml",
+        "hind": "3,58 €"
     },
     {
-        "name": "Chupa Chups Melody Pops maasikamaitseline pulgakomm 15 g",
-        "price": "0,72 €",
-        "store": "Prisma"
+        "nimi": "Chupa Chups Melody Pops maasikamaitseline pulgakomm 15 g",
+        "hind": "0,72 €"
     },
     {
-        "name": "Mentos piparmündimaitseline nätsukomm 38 g",
-        "price": "0,88 €",
-        "store": "Prisma"
+        "nimi": "Mentos piparmündimaitseline nätsukomm 38 g",
+        "hind": "0,88 €"
     }
 ]
