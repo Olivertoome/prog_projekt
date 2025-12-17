@@ -143,7 +143,7 @@ class App(tk.Tk):
         ttk.Label(qty_row, textvariable=self.qty_var, width=4, anchor="center").pack(side="left")
         ttk.Button(qty_row, text="+", width=3, command=self._qty_plus).pack(side="left", padx=(6, 0))
 
-        ttk.Button(left, text="Lisa / uuenda ostukorvi", command=self.add_to_basket).pack(fill="x")
+        ttk.Button(left, text="Lisa ostukorvi", command=self.add_to_basket).pack(fill="x")
 
         ttk.Separator(left).pack(fill="x", pady=12)
 
