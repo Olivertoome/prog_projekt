@@ -1,67 +1,104 @@
 import json
 import time
+
+# Selenium avab päris veebilehe (nagu brauseris)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+
+# BeautifulSoup aitab HTML-koodi „lugeda“
 from bs4 import BeautifulSoup
 
-# 1. Setup Chrome options
-chrome_options = Options()
-chrome_options.add_argument("--headless") # Runs in background
-driver = webdriver.Chrome(options=chrome_options)
 
-def get_prisma_products(scroll_batches=10):
-    all_products = []
-    
+# 1. Brauseri seadistamine (Chrome töötab taustal)
+
+# Loob Chrome’i seadete objekti
+brauseri_seaded = Options()
+
+# --headless tähendab, et Chrome ei avane nähtava aknana
+# Programm töötab „taustal“
+brauseri_seaded.add_argument("--headless")
+
+# Käivitame Chrome’i Seleniumi kaudu
+brauser = webdriver.Chrome(options=brauseri_seaded)
+
+
+# 2. Funktsioon, mis loeb Prisma tooted veebilehelt
+
+def loe_prisma_tooted(kerimise_kordi=10):
+    koik_tooted = []
+
     try:
         url = "https://www.prismamarket.ee/tooted"
-        driver.get(url)
-        print("Loading Prisma...")
-        time.sleep(2) # Initial wait for the page to load
-        
-        # 2. Infinite Scroll logic
-        # Prisma loads more content as you scroll. 
-        # Increase 'scroll_batches' to get more items.
-        for i in range(scroll_batches):
-            print(f"Scrolling batch {i+1}...")
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2) # Give the site time to load the next set of items
-        
-        # 3. Parse the fully rendered HTML
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        product_cards = soup.find_all('article', attrs={'data-test-id': 'product-card'})
-        
-        print(f"Parsing {len(product_cards)} products...")
 
-        for card in product_cards:
-            name_tag = card.find("div", attrs={"data-test-id": "product-card__productName"})
-            price_tag = card.find("span", attrs={"data-test-id": "display-price"})
-            
-            if name_tag and price_tag:
-                # Get the title from the inner span for the cleanest name
-                name = name_tag.get_text(strip=True)
-                price = price_tag.get_text(strip=True)
-                
-                all_products.append({
-                    "nimi": name,
-                    "hind": price,
+        # Avame lehe brauseris
+        brauser.get(url)
+        print("Laen Prisma veebilehte...")
+
+        # Ootame natuke, et leht jõuaks ära laadida
+        time.sleep(2)
+
+        # 3. Lehe allapoole kerimine
+        # Prisma laeb uusi tooteid alles siis, kui alla kerida.
+        for i in range(kerimise_kordi):
+            print(f"Kerimine {i + 1}/{kerimise_kordi}")
+            brauser.execute_script(
+                "window.scrollTo(0, document.body.scrollHeight);"
+            )
+            time.sleep(2)  # ootame, et uued tooted ilmuksid
+
+        # 4. HTML-i lugemine BeautifulSoupiga
+        # Võtame kogu lehe HTML-koodi
+        soup = BeautifulSoup(brauser.page_source, "html.parser")
+
+        # Iga toode on Prisma lehel <article> elemendis
+        toote_kaardid = soup.find_all(
+            "article", attrs={"data-test-id": "product-card"}
+        )
+
+        print(f"Leidsin {len(toote_kaardid)} toodet")
+
+        # 5. Iga toote nime ja hinna lugemine
+        for kaart in toote_kaardid:
+            nimi_element = kaart.find(
+                "div", attrs={"data-test-id": "product-card__productName"}
+            )
+
+            hind_element = kaart.find(
+                "span", attrs={"data-test-id": "display-price"}
+            )
+
+            # Kui mõlemad on olemas, loeme andmed välja
+            if nimi_element and hind_element:
+                nimi = nimi_element.get_text(strip=True)
+                hind = hind_element.get_text(strip=True)
+
+                # Lisame toote listi
+                koik_tooted.append({
+                    "nimi": nimi,
+                    "hind": hind
                 })
-                
-    except Exception as e:
-        print(f"An error occurred: {e}")
+
+    except Exception as viga:
+        print(f"Tekkis viga: {viga}")
+
     finally:
-        driver.quit()
-        
-    return all_products
+        brauser.quit()
 
-# --- EXECUTION ---
-# Increase batches to get more products (each batch is roughly 15-20 items)
-SCROLL_COUNT = 15 
+    return koik_tooted
 
-products = get_prisma_products(scroll_batches=SCROLL_COUNT)
+# 6. Programmi käivitamine
 
-# 4. Export to JSON file
-file_name = "prisma_products.json"
-with open(file_name, 'w', encoding='utf-8') as f:
-    json.dump(products, f, ensure_ascii=False, indent=4)
+# Mitu korda lehte alla kerime
+KERIMISTE_ARV = 15
 
-print(f"\nDone! Successfully saved {len(products)} products to {file_name}")
+# Kutsume funktsiooni välja
+tooted = loe_prisma_tooted(kerimise_kordi=KERIMISTE_ARV)
+
+
+# 7. Andmete salvestamine JSON-faili
+faili_nimi = "prisma_products.json"
+
+with open(faili_nimi, "w", encoding="utf-8") as f:
+    json.dump(tooted, f, ensure_ascii=False, indent=4)
+
+print(f"\nValmis! Salvestasin {len(tooted)} toodet faili {faili_nimi}")
