@@ -8,336 +8,372 @@ from typing import Dict, List, Tuple, Set
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-DATA_DIR = "data"
+# Kaust, kus asuvad poodide JSON-failid
+ANDMETE_KAUST = "data"
 
 
 @dataclass
-class Store:
-    name: str
-    items: Dict[str, float]  # normalized_name -> price
+class Pood:
+    # Ühe poe andmed
+    nimi: str
+    kaubad: Dict[str, float]  # normaliseeritud_nimi -> hind
 
 
-def normalize(text: str) -> str:
-    return re.sub(r"\s+", " ", text.strip().lower())
+def normaliseeri_tekst(tekst: str) -> str:
+    # Muudab teksti väikesteks tähtedeks ja eemaldab liigsed tühikud
+    return re.sub(r"\s+", " ", tekst.strip().lower())
 
 
-def parse_price_to_float(price_text: str) -> float | None:
-    """
-    Võtab hinnast numbri: "1,89 €" / "0.99 €" -> 1.89 / 0.99
-    """
-    if price_text is None:
+def hind_tekstist_arvuks(hinna_tekst: str) -> float | None:
+    # Võtab hinnatekstist numbri: "1,89 €" / "0.99 €" -> 1.89 / 0.99
+    if hinna_tekst is None:
         return None
-    t = str(price_text).strip().replace("\u00a0", " ")
-    m = re.search(r"(\d+[.,]\d+)", t)
-    if not m:
+
+    puhastatud = str(hinna_tekst).strip().replace("\u00a0", " ")
+    vaste = re.search(r"(\d+[.,]\d+)", puhastatud)
+
+    if not vaste:
         return None
-    return float(m.group(1).replace(",", "."))
+
+    return float(vaste.group(1).replace(",", "."))
 
 
-def load_stores() -> List[Store]:
-    """
-    LOEB AINULT sinu praegust formaati:
-    [
-      {"nimi": "...", "hind": "1,89 €"},
-      ...
-    ]
-    (Lubab ka "name"/"price", kui mõnes failis on inglise võtmed.)
-    Poe nimi võetakse faili nimest.
-    """
-    if not os.path.isdir(DATA_DIR):
-        raise FileNotFoundError(f"Kausta '{DATA_DIR}' ei leitud.")
+def lae_poed() -> List[Pood]:
+    #Loeb poodide andmed kaustast data/
+    if not os.path.isdir(ANDMETE_KAUST):
+        raise FileNotFoundError(f"Kausta '{ANDMETE_KAUST}' ei leitud.")
 
-    stores: List[Store] = []
+    poed: List[Pood] = []
 
-    for fn in os.listdir(DATA_DIR):
-        if not fn.lower().endswith(".json"):
+    for faili_nimi in os.listdir(ANDMETE_KAUST):
+        if not faili_nimi.lower().endswith(".json"):
             continue
 
-        path = os.path.join(DATA_DIR, fn)
-        with open(path, "r", encoding="utf-8") as f:
-            raw = json.load(f)
+        faili_tee = os.path.join(ANDMETE_KAUST, faili_nimi)
+        with open(faili_tee, "r", encoding="utf-8") as f:
+            sisu = json.load(f)
 
-        if not isinstance(raw, list):
-            # Me loeme AINULT list-formaati; muu jätame vahele.
+        # Loeme ainult list-formaadis faile
+        if not isinstance(sisu, list):
             continue
 
-        items: Dict[str, float] = {}
-        for row in raw:
-            if not isinstance(row, dict):
+        kaubad: Dict[str, float] = {}
+
+        for rida in sisu:
+            if not isinstance(rida, dict):
                 continue
 
-            name = row.get("nimi") or row.get("name")
-            price_text = row.get("hind") or row.get("price")
+            toote_nimi = rida.get("nimi") or rida.get("name")
+            hinna_tekst = rida.get("hind") or rida.get("price")
 
-            if not name:
+            if not toote_nimi:
                 continue
 
-            price = parse_price_to_float(price_text)
-            if price is None:
+            hind = hind_tekstist_arvuks(hinna_tekst)
+            if hind is None:
                 continue
 
-            items[normalize(name)] = price
+            kaubad[normaliseeri_tekst(toote_nimi)] = hind
 
-        if items:
-            store_name = os.path.splitext(fn)[0]
-            stores.append(Store(name=store_name, items=items))
+        if kaubad:
+            poe_nimi = os.path.splitext(faili_nimi)[0]
+            poed.append(Pood(nimi=poe_nimi, kaubad=kaubad))
 
-    if not stores:
-        raise ValueError(
-            "Ei leidnud ühtegi sobivat poe faili. "
-            "Ootan, et data/*.json oleks list kujul: "
-            "[{'nimi':..., 'hind':...}, ...]"
-        )
-
-    return stores
+    return poed
 
 
-def best_match(name_norm: str, choices: List[str]) -> str | None:
-    m = difflib.get_close_matches(name_norm, choices, n=1, cutoff=0.6)
-    return m[0] if m else None
+def leia_parim_vaste(otsitav: str, valikud: List[str]) -> str | None:
+    # Leiab kõige sarnasema tootenime
+    vasted = difflib.get_close_matches(otsitav, valikud, n=1, cutoff=0.6)
+    return vasted[0] if vasted else None
 
 
-def calculate_for_store(store: Store, basket: Dict[str, int]) -> Tuple[float, List[str]]:
-    total = 0.0
-    missing: List[str] = []
-    keys = list(store.items.keys())
+def arvuta_poe_korv(
+    pood: Pood,
+    ostukorv: Dict[str, int]
+) -> Tuple[float, List[str]]:
+    # Arvutab ühe poe ostukorvi hinna ja puuduolevad tooted
+    koguhind = 0.0
+    puuduolevad: List[str] = []
 
-    for item_norm, qty in basket.items():
-        if item_norm in store.items:
-            total += store.items[item_norm] * qty
+    saadaolevad_tooted = list(pood.kaubad.keys())
+
+    for toode_norm, kogus in ostukorv.items():
+        if toode_norm in pood.kaubad:
+            koguhind += pood.kaubad[toode_norm] * kogus
         else:
-            match = best_match(item_norm, keys)
-            if match:
-                total += store.items[match] * qty
+            vaste = leia_parim_vaste(toode_norm, saadaolevad_tooted)
+            if vaste:
+                koguhind += pood.kaubad[vaste] * kogus
             else:
-                missing.append(item_norm)
+                puuduolevad.append(toode_norm)
 
-    return total, missing
+    return koguhind, puuduolevad
 
 
-class App(tk.Tk):
+class Rakendus(tk.Tk):
     def __init__(self):
         super().__init__()
+        # Akna põhiandmed
         self.title("Odavaim ostukorv")
         self.geometry("920x560")
         self.minsize(880, 520)
 
+        # Laeme poed sisse (JSON-failidest)
         try:
-            self.stores = load_stores()
-        except Exception as e:
-            messagebox.showerror("Viga", str(e))
+            self.poed = lae_poed()
+        except Exception as viga:
+            messagebox.showerror("Viga", str(viga))
             self.destroy()
             return
 
-        self.basket: Dict[str, int] = {}
-        self.all_products: List[str] = sorted(self._collect_all_products())
+        # Ostukorv: { toode_norm : kogus }
+        self.ostukorv: Dict[str, int] = {}
 
-        self.qty_var = tk.IntVar(value=1)
-        self.item_var = tk.StringVar()
+        # Kõik tooted kõigist poodidest (autocomplete jaoks)
+        self.koik_tooted: List[str] = sorted(self._kogu_koik_tooted())
 
-        self._build_ui()
+        # UI muutujad (Entry + kogus)
+        self.kogus_muuttuja = tk.IntVar(value=1)
+        self.toode_muuttuja = tk.StringVar()
 
-    def _collect_all_products(self) -> Set[str]:
-        s: Set[str] = set()
-        for st in self.stores:
-            s.update(st.items.keys())
-        return s
+        # Ehitame kasutajaliidese
+        self._ehita_ui()
 
-    def _build_ui(self):
-        style = ttk.Style()
-        if "clam" in style.theme_names():
-            style.theme_use("clam")
-        style.configure("Title.TLabel", font=("Segoe UI", 16, "bold"))
-        style.configure("TButton", font=("Segoe UI", 10))
-        style.configure("TLabel", font=("Segoe UI", 10))
+    def _kogu_koik_tooted(self) -> Set[str]:
+        # Koondab kõik toodete võtmed kõikidest poodidest
+        koik: Set[str] = set()
+        for pood in self.poed:
+            koik.update(pood.kaubad.keys())
+        return koik
 
-        root = ttk.Frame(self, padding=16)
-        root.pack(fill="both", expand=True)
+    def _ehita_ui(self):
+        # Tkinteri stii
+        stiil = ttk.Style()
+        if "clam" in stiil.theme_names():
+            stiil.theme_use("clam")
+        stiil.configure("Title.TLabel", font=("Segoe UI", 16, "bold"))
+        stiil.configure("TButton", font=("Segoe UI", 10))
+        stiil.configure("TLabel", font=("Segoe UI", 10))
 
-        ttk.Label(root, text="Odavaima poe leidja", style="Title.TLabel").pack(anchor="w")
+        # Peamine konteiner
+        juur = ttk.Frame(self, padding=16)
+        juur.pack(fill="both", expand=True)
 
-        main = ttk.Frame(root)
-        main.pack(fill="both", expand=True, pady=(12, 0))
+        ttk.Label(juur, text="Odavaima poe leidja", style="Title.TLabel").pack(anchor="w")
 
-        left = ttk.LabelFrame(main, text="Lisa toode", padding=12)
-        left.pack(side="left", fill="both", expand=True)
+        # Kahe veeruga paigutus
+        sisu = ttk.Frame(juur)
+        sisu.pack(fill="both", expand=True, pady=(12, 0))
 
-        ttk.Label(left, text="Toote nimi").pack(anchor="w")
+        # Vasak paneel: lisamine
+        vasak = ttk.LabelFrame(sisu, text="Lisa toode", padding=12)
+        vasak.pack(side="left", fill="both", expand=True)
 
-        self.entry = ttk.Entry(left, textvariable=self.item_var)
-        self.entry.pack(fill="x", pady=(6, 4))
-        self.entry.focus_set()
+        ttk.Label(vasak, text="Toote nimi").pack(anchor="w")
 
-        self.suggest_box = tk.Listbox(left, height=6)
-        self.suggest_box.pack(fill="x")
-        self.suggest_box.pack_forget()
+        self.sisestus = ttk.Entry(vasak, textvariable=self.toode_muuttuja)
+        self.sisestus.pack(fill="x", pady=(6, 4))
+        self.sisestus.focus_set()
 
-        self.item_var.trace_add("write", lambda *_: self._update_suggestions())
+        # Autocomplete list
+        self.soovituste_kast = tk.Listbox(vasak, height=6)
+        self.soovituste_kast.pack(fill="x")
+        self.soovituste_kast.pack_forget()
 
-        self.suggest_box.bind("<ButtonRelease-1>", lambda _e: self._pick_suggestion())
-        self.suggest_box.bind("<Return>", lambda _e: self._pick_suggestion())
-        self.entry.bind("<Down>", lambda _e: self._focus_suggestions())
-        self.entry.bind("<Escape>", lambda _e: self._hide_suggestions())
-        self.suggest_box.bind("<Escape>", lambda _e: self._hide_suggestions())
+        # Kirjutamine -> uuenda soovitusi
+        self.toode_muuttuja.trace_add("write", lambda *_: self._uuenda_soovitusi())
 
-        self.entry.bind("<Return>", self._on_enter_in_entry)
-        self.bind_all("<Control-f>", lambda _e: (self.entry.focus_set(), "break"))
+        # Soovituste valimine hiire/Enteriga
+        self.soovituste_kast.bind("<ButtonRelease-1>", lambda _e: self._vali_soovitus())
+        self.soovituste_kast.bind("<Return>", lambda _e: self._vali_soovitus())
+        self.sisestus.bind("<Down>", lambda _e: self._fookus_soovitustele())
+        self.sisestus.bind("<Escape>", lambda _e: self._peida_soovitused())
+        self.soovituste_kast.bind("<Escape>", lambda _e: self._peida_soovitused())
 
-        qty_row = ttk.Frame(left)
-        qty_row.pack(fill="x", pady=(10, 10))
+        # Enter: vali esimene soovitus ja lisa ostukorvi
+        self.sisestus.bind("<Return>", self._enter_sisestuses)
+        # Ctrl+F: vii fookus sisestusse
+        self.bind_all("<Control-f>", lambda _e: (self.sisestus.focus_set(), "break"))
 
-        ttk.Label(qty_row, text="Kogus").pack(side="left")
-        ttk.Button(qty_row, text="−", width=3, command=self._qty_minus).pack(side="left", padx=(10, 6))
-        ttk.Label(qty_row, textvariable=self.qty_var, width=4, anchor="center").pack(side="left")
-        ttk.Button(qty_row, text="+", width=3, command=self._qty_plus).pack(side="left", padx=(6, 0))
+        # Koguse rida (+ / -)
+        koguse_rida = ttk.Frame(vasak)
+        koguse_rida.pack(fill="x", pady=(10, 10))
 
-        ttk.Button(left, text="Lisa ostukorvi", command=self.add_to_basket).pack(fill="x")
+        ttk.Label(koguse_rida, text="Kogus").pack(side="left")
+        ttk.Button(koguse_rida, text="−", width=3, command=self._kogus_miinus).pack(side="left", padx=(10, 6))
+        ttk.Label(koguse_rida, textvariable=self.kogus_muuttuja, width=4, anchor="center").pack(side="left")
+        ttk.Button(koguse_rida, text="+", width=3, command=self._kogus_pluss).pack(side="left", padx=(6, 0))
 
-        ttk.Separator(left).pack(fill="x", pady=12)
+        ttk.Button(vasak, text="Lisa ostukorvi", command=self.lisa_ostukorvi).pack(fill="x")
 
-        ttk.Button(left, text="Arvuta odavaim pood", command=self.calculate).pack(fill="x")
+        ttk.Separator(vasak).pack(fill="x", pady=12)
 
-        self.best_lbl = ttk.Label(left, text="", font=("Segoe UI", 11, "bold"))
-        self.best_lbl.pack(anchor="w", pady=(12, 6))
+        ttk.Button(vasak, text="Arvuta odavaim pood", command=self.arvuta).pack(fill="x")
 
-        self.missing_lbl = ttk.Label(left, text="", wraplength=380, justify="left")
-        self.missing_lbl.pack(anchor="w")
+        # Tulemuse sildid
+        self.parim_silt = ttk.Label(vasak, text="", font=("Segoe UI", 11, "bold"))
+        self.parim_silt.pack(anchor="w", pady=(12, 6))
 
-        right = ttk.LabelFrame(main, text="Ostukorv", padding=12)
-        right.pack(side="right", fill="both", expand=True, padx=(14, 0))
+        self.puudu_silt = ttk.Label(vasak, text="", wraplength=380, justify="left")
+        self.puudu_silt.pack(anchor="w")
 
-        cols = ("Toode", "Kogus")
-        self.tree = ttk.Treeview(right, columns=cols, show="headings", height=16)
-        self.tree.heading("Toode", text="Toode")
-        self.tree.heading("Kogus", text="Kogus")
-        self.tree.column("Toode", width=360, anchor="w")
-        self.tree.column("Kogus", width=80, anchor="center")
-        self.tree.pack(fill="both", expand=True)
+        # Parem paneel: ostukorv
+        parem = ttk.LabelFrame(sisu, text="Ostukorv", padding=12)
+        parem.pack(side="right", fill="both", expand=True, padx=(14, 0))
 
-        btn_row = ttk.Frame(right)
-        btn_row.pack(fill="x", pady=(10, 0))
-        ttk.Button(btn_row, text="Eemalda valitu", command=self.remove_selected).pack(side="left")
-        ttk.Button(btn_row, text="Tühjenda ostukorv", command=self.clear_basket).pack(side="left", padx=(8, 0))
+        veerud = ("Toode", "Kogus")
+        self.tabel = ttk.Treeview(parem, columns=veerud, show="headings", height=16)
+        self.tabel.heading("Toode", text="Toode")
+        self.tabel.heading("Kogus", text="Kogus")
+        self.tabel.column("Toode", width=360, anchor="w")
+        self.tabel.column("Kogus", width=80, anchor="center")
+        self.tabel.pack(fill="both", expand=True)
 
-        stores_line = ", ".join(s.name for s in self.stores)
-        ttk.Label(root, text=f"Laetud poed: {stores_line}").pack(anchor="w", pady=(12, 0))
+        # Ostukorvi nupud
+        nupurea = ttk.Frame(parem)
+        nupurea.pack(fill="x", pady=(10, 0))
+        ttk.Button(nupurea, text="Eemalda valitu", command=self.eemalda_valitu).pack(side="left")
+        ttk.Button(nupurea, text="Tühjenda ostukorv", command=self.tyhjenda_ostukorv).pack(side="left", padx=(8, 0))
 
-    def _update_suggestions(self):
-        typed = normalize(self.item_var.get())
-        if not typed:
-            self._hide_suggestions()
+        # Jalus: laetud poed
+        poed_rida = ", ".join(p.nimi for p in self.poed)
+        ttk.Label(juur, text=f"Laetud poed: {poed_rida}").pack(anchor="w", pady=(12, 0))
+
+    def _uuenda_soovitusi(self):
+        # Uuendab autocomplete soovitusi sisestuse põhjal
+        otsing = normaliseeri_tekst(self.toode_muuttuja.get())
+        if not otsing:
+            self._peida_soovitused()
             return
 
-        matches = [p for p in self.all_products if typed in p][:12]
-        if not matches:
-            self._hide_suggestions()
+        vasted = [t for t in self.koik_tooted if otsing in t][:12]
+        if not vasted:
+            self._peida_soovitused()
             return
 
-        self.suggest_box.delete(0, tk.END)
-        for m in matches:
-            self.suggest_box.insert(tk.END, m)
+        self.soovituste_kast.delete(0, tk.END)
+        for v in vasted:
+            self.soovituste_kast.insert(tk.END, v)
 
-        if not self.suggest_box.winfo_ismapped():
-            self.suggest_box.pack(fill="x", pady=(0, 6))
+        if not self.soovituste_kast.winfo_ismapped():
+            self.soovituste_kast.pack(fill="x", pady=(0, 6))
 
-        self.suggest_box.selection_clear(0, tk.END)
-        self.suggest_box.selection_set(0)
-        self.suggest_box.activate(0)
+        self.soovituste_kast.selection_clear(0, tk.END)
+        self.soovituste_kast.selection_set(0)
+        self.soovituste_kast.activate(0)
 
-    def _on_enter_in_entry(self, _e):
-        if self.suggest_box.winfo_ismapped() and self.suggest_box.size() > 0:
-            self.suggest_box.selection_clear(0, tk.END)
-            self.suggest_box.selection_set(0)
-            self.suggest_box.activate(0)
-            self._pick_suggestion()
-            self.add_to_basket()
+    def _enter_sisestuses(self, _e):
+        # Enter: kui on soovitusi, vali esimene ja lisa ostukorvi
+        if self.soovituste_kast.winfo_ismapped() and self.soovituste_kast.size() > 0:
+            self.soovituste_kast.selection_clear(0, tk.END)
+            self.soovituste_kast.selection_set(0)
+            self.soovituste_kast.activate(0)
+            self._vali_soovitus()
+            self.lisa_ostukorvi()
             return
-        self.add_to_basket()
+        self.lisa_ostukorvi()
 
-    def _hide_suggestions(self):
-        if self.suggest_box.winfo_ismapped():
-            self.suggest_box.pack_forget()
+    def _peida_soovitused(self):
+        # Peidab autocomplete kasti
+        if self.soovituste_kast.winfo_ismapped():
+            self.soovituste_kast.pack_forget()
 
-    def _focus_suggestions(self):
-        if self.suggest_box.winfo_ismapped() and self.suggest_box.size() > 0:
-            self.suggest_box.focus_set()
-            self.suggest_box.selection_clear(0, tk.END)
-            self.suggest_box.selection_set(0)
-            self.suggest_box.activate(0)
+    def _fookus_soovitustele(self):
+        # Viib fookuse soovituste listile
+        if self.soovituste_kast.winfo_ismapped() and self.soovituste_kast.size() > 0:
+            self.soovituste_kast.focus_set()
+            self.soovituste_kast.selection_clear(0, tk.END)
+            self.soovituste_kast.selection_set(0)
+            self.soovituste_kast.activate(0)
 
-    def _pick_suggestion(self):
-        sel = self.suggest_box.curselection()
-        if not sel:
+    def _vali_soovitus(self):
+        # Paneb valitud soovituse sisestuskasti
+        valik = self.soovituste_kast.curselection()
+        if not valik:
             return
-        value = self.suggest_box.get(sel[0])
-        self.item_var.set(value)
-        self._hide_suggestions()
-        self.entry.focus_set()
-        self.entry.icursor(tk.END)
+        soovitus = self.soovituste_kast.get(valik[0])
+        self.toode_muuttuja.set(soovitus)
+        self._peida_soovitused()
+        self.sisestus.focus_set()
+        self.sisestus.icursor(tk.END)
 
-    def _qty_plus(self):
-        self.qty_var.set(self.qty_var.get() + 1)
+    def _kogus_pluss(self):
+        # Suurendab kogust
+        self.kogus_muuttuja.set(self.kogus_muuttuja.get() + 1)
 
-    def _qty_minus(self):
-        self.qty_var.set(max(1, self.qty_var.get() - 1))
+    def _kogus_miinus(self):
+        # Vähendab kogust (min 1)
+        self.kogus_muuttuja.set(max(1, self.kogus_muuttuja.get() - 1))
 
-    def add_to_basket(self):
-        name = self.item_var.get().strip()
-        qty = int(self.qty_var.get())
+    def lisa_ostukorvi(self):
+        # Lisab sisestatud toote ostukorvi
+        toote_nimi = self.toode_muuttuja.get().strip()
+        kogus = int(self.kogus_muuttuja.get())
 
-        if not name:
+        if not toote_nimi:
             messagebox.showwarning("Hoiatus", "Sisesta toote nimi.")
             return
 
-        key = normalize(name)
-        self.basket[key] = self.basket.get(key, 0) + qty
+        voti = normaliseeri_tekst(toote_nimi)
+        self.ostukorv[voti] = self.ostukorv.get(voti, 0) + kogus
 
-        self.item_var.set("")
-        self.qty_var.set(1)
-        self._hide_suggestions()
-        self._refresh_basket_view()
+        self.toode_muuttuja.set("")
+        self.kogus_muuttuja.set(1)
+        self._peida_soovitused()
+        self._uuenda_ostukorvi_vaadet()
 
-    def _refresh_basket_view(self):
-        self.tree.delete(*self.tree.get_children())
-        for item_norm, qty in sorted(self.basket.items()):
-            self.tree.insert("", "end", values=(item_norm, qty))
+    def _uuenda_ostukorvi_vaadet(self):
+        # Värskendab ostukorvi tabelit
+        self.tabel.delete(*self.tabel.get_children())
+        for toode_norm, kogus in sorted(self.ostukorv.items()):
+            self.tabel.insert("", "end", values=(toode_norm, kogus))
 
-    def remove_selected(self):
-        sel = self.tree.selection()
-        if not sel:
+    def eemalda_valitu(self):
+        # Eemaldab tabelist valitud tooted ostukorvist
+        valitud = self.tabel.selection()
+        if not valitud:
             return
-        for iid in sel:
-            item_norm = self.tree.item(iid, "values")[0]
-            self.basket.pop(item_norm, None)
-        self._refresh_basket_view()
+        for iid in valitud:
+            toode_norm = self.tabel.item(iid, "values")[0]
+            self.ostukorv.pop(toode_norm, None)
+        self._uuenda_ostukorvi_vaadet()
 
-    def clear_basket(self):
-        self.basket.clear()
-        self._refresh_basket_view()
-        self.best_lbl.config(text="")
-        self.missing_lbl.config(text="")
-        self._hide_suggestions()
+    def tyhjenda_ostukorv(self):
+        # Tühjendab ostukorvi ja tulemused
+        self.ostukorv.clear()
+        self._uuenda_ostukorvi_vaadet()
+        self.parim_silt.config(text="")
+        self.puudu_silt.config(text="")
+        self._peida_soovitused()
 
-    def calculate(self):
-        if not self.basket:
+    def arvuta(self):
+        # Leiab odavaima poe selle ostukorvi jaoks
+        if not self.ostukorv:
             messagebox.showwarning("Hoiatus", "Ostukorv on tühi.")
             return
 
-        results = []
-        for s in self.stores:
-            total, missing = calculate_for_store(s, self.basket)
-            results.append((s.name, total, missing))
+        tulemused = []
+        for pood in self.poed:
+            koguhind, puudu = arvuta_poe_korv(pood, self.ostukorv)
+            tulemused.append((pood.nimi, koguhind, puudu))
 
-        results.sort(key=lambda x: (len(x[2]) > 0, x[1]))
-        best_name, best_total, best_missing = results[0]
+        tulemused.sort(key=lambda x: (len(x[2]) > 0, x[1]))
+        parim_nimi, parim_hind, parim_puudu = tulemused[0]
 
-        if len(best_missing) == 0:
-            self.best_lbl.config(text=f"✅ Odavaim pood: {best_name} — {best_total:.2f} €")
-            self.missing_lbl.config(text="Puuduolevaid tooteid selles poes ei ole.")
+        ilus_poe_nimi = parim_nimi.replace("_products", "").capitalize()
+
+        if len(parim_puudu) == 0:
+            self.parim_silt.config(
+            text=f"Odavaim pood: {ilus_poe_nimi} — {parim_hind:.2f} €")
+            self.puudu_silt.config(
+                text="Puuduolevaid tooteid selles poes ei ole.")
         else:
-            self.best_lbl.config(text=f"⚠️ Odavaim (osalise korviga): {best_name} — {best_total:.2f} €")
-            self.missing_lbl.config(text="Selles poes ei ole: " + ", ".join(best_missing))
+            self.parim_silt.config(
+                text=f"Odavaim pood: {ilus_poe_nimi} — {parim_hind:.2f} €")
+            self.puudu_silt.config(
+                text="Selles poes ei ole: " + ", ".join(parim_puudu))
 
 
 if __name__ == "__main__":
-    App().mainloop()
+    Rakendus().mainloop()
