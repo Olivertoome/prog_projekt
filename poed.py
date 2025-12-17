@@ -1,3 +1,8 @@
+#Pealkiri: Odavaim ostukorv
+#Tegiada: Oliver Toome ja Kristofer-Robin Tiits
+#Käivitamiseks tuleb panna bash terminali:
+# python poed.py
+
 import json
 import os
 import re
