@@ -42,9 +42,8 @@ def get_prisma_products(scroll_batches=10):
                 price = price_tag.get_text(strip=True)
                 
                 all_products.append({
-                    "name": name,
-                    "price": price,
-                    "store": "Prisma"
+                    "nimi": name,
+                    "hind": price,
                 })
                 
     except Exception as e:

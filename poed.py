@@ -1,12 +1,12 @@
 import json
 import os
+import re
 import difflib
 from dataclasses import dataclass
 from typing import Dict, List, Tuple, Set
 
 import tkinter as tk
 from tkinter import ttk, messagebox
-
 
 DATA_DIR = "data"
 
@@ -21,22 +21,74 @@ def normalize(text: str) -> str:
     return text.strip().lower().replace(" ", "")
 
 
+def parse_price_to_float(price_text: str) -> float | None:
+    """
+    Võtab hinnast numbri: "1,89 €" / "0.99 €" -> 1.89 / 0.99
+    """
+    if price_text is None:
+        return None
+    t = str(price_text).strip().replace("\u00a0", " ")
+    m = re.search(r"(\d+[.,]\d+)", t)
+    if not m:
+        return None
+    return float(m.group(1).replace(",", "."))
+
+
 def load_stores() -> List[Store]:
+    """
+    LOEB AINULT sinu praegust formaati:
+    [
+      {"nimi": "...", "hind": "1,89 €"},
+      ...
+    ]
+    (Lubab ka "name"/"price", kui mõnes failis on inglise võtmed.)
+    Poe nimi võetakse faili nimest.
+    """
     if not os.path.isdir(DATA_DIR):
         raise FileNotFoundError(f"Kausta '{DATA_DIR}' ei leitud.")
 
     stores: List[Store] = []
+
     for fn in os.listdir(DATA_DIR):
-        if fn.lower().endswith(".json"):
-            with open(os.path.join(DATA_DIR, fn), "r", encoding="utf-8") as f:
-                raw = json.load(f)
-            name = raw.get("store", os.path.splitext(fn)[0])
-            raw_items = raw.get("items", {})
-            items = {normalize(k): float(v) for k, v in raw_items.items()}
-            stores.append(Store(name=name, items=items))
+        if not fn.lower().endswith(".json"):
+            continue
+
+        path = os.path.join(DATA_DIR, fn)
+        with open(path, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+
+        if not isinstance(raw, list):
+            # Me loeme AINULT list-formaati; muu jätame vahele.
+            continue
+
+        items: Dict[str, float] = {}
+        for row in raw:
+            if not isinstance(row, dict):
+                continue
+
+            name = row.get("nimi") or row.get("name")
+            price_text = row.get("hind") or row.get("price")
+
+            if not name:
+                continue
+
+            price = parse_price_to_float(price_text)
+            if price is None:
+                continue
+
+            items[normalize(name)] = price
+
+        if items:
+            store_name = os.path.splitext(fn)[0]
+            stores.append(Store(name=store_name, items=items))
 
     if not stores:
-        raise ValueError("Ühtegi .json poodi ei leitud kaustast 'data/'.")
+        raise ValueError(
+            "Ei leidnud ühtegi sobivat poe faili. "
+            "Ootan, et data/*.json oleks list kujul: "
+            "[{'nimi':..., 'hind':...}, ...]"
+        )
+
     return stores
 
 
@@ -77,13 +129,9 @@ class App(tk.Tk):
             self.destroy()
             return
 
-        # Ostukorv: normalized_name -> qty
         self.basket: Dict[str, int] = {}
-
-        # AUTOCOMPLETE: kõik võimalikud toodete nimed (normalized)
         self.all_products: List[str] = sorted(self._collect_all_products())
 
-        # UI state
         self.qty_var = tk.IntVar(value=1)
         self.item_var = tk.StringVar()
 
@@ -111,7 +159,6 @@ class App(tk.Tk):
         main = ttk.Frame(root)
         main.pack(fill="both", expand=True, pady=(12, 0))
 
-        # LEFT
         left = ttk.LabelFrame(main, text="Lisa toode", padding=12)
         left.pack(side="left", fill="both", expand=True)
 
@@ -121,12 +168,10 @@ class App(tk.Tk):
         self.entry.pack(fill="x", pady=(6, 4))
         self.entry.focus_set()
 
-        # AUTOCOMPLETE list (peidetud kuni on midagi pakkuda)
         self.suggest_box = tk.Listbox(left, height=6)
         self.suggest_box.pack(fill="x")
         self.suggest_box.pack_forget()
 
-        # Sidumised: kui kirjutad, uuendab soovitusi
         self.item_var.trace_add("write", lambda *_: self._update_suggestions())
 
         self.suggest_box.bind("<ButtonRelease-1>", lambda _e: self._pick_suggestion())
@@ -134,6 +179,9 @@ class App(tk.Tk):
         self.entry.bind("<Down>", lambda _e: self._focus_suggestions())
         self.entry.bind("<Escape>", lambda _e: self._hide_suggestions())
         self.suggest_box.bind("<Escape>", lambda _e: self._hide_suggestions())
+
+        self.entry.bind("<Return>", self._on_enter_in_entry)
+        self.bind_all("<Control-f>", lambda _e: (self.entry.focus_set(), "break"))
 
         qty_row = ttk.Frame(left)
         qty_row.pack(fill="x", pady=(10, 10))
@@ -155,7 +203,6 @@ class App(tk.Tk):
         self.missing_lbl = ttk.Label(left, text="", wraplength=380, justify="left")
         self.missing_lbl.pack(anchor="w")
 
-        # RIGHT
         right = ttk.LabelFrame(main, text="Ostukorv", padding=12)
         right.pack(side="right", fill="both", expand=True, padx=(14, 0))
 
@@ -175,19 +222,13 @@ class App(tk.Tk):
         stores_line = ", ".join(s.name for s in self.stores)
         ttk.Label(root, text=f"Laetud poed: {stores_line}").pack(anchor="w", pady=(12, 0))
 
-        # Enter lisab toote
-        self.entry.bind("<Return>", lambda _e: self.add_to_basket())
-
-    # ---------- AUTOCOMPLETE ----------
     def _update_suggestions(self):
         typed = normalize(self.item_var.get())
         if not typed:
             self._hide_suggestions()
             return
 
-        matches = [p for p in self.all_products if p.startswith(typed)]
-        matches = matches[:12]
-
+        matches = [p for p in self.all_products if typed in p][:12]
         if not matches:
             self._hide_suggestions()
             return
@@ -196,9 +237,22 @@ class App(tk.Tk):
         for m in matches:
             self.suggest_box.insert(tk.END, m)
 
-        # näita listi
         if not self.suggest_box.winfo_ismapped():
             self.suggest_box.pack(fill="x", pady=(0, 6))
+
+        self.suggest_box.selection_clear(0, tk.END)
+        self.suggest_box.selection_set(0)
+        self.suggest_box.activate(0)
+
+    def _on_enter_in_entry(self, _e):
+        if self.suggest_box.winfo_ismapped() and self.suggest_box.size() > 0:
+            self.suggest_box.selection_clear(0, tk.END)
+            self.suggest_box.selection_set(0)
+            self.suggest_box.activate(0)
+            self._pick_suggestion()
+            self.add_to_basket()
+            return
+        self.add_to_basket()
 
     def _hide_suggestions(self):
         if self.suggest_box.winfo_ismapped():
@@ -220,7 +274,6 @@ class App(tk.Tk):
         self._hide_suggestions()
         self.entry.focus_set()
         self.entry.icursor(tk.END)
-    # -------------------------------
 
     def _qty_plus(self):
         self.qty_var.set(self.qty_var.get() + 1)
@@ -242,7 +295,6 @@ class App(tk.Tk):
         self.item_var.set("")
         self.qty_var.set(1)
         self._hide_suggestions()
-
         self._refresh_basket_view()
 
     def _refresh_basket_view(self):

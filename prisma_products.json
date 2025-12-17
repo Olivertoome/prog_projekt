@@ -1,0 +1,2978 @@
+[
+    {
+        "nimi": "MINI RUKKI RIISIPIRUKAS 6 TK PAKK",
+        "hind": "1,89 €"
+    },
+    {
+        "nimi": "Baguette",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "Baguette juustuga",
+        "hind": "3,39 €"
+    },
+    {
+        "nimi": "Ciabatta",
+        "hind": "2,89 €"
+    },
+    {
+        "nimi": "Ciabatta india pähklite ja jõhvikatega",
+        "hind": "3,99 €"
+    },
+    {
+        "nimi": "Ciabatta kõrvitsaseemnetega",
+        "hind": "2,39 €"
+    },
+    {
+        "nimi": "Päts cheddar juustuga",
+        "hind": "3,75 €"
+    },
+    {
+        "nimi": "Tume baguette seemnetega",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Tume ciabatta seemnetega",
+        "hind": "3,15 €"
+    },
+    {
+        "nimi": "Vahemere ciabatta",
+        "hind": "3,75 €"
+    },
+    {
+        "nimi": "Täisteraleib",
+        "hind": "2,65 €"
+    },
+    {
+        "nimi": "Must päts",
+        "hind": "2,65 €"
+    },
+    {
+        "nimi": "Focaccia päikesekuivatatud tomatitega",
+        "hind": "4,19 €"
+    },
+    {
+        "nimi": "Geisha šokolaadivahukook, sulatatud 2 tk, 160 g",
+        "hind": "4,25 €"
+    },
+    {
+        "nimi": "Passioni,juustukoogirull, sulatatud 485 g",
+        "hind": "6,19 €"
+    },
+    {
+        "nimi": "Ciabatta Röstsibulaga",
+        "hind": "2,19 €"
+    },
+    {
+        "nimi": "Marianne šokolaadrirull, sulatatud 485 g",
+        "hind": "6,09 €"
+    },
+    {
+        "nimi": "Dumle pontšik",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Karamellitäidisega pontšik glasuuriga",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Vaarikatäidisega pontšik glasuuriga",
+        "hind": "1,89 €"
+    },
+    {
+        "nimi": "Dallase sai",
+        "hind": "1,39 €"
+    },
+    {
+        "nimi": "Kaneelisai",
+        "hind": "1,49 €"
+    },
+    {
+        "nimi": "Kohupiimasõrnik",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Kohupiimatasku",
+        "hind": "1,69 €"
+    },
+    {
+        "nimi": "Maasikakorp",
+        "hind": "1,65 €"
+    },
+    {
+        "nimi": "Pähkli-šokolaadicroissant",
+        "hind": "1,39 €"
+    },
+    {
+        "nimi": "Šokolaaditäidisega sõõrik",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Viinisai",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Võisai",
+        "hind": "0,79 €"
+    },
+    {
+        "nimi": "Viineripirukas",
+        "hind": "1,05 €"
+    },
+    {
+        "nimi": "Juustucroissant",
+        "hind": "0,75 €"
+    },
+    {
+        "nimi": "Singi-juustupirukas",
+        "hind": "0,65 €"
+    },
+    {
+        "nimi": "Spinatistruudel",
+        "hind": "1,99 €"
+    },
+    {
+        "nimi": "Minipitsa suitsukanaga",
+        "hind": "1,65 €"
+    },
+    {
+        "nimi": "Mini liha-riisipirukas",
+        "hind": "0,39 €"
+    },
+    {
+        "nimi": "Juusturull mozzarellaga",
+        "hind": "1,99 €"
+    },
+    {
+        "nimi": "Juustustritsel",
+        "hind": "3,89 €"
+    },
+    {
+        "nimi": "Baguette juustu-küüslaugu",
+        "hind": "2,59 €"
+    },
+    {
+        "nimi": "Gluteenivaba karamellikook",
+        "hind": "1,79 €"
+    },
+    {
+        "nimi": "Suur võicroissant",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Kohupiimapall",
+        "hind": "0,39 €"
+    },
+    {
+        "nimi": "Sepik rukkihelvestega",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Pistaatsiacroissant 130 g",
+        "hind": "2,59 €"
+    },
+    {
+        "nimi": "Lihapirukas 85 g",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Vanilje-rosinarull 95 g",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Põhjamaine vormisai 440 g",
+        "hind": "2,49 €"
+    },
+    {
+        "nimi": "Rukkileib 310 g",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Hele crookie 120 g",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Mustikapirukas 320 g",
+        "hind": "3,15 €"
+    },
+    {
+        "nimi": "Mustika-vaarikapirukas 320 g",
+        "hind": "3,15 €"
+    },
+    {
+        "nimi": "Mascarpone, vaarika, granaatõuna saiake 550 g",
+        "hind": "0,89 €"
+    },
+    {
+        "nimi": "Moonisai 165 g",
+        "hind": "1,49 €"
+    },
+    {
+        "nimi": "Pitsatasku 105 g",
+        "hind": "1,59 €"
+    },
+    {
+        "nimi": "3-juustu suitsukanapirukas 84 g",
+        "hind": "1,25 €"
+    },
+    {
+        "nimi": "Tiramisu rull 450 g",
+        "hind": "5,59 €"
+    },
+    {
+        "nimi": "Juuretiseleib 500 g",
+        "hind": "2,55 €"
+    },
+    {
+        "nimi": "Mini sõõrik MIX 22 g",
+        "hind": "0,39 €"
+    },
+    {
+        "nimi": "Banaani-toffee pontšik 106 g",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Fazer Rosina-toffeekeeks 330 g",
+        "hind": "2,99 €"
+    },
+    {
+        "nimi": "Fazer Original Tippaleipä 180 g",
+        "hind": "3,59 €"
+    },
+    {
+        "nimi": "Fazer Brokoli Minipitsa 100 g",
+        "hind": "1,39 €"
+    },
+    {
+        "nimi": "Fazer Pitsaamps Singiga 20 g",
+        "hind": "0,35 €"
+    },
+    {
+        "nimi": "Fazer Salaami-Fetajuustu Minipitsa 110 g",
+        "hind": "1,69 €"
+    },
+    {
+        "nimi": "Fazer Pitsaamps seenega 20 g",
+        "hind": "0,35 €"
+    },
+    {
+        "nimi": "Fazer Singi - Juustustritsel 330 g",
+        "hind": "4,09 €"
+    },
+    {
+        "nimi": "Fazer Hot Dog rull 85 g",
+        "hind": "1,39 €"
+    },
+    {
+        "nimi": "Fazer Tume Juuretiseleib 500 g",
+        "hind": "2,55 €"
+    },
+    {
+        "nimi": "Fazer Pohla-Mandli Cruffin 75 g",
+        "hind": "1,59 €"
+    },
+    {
+        "nimi": "Fazer Šokolaadi-Piparmündi Rullkook 410 g",
+        "hind": "6,49 €"
+    },
+    {
+        "nimi": "Fazer Talvine Õnneleib 420 g",
+        "hind": "4,55 €"
+    },
+    {
+        "nimi": "Fazer Dallase Sai Apelsiniga 100 g",
+        "hind": "1,39 €"
+    },
+    {
+        "nimi": "Fazer Pohla-Mandlistritsel 520 g",
+        "hind": "6,29 €"
+    },
+    {
+        "nimi": "Maybelline ripsmetušš Colossal 01 Black Waterproof",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Kinder šokolaadimuna 20g",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Kinder Country piimašokolaad piimatäidise ja teraviljadega 24g.",
+        "hind": "0,58 €"
+    },
+    {
+        "nimi": "Kinder piimatäidisega piimašokolaad T8 100 g",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "Kinder Milk Slice magustoit, 28g",
+        "hind": "0,82 €"
+    },
+    {
+        "nimi": "Orbit White Freshmint närimiskumm 14 g",
+        "hind": "0,84 €"
+    },
+    {
+        "nimi": "Orbit White Spearmint närimiskummid 14 g",
+        "hind": "0,84 €"
+    },
+    {
+        "nimi": "Orbit Watermelon närimiskummid 14 g",
+        "hind": "0,84 €"
+    },
+    {
+        "nimi": "ORBIT White maasika närimiskummid 14g",
+        "hind": "0,78 €"
+    },
+    {
+        "nimi": "Mentos puuviljamaitseline nätsukomm 38 g",
+        "hind": "0,88 €"
+    },
+    {
+        "nimi": "Orbit Sweetmint närimiskummid 14 g",
+        "hind": "0,84 €"
+    },
+    {
+        "nimi": "Max Factor lauvärv-pliiats Kohl Pencil 10 White",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Max Factor lauvärv-pliiats Kohl Pencil 30 Brown",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Max Factor silmapliiats 20 Black",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Max Factor Ripsmetušš 2000 Calorie Black",
+        "hind": "8,88 €"
+    },
+    {
+        "nimi": "Max Factor 2000 Calorie Dramatic Volume ripsmetušš 04",
+        "hind": "8,88 €"
+    },
+    {
+        "nimi": "Max Factor jumestuskreem Lasting Performance 105 soft Beige",
+        "hind": "17,08 €"
+    },
+    {
+        "nimi": "Max Factor jumestuskreem Lasting Performance 102 Pastille 35ml",
+        "hind": "17,08 €"
+    },
+    {
+        "nimi": "MF jumestuskreem Lasting Performance 101 Ivory Beige",
+        "hind": "17,08 €"
+    },
+    {
+        "nimi": "Max Factor jumestuskreem Lasting Performance 100 Fair 35ml",
+        "hind": "17,08 €"
+    },
+    {
+        "nimi": "Max Factor puuderkreemipulk Pan Stik 13 Nouveau Beige",
+        "hind": "10,48 €"
+    },
+    {
+        "nimi": "Max Factor puuderkreemipulk Pan Stik 12 True Beige",
+        "hind": "10,48 €"
+    },
+    {
+        "nimi": "Kulmupliiats 01 Ebony",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Kulmupliiats 02 Hazel",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Nutella pähklikreem, 630g",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "Kinder Bueno šokolaadibatoon 43 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Nutella pähklikreem 350 g",
+        "hind": "4,19 €"
+    },
+    {
+        "nimi": "Kinder piimatäidisega piimašokolaad T4 50 g",
+        "hind": "1,08 €"
+    },
+    {
+        "nimi": "MENTOS 38G RAINBOW Närimiskommid",
+        "hind": "0,88 €"
+    },
+    {
+        "nimi": "Tabasco punane piprakaste 57ml",
+        "hind": "3,68 €"
+    },
+    {
+        "nimi": "Tabasco Chipotle kaste 60ml",
+        "hind": "3,68 €"
+    },
+    {
+        "nimi": "Ahmad must tee English tea No.1 25x2g",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "Ahmad must purutee Earl Grey 100g",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Ahmad must purutee English Tea No.1 100 g",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Ahmad must tee Earl Grey 25x2g",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "Olmeca Altos 100% Agave Tequila piiritusjook 38%vol 700ml",
+        "hind": "29,98 €"
+    },
+    {
+        "nimi": "Chivas Regal 12 YO Scotch Whisky 40%vol 500ml",
+        "hind": "26,98 €"
+    },
+    {
+        "nimi": "Chivas Regal 12YO Scotch whisky 40%vol 700ml",
+        "hind": "39,98 €"
+    },
+    {
+        "nimi": "Huulepulk lipfinity 120",
+        "hind": "15,88 €"
+    },
+    {
+        "nimi": "Captain Morgan Dark rumm 40%vol 500ml",
+        "hind": "16,48 €"
+    },
+    {
+        "nimi": "Raseerimisgeel Gillette Series kakaovõiga 200ml",
+        "hind": "5,55 €"
+    },
+    {
+        "nimi": "Piper Heidsieck Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "46,98 €"
+    },
+    {
+        "nimi": "Barton&Guestier Chardonnay Reserve KGT vein 13%vol 750ml",
+        "hind": "9,28 €"
+    },
+    {
+        "nimi": "Barton&Guestier Merlot Reserve KGT vein 13,5%vol 750ml",
+        "hind": "9,28 €"
+    },
+    {
+        "nimi": "Cointreau liköör 40%vol 500ml",
+        "hind": "21,28 €"
+    },
+    {
+        "nimi": "Lindt Excellence Dark 99% kakaosisaldusega tume šokolaad 50 g",
+        "hind": "5,50 €"
+    },
+    {
+        "nimi": "Courvoisier VS Cognac 40%vol 500 ml",
+        "hind": "34,98 €"
+    },
+    {
+        "nimi": "Courvoisier VSOP Cognac 40%vol 700 ml",
+        "hind": "59,98 €"
+    },
+    {
+        "nimi": "Veuve Clicquot Brut Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "64,98 €"
+    },
+    {
+        "nimi": "Evian looduslik mineraalvesi 500 ml",
+        "hind": "1,18 €"
+    },
+    {
+        "nimi": "Evian looduslik mineraalvesi 1,5 L",
+        "hind": "2,15 €"
+    },
+    {
+        "nimi": "Bonduelle valged oad tomatikastmes 430 g",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Bonduelle mais 530/360 g",
+        "hind": "2,15 €"
+    },
+    {
+        "nimi": "Bonduelle suured herned klaaspurgis 530/375 g, 580 ml",
+        "hind": "2,53 €"
+    },
+    {
+        "nimi": "Bonduelle punased oad maisiga 430g",
+        "hind": "2,73 €"
+    },
+    {
+        "nimi": "Bonduelle herned 212ml/130g",
+        "hind": "1,45 €"
+    },
+    {
+        "nimi": "Raseerija Bic Flex 4-tera comfort 3tk",
+        "hind": "3,38 €"
+    },
+    {
+        "nimi": "Raseerija 3-tera senstitive 4tk",
+        "hind": "2,19 €"
+    },
+    {
+        "nimi": "Koogivorm 27 cm, klaas",
+        "hind": "10,10 €"
+    },
+    {
+        "nimi": "Porto Cruz Tawny KPN liköörvein 19%vol 750ml",
+        "hind": "16,98 €"
+    },
+    {
+        "nimi": "Study sirklikarp 2 osa",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Maped väike joonlaudade komplekt",
+        "hind": "1,05 €"
+    },
+    {
+        "nimi": "Desperados õlu 5,9%vol 330 ml",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Vittel mineraalvesi 1,5L",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Vittel vesi, 500 ml",
+        "hind": "1,08 €"
+    },
+    {
+        "nimi": "Vittel Karboniseerimata mineraalvesi 750 ml",
+        "hind": "1,25 €"
+    },
+    {
+        "nimi": "PERRIER MINERAALVESI 1 L",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Moet&Chandon Brut Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "48,98 €"
+    },
+    {
+        "nimi": "Moet&Chandon Brut Imperial Rose Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "65,98 €"
+    },
+    {
+        "nimi": "Moet&Chandon Nectar Imperial Champagne KPN kvaliteetvahuvein 12%vol 750ml",
+        "hind": "58,98 €"
+    },
+    {
+        "nimi": "Martell VS Cognac 40%vol 350ml",
+        "hind": "20,98 €"
+    },
+    {
+        "nimi": "President kitsejuust Sainte Maure, 200 g",
+        "hind": "5,07 €"
+    },
+    {
+        "nimi": "President Brie valgehallitusjuust, 200 g",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "Hennessy XO Cognac 40%vol 350ml, karbis",
+        "hind": "123,98 €"
+    },
+    {
+        "nimi": "Hennessy VS Cognac 350ml",
+        "hind": "19,85 €"
+    },
+    {
+        "nimi": "Hennessy VS Cognac 40%vol 500ml",
+        "hind": "26,98 €"
+    },
+    {
+        "nimi": "Hennessy VSOP Cognac 40%vol 700ml",
+        "hind": "59,98 €"
+    },
+    {
+        "nimi": "Meukow VS Cognac 40%vol 700ml",
+        "hind": "29,98 €"
+    },
+    {
+        "nimi": "Meukow VSOP Cognac 40%vol 700ml",
+        "hind": "49,29 €"
+    },
+    {
+        "nimi": "JP. Chenet VSOP Brandy 36%vol 700ml",
+        "hind": "18,98 €"
+    },
+    {
+        "nimi": "Claude Chatelier XO Cognac 40%vol 700ml",
+        "hind": "72,98 €"
+    },
+    {
+        "nimi": "Chateau De Montifaud VSOP Cognac 700ml",
+        "hind": "54,98 €"
+    },
+    {
+        "nimi": "Maybelline Great lash ripsmetušš must",
+        "hind": "10,48 €"
+    },
+    {
+        "nimi": "Vegeta üldmaitseaine 75 g",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Podravka Vegeta 200 g",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Rexona spreideodorant Cobalt 150ml",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Ritter Sport valge šokolaad tervete metspähklitega 100g",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Ritter Sport tume šokolaad tervete metspähklitega 100g",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Käserei Juust CAMBOZOLA 70% 150g",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Käserei Sinihallitusjuust Dorblu, 100 g",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "MAOAM Kracher, närimiskommid 200g",
+        "hind": "2,15 €"
+    },
+    {
+        "nimi": "Bergader Bavaria blu sinihallitusjuust, 175 g",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Bergader Bavaria blu sinihallitusjuust, 150 g",
+        "hind": "3,45 €"
+    },
+    {
+        "nimi": "Kohvifiltrid valged 1 x 4 / 80",
+        "hind": "4,16 €"
+    },
+    {
+        "nimi": "Zewa Majapidamispaber Wisch&Weg Design 2 rulli",
+        "hind": "5,78 €"
+    },
+    {
+        "nimi": "Dr. Zenzen Liebfraumilch Rheinhessen KPN vein 9,5%vol 750 ml",
+        "hind": "6,75 €"
+    },
+    {
+        "nimi": "Kinder Surprise Maxi üllatusmuna 100 g",
+        "hind": "5,24 €"
+    },
+    {
+        "nimi": "Kinder Bueno boonuspakk 129g",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Kinder Maxi King batoon, 35g",
+        "hind": "1,17 €"
+    },
+    {
+        "nimi": "Föön Remington D3015",
+        "hind": "33,95 €"
+    },
+    {
+        "nimi": "Toffifee kommikarp 125 g",
+        "hind": "2,35 €"
+    },
+    {
+        "nimi": "Merci šokolaadiassortii 400 g",
+        "hind": "11,88 €"
+    },
+    {
+        "nimi": "Toffifee 400 G Toffifee",
+        "hind": "7,28 €"
+    },
+    {
+        "nimi": "Merci Assorted Selection assortii 250 g",
+        "hind": "6,88 €"
+    },
+    {
+        "nimi": "MERCI Milk assortii piimašokolaadist 250g",
+        "hind": "6,88 €"
+    },
+    {
+        "nimi": "Merci tumeda shokolaadi assortii 250g",
+        "hind": "6,88 €"
+    },
+    {
+        "nimi": "Toffifee jõulu maiustused 3x125g",
+        "hind": "7,71 €"
+    },
+    {
+        "nimi": "Schöfferhofer Weissbier õlu 5%vol 500ml",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Wella juukselakk hydrostyle 250ml",
+        "hind": "4,78 €"
+    },
+    {
+        "nimi": "Sierra Gold Reposado Tequila 38%vol 500ml",
+        "hind": "18,28 €"
+    },
+    {
+        "nimi": "Sierra Blanco Tequila piiritusjook 38%vol 500ml",
+        "hind": "18,28 €"
+    },
+    {
+        "nimi": "Paulaner Hefe-Weisbier õlu 5,5%vol 500 ml",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Jägermeister liköör 35%vol 700ml",
+        "hind": "20,49 €"
+    },
+    {
+        "nimi": "Jägermeister liköör 35%vol 350ml",
+        "hind": "12,35 €"
+    },
+    {
+        "nimi": "Jägermeister liköör 35%vol 500ml",
+        "hind": "13,98 €"
+    },
+    {
+        "nimi": "Old Spice pulkdeodorant Wolfthorn 50ml",
+        "hind": "3,78 €"
+    },
+    {
+        "nimi": "Mozart südamed karbis 80 g",
+        "hind": "7,38 €"
+    },
+    {
+        "nimi": "Mozart piimašokolaad pistaatsiamartsipani ja sarapuupähkli täidisega 100g",
+        "hind": "5,75 €"
+    },
+    {
+        "nimi": "Vahetusfilter Aquaphor B15",
+        "hind": "4,70 €"
+    },
+    {
+        "nimi": "Blokus",
+        "hind": "39,95 €"
+    },
+    {
+        "nimi": "Rakvere Pihvid 530 g",
+        "hind": "5,28 €"
+    },
+    {
+        "nimi": "Kalev Pilveke piimabatoonike 150 g",
+        "hind": "2,38 €"
+    },
+    {
+        "nimi": "Kalev Lily jõhvikamaitseline marmelaadikompvek 175 g",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Kalev Mesikäpp batoonike 150 g",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Kalev Bitter tume šokolaad 100 g",
+        "hind": "2,94 €"
+    },
+    {
+        "nimi": "Saku Manchester Punane õlu 4,2%vol 500ml",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Saku Mõdu 4%vol 500ml muu alkohoolne jook",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Tere Küüslaugu-juustu dipikaste, 200 g",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Emma Kakao kohupiimakreem, 150 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Emma Rosina kohupiimakreem 150 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Emma Vanilje kohupiimakreem, 150 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Tere Või 82%, 200 g",
+        "hind": "2,79 €"
+    },
+    {
+        "nimi": "Tere Laktoosivaba kohupiimapasta, 300 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Tere Banaani kohupiimapasta, 300 g",
+        "hind": "1,09 €"
+    },
+    {
+        "nimi": "Tere Rosina kohupiimapasta, 300 g",
+        "hind": "1,09 €"
+    },
+    {
+        "nimi": "Vana Tallinn liköör 40%vol 500ml",
+        "hind": "11,25 €"
+    },
+    {
+        "nimi": "Vana Tallinn liköör 45%vol 500ml",
+        "hind": "12,55 €"
+    },
+    {
+        "nimi": "Vana Tallinn kooreliköör 16%vol 500ml",
+        "hind": "7,68 €"
+    },
+    {
+        "nimi": "Vana Tallinn Chocolate Cream liköör 16%vol 500ml",
+        "hind": "7,68 €"
+    },
+    {
+        "nimi": "A. Le Coq Premium hele õlu 4,7%vol 500ml",
+        "hind": "1,65 €"
+    },
+    {
+        "nimi": "A. Le Coq Porter tume õlu 6,5%vol 500ml",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Tõmmu Hiid tume õlu 4,7%vol 500ml",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "Farmi Koorene jogurt Polka maasikatega, 400 g",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Farmi Koorene mustikajogurt, 400 g",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Farmi Köögi toorjuust, 400 g",
+        "hind": "3,69 €"
+    },
+    {
+        "nimi": "Farmi Toorjuust küüslauguga, 150 g",
+        "hind": "2,28 €"
+    },
+    {
+        "nimi": "Farmi Toorjuust murulauguga, 150 g",
+        "hind": "2,28 €"
+    },
+    {
+        "nimi": "Farmi Toorjuust originaal, 150 g",
+        "hind": "2,28 €"
+    },
+    {
+        "nimi": "Farmi Jogurt leiva-pähkli, 400 g",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Gefilus Mustikajogurt, 380 g",
+        "hind": "1,48 €"
+    },
+    {
+        "nimi": "Gefilus Virsiku-papaia jogurt, 380 g",
+        "hind": "1,48 €"
+    },
+    {
+        "nimi": "Emma kohupiimakreem maasika 150 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Emma Banaani kohupiimakreem, 150 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Valio Juust Atleet Originaal, viilutatud, 150 g",
+        "hind": "1,58 €"
+    },
+    {
+        "nimi": "Valio Juust Atleet Light, viilutatud, 150 g",
+        "hind": "2,05 €"
+    },
+    {
+        "nimi": "Karums Karums koorekreem vanilliga, 150 g",
+        "hind": "1,05 €"
+    },
+    {
+        "nimi": "Karums Koorekreem šokolaadiga 150 g",
+        "hind": "1,05 €"
+    },
+    {
+        "nimi": "Karums Karamelli koorekreem, 150 g",
+        "hind": "1,05 €"
+    },
+    {
+        "nimi": "Karums Vanilli glasuurkohuke, 45 g",
+        "hind": "0,48 €"
+    },
+    {
+        "nimi": "Karums Kookose glasuurkohuke, 45 g",
+        "hind": "0,51 €"
+    },
+    {
+        "nimi": "Karums Karamelli glasuurkohuke, 45 g",
+        "hind": "0,51 €"
+    },
+    {
+        "nimi": "Karums Šokolaadi glasuurkohuke, 45 g",
+        "hind": "0,51 €"
+    },
+    {
+        "nimi": "Vici Kalapulgad 250 g",
+        "hind": "0,95 €"
+    },
+    {
+        "nimi": "Vici Heeringafilee Traditsiooniline 240 G",
+        "hind": "3,09 €"
+    },
+    {
+        "nimi": "Vici Krevetid Soolvees 100/200G",
+        "hind": "5,19 €"
+    },
+    {
+        "nimi": "Vici Surimist Pulgad, Jahutatud, 300G",
+        "hind": "3,88 €"
+    },
+    {
+        "nimi": "Vici Lumekrabi Krabimait.Pulgad Surimi 150G",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Basilur must tee 4 seasons Winter Tea purutee 100g",
+        "hind": "3,93 €"
+    },
+    {
+        "nimi": "Veres baklazaanipüree, 500ml",
+        "hind": "4,06 €"
+    },
+    {
+        "nimi": "Ararat 3Yo Brandy 40%vol 500ml",
+        "hind": "15,98 €"
+    },
+    {
+        "nimi": "Ararat 5YO Brandy 40%vol 500ml",
+        "hind": "17,98 €"
+    },
+    {
+        "nimi": "Wine Man Pirosmani Red GT vein 11,5%vol 750ml",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Wine Man Pirosmani White GT vein 11,5%vol 750ml",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Welly mudelauto 1:60-64, erinevad",
+        "hind": "2,69 €"
+    },
+    {
+        "nimi": "Heinz aedoad tomatikastmes, 415g",
+        "hind": "2,35 €"
+    },
+    {
+        "nimi": "Heinz sojakaste 150 ml",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "Mars šokolaadibatoon 51 g",
+        "hind": "1,14 €"
+    },
+    {
+        "nimi": "Old Spice habemeajamisjärgne näovesi Whitewater 100ml",
+        "hind": "6,85 €"
+    },
+    {
+        "nimi": "After Eight 200 g piparmünditäidisega šokolaad",
+        "hind": "4,48 €"
+    },
+    {
+        "nimi": "After Eight kommikarp 400g",
+        "hind": "8,25 €"
+    },
+    {
+        "nimi": "Johnnie Walker Red Label Scotch Whisky 40%vol 1L",
+        "hind": "31,98 €"
+    },
+    {
+        "nimi": "Johnnie Walker Red Label Whisky 40%vol 500ml",
+        "hind": "11,88 €"
+    },
+    {
+        "nimi": "Johnnie Walker Black Label Whisky 40%vol 500ml",
+        "hind": "22,98 €"
+    },
+    {
+        "nimi": "Singleton 12YO Single Malt Scotch Whisky 40%vol 700ml",
+        "hind": "39,98 €"
+    },
+    {
+        "nimi": "Captain Morgan Spiced Gold piiritusjook 35%vol 500ml",
+        "hind": "10,98 €"
+    },
+    {
+        "nimi": "Captain Morgan Spiced Gold rumm 35%vol 700ml",
+        "hind": "14,98 €"
+    },
+    {
+        "nimi": "Beefeater London Dry Gin 40%vol 700ml",
+        "hind": "20,85 €"
+    },
+    {
+        "nimi": "Bushmills Original Irish Whisky 40%vol 700 ml",
+        "hind": "23,98 €"
+    },
+    {
+        "nimi": "Bushmills 10YO Irish Whisky 40%vol 700ml Karbis",
+        "hind": "35,56 €"
+    },
+    {
+        "nimi": "Ballantine´s Blended Scotch Whisky 40%vol 1l",
+        "hind": "26,98 €"
+    },
+    {
+        "nimi": "Ballantine´s Finest Blended Scotch Whisky 700ml",
+        "hind": "18,98 €"
+    },
+    {
+        "nimi": "Jim Beam White Label whisky 40%Vol 700ml",
+        "hind": "27,98 €"
+    },
+    {
+        "nimi": "Malibu liköör 21%vol 500ml",
+        "hind": "15,98 €"
+    },
+    {
+        "nimi": "Greenall's Original London dry gin 40%vol 700ml",
+        "hind": "19,98 €"
+    },
+    {
+        "nimi": "Grant's Triple Wood whisky 40%vol 1l",
+        "hind": "21,98 €"
+    },
+    {
+        "nimi": "Grant´s Family Reserve Scotch Whisky 40%vol 500ml",
+        "hind": "11,98 €"
+    },
+    {
+        "nimi": "Billington's hele suhkur Muscovado 500g",
+        "hind": "2,37 €"
+    },
+    {
+        "nimi": "Billington's billington`s tume muscovado 500g",
+        "hind": "2,18 €"
+    },
+    {
+        "nimi": "Billington's granuleeritud suhkur 1 kg",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "Bacardi Carta Blanca rumm 37,5%vol 500ml",
+        "hind": "12,98 €"
+    },
+    {
+        "nimi": "Bacardi Oakheart Original Spiced muu piiritusjook 32,5%vol 500ml",
+        "hind": "11,98 €"
+    },
+    {
+        "nimi": "Grey Goose viin 40%vol 700ml",
+        "hind": "42,98 €"
+    },
+    {
+        "nimi": "Jameson Irish Whisky 40%vol 700ml",
+        "hind": "20,98 €"
+    },
+    {
+        "nimi": "Jameson Whiskey 40%vol 1l",
+        "hind": "35,75 €"
+    },
+    {
+        "nimi": "Jameson Irish Whisky 40%vol 500ml",
+        "hind": "19,58 €"
+    },
+    {
+        "nimi": "Baileys Irish Cream liköör 17%vol 700ml",
+        "hind": "22,98 €"
+    },
+    {
+        "nimi": "Tullamore Dew Irish Whisky 40%vol 1L",
+        "hind": "29,98 €"
+    },
+    {
+        "nimi": "Tullamore Dew Irish Whisky 40%vol 700ml",
+        "hind": "18,98 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš Masterpiece veekindel must",
+        "hind": "13,88 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš Masterpiece Rich Black",
+        "hind": "13,88 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš Masterpiece Black",
+        "hind": "13,88 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš Masterpiece must/pruun",
+        "hind": "13,88 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš False Lash must/pruun",
+        "hind": "15,95 €"
+    },
+    {
+        "nimi": "Max Factor ripsmetušš False Lash must",
+        "hind": "15,95 €"
+    },
+    {
+        "nimi": "Kohvikapslid Dolce Gusto Cappuccino 200 g",
+        "hind": "6,60 €"
+    },
+    {
+        "nimi": "Mootoriõli Mobil 1 FS x2 5W-50 1l",
+        "hind": "14,90 €"
+    },
+    {
+        "nimi": "Jim Beam White L. 4YO Whisky 40%vol 500ml",
+        "hind": "14,98 €"
+    },
+    {
+        "nimi": "Jack Daniel's Tennessee Whisky 40%vol 1L",
+        "hind": "42,37 €"
+    },
+    {
+        "nimi": "Jack Daniel's Tennessee Whisky 40%vol 700ml",
+        "hind": "24,98 €"
+    },
+    {
+        "nimi": "7 Days kakaokreemi täidisega sarvesai 60 g",
+        "hind": "0,88 €"
+    },
+    {
+        "nimi": "Metaxa 5* Muu Piiritusjook 38%vol 500ml",
+        "hind": "13,55 €"
+    },
+    {
+        "nimi": "Metaxa 7Yo muu piiritusjook 40%vol 700ml",
+        "hind": "28,28 €"
+    },
+    {
+        "nimi": "Trühvlid Lemaitre Ballotin 175g",
+        "hind": "3,48 €"
+    },
+    {
+        "nimi": "Alpro sojadessert maasika-banaani/virsiku-pirni 4x125g",
+        "hind": "3,45 €"
+    },
+    {
+        "nimi": "Alpro sojajook vanilje, laktoosivaba, vegan, 250 ml",
+        "hind": "1,45 €"
+    },
+    {
+        "nimi": "Alpro kaltsiumiga sojajook, 1 l",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Raffaello kommikarp 40 g",
+        "hind": "1,48 €"
+    },
+    {
+        "nimi": "KINDER Schoko-Bons 125g",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Coca-Cola karastusjook purk 330ml",
+        "hind": "0,89 €"
+    },
+    {
+        "nimi": "Sprite karastusjook 2L",
+        "hind": "2,78 €"
+    },
+    {
+        "nimi": "Mateus Rose vein 11%vol 750ml",
+        "hind": "10,18 €"
+    },
+    {
+        "nimi": "Paakuv kassiliiv Cattia 5 L - looduslikust bentoniidist - 99% tolmuvaba.",
+        "hind": "5,88 €"
+    },
+    {
+        "nimi": "Danzka vodka 40%vol 500ml",
+        "hind": "12,19 €"
+    },
+    {
+        "nimi": "TYMBARK Kaktuse maitseline multimahlajook 1l",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "TYMBARK Laimi maitseline multimahlajook 1l",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Tükeldatud Aeduba 400 g",
+        "hind": "1,47 €"
+    },
+    {
+        "nimi": "Hortex Brokolisegu 400 g",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Hortex Mexico Segu 400 g",
+        "hind": "1,72 €"
+    },
+    {
+        "nimi": "Hortex Köögiviljad Praadimiseks 400 g",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Itaalia Maitseainetega Köögiviljad Praadimiseks 400 g",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Hortex Metsaseened, 400 g",
+        "hind": "3,55 €"
+    },
+    {
+        "nimi": "Hortex Kirsid kivideta 300 g",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Hortex Mustsõstar 300 g",
+        "hind": "3,68 €"
+    },
+    {
+        "nimi": "Puzzle 100 osa",
+        "hind": "5,79 €"
+    },
+    {
+        "nimi": "Puzzle 4In1",
+        "hind": "7,99 €"
+    },
+    {
+        "nimi": "Calgon Power veepehmendaja 500 g",
+        "hind": "5,58 €"
+    },
+    {
+        "nimi": "President Camembert juust, 120 g",
+        "hind": "2,29 €"
+    },
+    {
+        "nimi": "President Brie valgehallitusjuust, 125 g",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "President Brie valgehallitusjuust pähklitega, 125 g",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "Robertson Winery Natural Sweet GT vein 7,5%vol 750ml",
+        "hind": "7,75 €"
+    },
+    {
+        "nimi": "Robertson Winery Natural Sweet Red GT vein 9%vol 750ml",
+        "hind": "7,75 €"
+    },
+    {
+        "nimi": "Atria Spinatipannkook 400G",
+        "hind": "3,18 €"
+    },
+    {
+        "nimi": "Valio Soolata või 82%, 500 g",
+        "hind": "7,25 €"
+    },
+    {
+        "nimi": "Valio Aura sinihallitusjuust 29%, 170 g",
+        "hind": "3,65 €"
+    },
+    {
+        "nimi": "Valio maasikakissell magusainetega 1kg",
+        "hind": "3,39 €"
+    },
+    {
+        "nimi": "HK Sinine Ring 580G",
+        "hind": "3,88 €"
+    },
+    {
+        "nimi": "HK Maksavorst singiga 300g",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "HK Maksavorst 10% 300g",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "HK Lihakas Sinkvorst, Viil 250G",
+        "hind": "2,45 €"
+    },
+    {
+        "nimi": "HK Kabanoss 400G",
+        "hind": "3,45 €"
+    },
+    {
+        "nimi": "Via Pasta Bolognese 335 g",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Kastrul 1,5 l kaanega, r/v teras",
+        "hind": "22,90 €"
+    },
+    {
+        "nimi": "Ahjuvorm 44,5x29x5 cm",
+        "hind": "12,20 €"
+    },
+    {
+        "nimi": "Muffinivorm 12-muffinile",
+        "hind": "12,90 €"
+    },
+    {
+        "nimi": "Leiva-ja keeksivorm 24 cm",
+        "hind": "8,50 €"
+    },
+    {
+        "nimi": "Keeksivorm auguga 22 cm",
+        "hind": "11,20 €"
+    },
+    {
+        "nimi": "Koogivorm 24 cm lahtikäiv",
+        "hind": "10,90 €"
+    },
+    {
+        "nimi": "Koogivorm 26 cm lahtikäiv",
+        "hind": "12,90 €"
+    },
+    {
+        "nimi": "Koogivorm 28 cm lahtikäiv",
+        "hind": "11,80 €"
+    },
+    {
+        "nimi": "Saunaämber 5 l, alumiinium, bambusest käepide",
+        "hind": "45,65 €"
+    },
+    {
+        "nimi": "Leilikulp 43 cm alumiinium, bambusest käepide",
+        "hind": "18,90 €"
+    },
+    {
+        "nimi": "Saunatermomeeter",
+        "hind": "19,95 €"
+    },
+    {
+        "nimi": "Finn Crisp Original Taste õhukesed näkileivad 400 g",
+        "hind": "3,59 €"
+    },
+    {
+        "nimi": "Finn Crisp Multigrain õhukesed näkileivad 175 g",
+        "hind": "2,33 €"
+    },
+    {
+        "nimi": "Finn Crisp Traditional näkileivad 200 g",
+        "hind": "2,28 €"
+    },
+    {
+        "nimi": "Finn Crisp õhukesed näkileivad köömnetega 200g",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Herkkumaa võileivakurk 670/360 g",
+        "hind": "3,91 €"
+    },
+    {
+        "nimi": "Herkkumaa kornišonid 670/360 g",
+        "hind": "6,29 €"
+    },
+    {
+        "nimi": "Herkkumaa kurgisektorid 670/360 g",
+        "hind": "3,51 €"
+    },
+    {
+        "nimi": "Herkkumaa õunamoos, 460 g",
+        "hind": "2,89 €"
+    },
+    {
+        "nimi": "Herkkumaa apelsinimarmelaad, 450 g",
+        "hind": "3,29 €"
+    },
+    {
+        "nimi": "Seep LV tundlikule nahale 100g",
+        "hind": "1,45 €"
+    },
+    {
+        "nimi": "Paulig filtrikohv Juhla Mokka 500 g",
+        "hind": "8,85 €"
+    },
+    {
+        "nimi": "Paulig filtrikohv Classic 500 g",
+        "hind": "6,98 €"
+    },
+    {
+        "nimi": "Paulig filtrikohv Classic 250 g keskmine röst",
+        "hind": "6,85 €"
+    },
+    {
+        "nimi": "Paulig filtrikohv Classic 100 g keskmine röst",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "Paulig filtri- ja presskannukohv Presidentti Gold 500 g",
+        "hind": "7,98 €"
+    },
+    {
+        "nimi": "Fazer Kismet šokolaadibatoon 55 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Karl Fazer pähklite ja rosinatega piimašokolaad 200 g",
+        "hind": "4,58 €"
+    },
+    {
+        "nimi": "Karl Fazer piimašokolaad tervete metsapähklitega 200 g",
+        "hind": "4,48 €"
+    },
+    {
+        "nimi": "Fazer Geisha šokolaad 100 g",
+        "hind": "2,15 €"
+    },
+    {
+        "nimi": "Fazer Geisha šokolaadibatoon 37 g",
+        "hind": "0,80 €"
+    },
+    {
+        "nimi": "Fazer Wienernougat kommikarp 210g",
+        "hind": "7,98 €"
+    },
+    {
+        "nimi": "Fazer Rohelised kuulid 260g",
+        "hind": "3,40 €"
+    },
+    {
+        "nimi": "Fazer likööritäidisega šokolaadikompvekid 150 g",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "Fazer Geisha šokolaadikommikarp 150 g",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "Dumle Original kommikott 120g",
+        "hind": "2,55 €"
+    },
+    {
+        "nimi": "Lõikur SingleStep S, vaheliti liikuvate teradega",
+        "hind": "34,95 €"
+    },
+    {
+        "nimi": "Hekikäärid SingleStep HS22 lainelise teraga, 19x58 cm",
+        "hind": "34,90 €"
+    },
+    {
+        "nimi": "Fiskars XSharp noa- ja kirveteritaja",
+        "hind": "18,90 €"
+    },
+    {
+        "nimi": "Turun sinappi mahedamaitseline sinep 275 g",
+        "hind": "2,47 €"
+    },
+    {
+        "nimi": "Leivon, laktoosivabad õhukesed kaeraküpsised 250 g",
+        "hind": "2,23 €"
+    },
+    {
+        "nimi": "Saarioinen maasikamoos 500 g",
+        "hind": "4,56 €"
+    },
+    {
+        "nimi": "Saarioinen vaarikamoos 500 g",
+        "hind": "4,95 €"
+    },
+    {
+        "nimi": "Saarioinen pohlamoos 500 g",
+        "hind": "4,33 €"
+    },
+    {
+        "nimi": "Panda klassikalised šokolaadikompvekid 150g",
+        "hind": "4,55 €"
+    },
+    {
+        "nimi": "Panda peolaua šokolaadikompvekid 300g",
+        "hind": "4,92 €"
+    },
+    {
+        "nimi": "Panda Täytelaku lagritsad 250 g",
+        "hind": "2,35 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.1,5/12cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Sukavardad nr.2/20cm alumiinium",
+        "hind": "5,00 €"
+    },
+    {
+        "nimi": "Sukavardad nr.2,5/20cm alumiinium",
+        "hind": "5,00 €"
+    },
+    {
+        "nimi": "Sukavardad nr.3/20cm alumiinium",
+        "hind": "5,05 €"
+    },
+    {
+        "nimi": "Sukavardad nr.3,5/20cm alumiinium",
+        "hind": "5,05 €"
+    },
+    {
+        "nimi": "Sukavardad nr.4/20cm alumiinum",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.3/60cm alumiinium",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.35/60cm alumiinium",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.4/60cm alumiinium",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.5/60cm alumiinium",
+        "hind": "7,05 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.2/15cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.2,5/15cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.3/15cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.3,5/15cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.5/15cm alumiinium",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel nr.6/15cm plast",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Heegelnõel 7,0/15 cm plast",
+        "hind": "4,00 €"
+    },
+    {
+        "nimi": "Ringvardad nr.3,5/80cm alumiinium",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.4/80cm alumiinium",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ringvardad nr.5/80cm alumiinium",
+        "hind": "7,05 €"
+    },
+    {
+        "nimi": "Kuusekard hõbe 25 mm * 5 m",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Lapin Kulta õlu 5,2%vol 500ml EI TEL",
+        "hind": "1,58 €"
+    },
+    {
+        "nimi": "Ibero juukseklamber 2 tk metall",
+        "hind": "5,58 €"
+    },
+    {
+        "nimi": "Ibero juuksekumm must samet",
+        "hind": "5,45 €"
+    },
+    {
+        "nimi": "Ibero juukseehe",
+        "hind": "5,58 €"
+    },
+    {
+        "nimi": "Ibero juukselõksud 5 cm, 24 tk",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Ibero juukseklambrid 6 tk",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Ibero juukseklambrid 6 tk",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Ibero laste juukseaksessuaarid 30 tk",
+        "hind": "4,25 €"
+    },
+    {
+        "nimi": "Ibero juukseklamber 3 tk lastele",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Ibero laste juukse aksessuaarid 16 tk",
+        "hind": "3,48 €"
+    },
+    {
+        "nimi": "Dansukker tume tükksuhkur fairtrade 500 g",
+        "hind": "2,43 €"
+    },
+    {
+        "nimi": "Muumi Baby püksmähkmed Walkers 6, 12-20kg, 36 tk",
+        "hind": "12,79 €"
+    },
+    {
+        "nimi": "Muumi Baby püksmäkmed Walkers 7, 16-26 kg, 34 tk",
+        "hind": "12,79 €"
+    },
+    {
+        "nimi": "Vuokkoset Cotton Night hügieeniside 9 tk",
+        "hind": "2,05 €"
+    },
+    {
+        "nimi": "Meira meresool 800 g",
+        "hind": "1,51 €"
+    },
+    {
+        "nimi": "Lv pesuloputusvahend 750ml",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "LV nõudepesuvahend 500ml",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Xz sh shampoon kohvi-vanilje 250ml",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Xz palsam kohvi-vanilje 200ml",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Dušigeel LV 250ml",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Kotimaista Spinatisupp 400 g",
+        "hind": "2,37 €"
+    },
+    {
+        "nimi": "Kotimaista Külmutatud Mustikad 200 g",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Coop Mozzarellapitsa 350 g",
+        "hind": "2,63 €"
+    },
+    {
+        "nimi": "Coop Vaarikad  ja Mustikad 250 g",
+        "hind": "2,94 €"
+    },
+    {
+        "nimi": "Xtra Kokteil-Riisipirukad 1,35 kg",
+        "hind": "3,45 €"
+    },
+    {
+        "nimi": "Coop Kartuliröst 700 g",
+        "hind": "2,43 €"
+    },
+    {
+        "nimi": "Coop Sirged Friikartulid 750 g",
+        "hind": "1,82 €"
+    },
+    {
+        "nimi": "Kotimaista Pitsapõhjad 4 tk 360 g",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Kotimaista Kartuli-Sibulasegu 1 kg",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Kotimaista Juurviljasegu 250 g",
+        "hind": "0,76 €"
+    },
+    {
+        "nimi": "Kotimaista Juurviljasegu Suppidele 200 g",
+        "hind": "0,60 €"
+    },
+    {
+        "nimi": "Kotimaista Punasekoorelised Kartulisektorid 600 g",
+        "hind": "2,05 €"
+    },
+    {
+        "nimi": "Kotimaista Rosmariini ja Oliivõliga Maitsestatud Koorega Kartulisektorid 450 g",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Coop Pitsa Americana 340 g",
+        "hind": "3,04 €"
+    },
+    {
+        "nimi": "Kotimaista Kaneelirullid 390 g",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Kotimaista Pohlad 200 g",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Kotimaista Küüslaugukartulid 750 g",
+        "hind": "2,43 €"
+    },
+    {
+        "nimi": "Karhu Lager õlu 5,3%vol 330ml",
+        "hind": "1,28 €"
+    },
+    {
+        "nimi": "Rainbow köögilapp 10tk",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Rainbow nõudepesuhari",
+        "hind": "1,28 €"
+    },
+    {
+        "nimi": "Rainbow juuksegeel strong 150ml",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Rainbow õunalõhnaline jalavannisool väsinud jalgadele 500g",
+        "hind": "4,75 €"
+    },
+    {
+        "nimi": "Juuksegeel Rainbow meeste Super Strong pantenooli 150ml",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "Taskurätikud Rainbow 2 kihiline 100tk",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Valgendaja Rainbow Original 750ml",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Rainbow vedelseep Clouds 500ML",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Rainbow vedelseep 500ml marjad",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Rainbow hari juurviljade pesemiseks",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Xtra nõudepesuhari",
+        "hind": "0,55 €"
+    },
+    {
+        "nimi": "Rainbow põrandalapp 50x60 cm 2 tk",
+        "hind": "2,28 €"
+    },
+    {
+        "nimi": "Rainbow WC-hari alusega",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Rainbow hari ja kühvel",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Rainbow küürimishari",
+        "hind": "3,58 €"
+    },
+    {
+        "nimi": "Rainbow pesemishari",
+        "hind": "3,35 €"
+    },
+    {
+        "nimi": "Rainbow põrandahari + kühvel",
+        "hind": "11,95 €"
+    },
+    {
+        "nimi": "Rainbow puhastuslapp 18x20 cm 3 tk",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Rainbow antiikküünal 10tk valge",
+        "hind": "6,48 €"
+    },
+    {
+        "nimi": "Rainbow Lemon üldpuhastusvahend 1 l",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Rainbow Regular pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Rainbow Color pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Rainbow Sensitive pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Rainbow torupuhastusvahend 1l",
+        "hind": "1,48 €"
+    },
+    {
+        "nimi": "Rainbow nõudepesumasina loputusvahend 500 ml",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Rainbow männiseep 1l",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Rainbow Black pesugeel 1 l, 20 pesukorda",
+        "hind": "2,68 €"
+    },
+    {
+        "nimi": "Rainbow WC-hari alusega",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Grillsüsi Rainbow 2,5kg",
+        "hind": "5,99 €"
+    },
+    {
+        "nimi": "Coop lasagne durumpasta munapasta 500g",
+        "hind": "2,63 €"
+    },
+    {
+        "nimi": "Kotimaista nisujahu 2 kg",
+        "hind": "0,70 €"
+    },
+    {
+        "nimi": "Kotimaista sepikujahu 2 kg",
+        "hind": "1,62 €"
+    },
+    {
+        "nimi": "Kotimaista kuklijahu 2 kg",
+        "hind": "1,82 €"
+    },
+    {
+        "nimi": "Coop fusilli durumpasta 500g",
+        "hind": "1,38 €"
+    },
+    {
+        "nimi": "Coop gnocchi durumpasta 500g",
+        "hind": "1,38 €"
+    },
+    {
+        "nimi": "Coop fusilli durumpasta tomati ja spinatiga 500g",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Coop farfalle durumpasta tomati ja spinatiga 500g",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Rainbow jasmiiniriis 1 kg",
+        "hind": "2,75 €"
+    },
+    {
+        "nimi": "Kotimaista kartulitärklis 500 g",
+        "hind": "1,62 €"
+    },
+    {
+        "nimi": "Kotimaista kaerahelbed 1 kg",
+        "hind": "0,50 €"
+    },
+    {
+        "nimi": "Kotimaista täisterakaerahelbed 850g mahe",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Kotimaista kuivatatud herned 500 g",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Kotimaista neljaviljahelbed 750 g",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "Rainbow pähklibatoonide 3-pakk, 105g",
+        "hind": "2,12 €"
+    },
+    {
+        "nimi": "Kotimaista kiirkaerahelbed 750 g",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Kotimaista shokolaadikaste, 200 ml",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Kotimaista laktoosivaba vanillikaste, 200 ml",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Rainbow õunamarmelaad 300 g",
+        "hind": "1,31 €"
+    },
+    {
+        "nimi": "Kotimaista karamellikaste vähese laktoosi sisaldusega 200 ml",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Rainbow murakamoos 400 g",
+        "hind": "7,31 €"
+    },
+    {
+        "nimi": "Kotimaista suhkrukuivik 400g",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Coop tex mex tortilla wrapid 320 g 8 tk",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Kotimaista nisujahu jahuparandajaga 2 kg",
+        "hind": "2,57 €"
+    },
+    {
+        "nimi": "Kotimaista nisujahu 1 kg, organic",
+        "hind": "1,41 €"
+    },
+    {
+        "nimi": "Kotimaista terved punapeedid marinaadis 700 g",
+        "hind": "2,33 €"
+    },
+    {
+        "nimi": "Kotimaista marineeritud kurgid 1650 g",
+        "hind": "5,15 €"
+    },
+    {
+        "nimi": "Kotimaista manna 1 kg",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "Xtra küpsetuspulber 225 g",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Xtra vanilliinsuhkur 225 g",
+        "hind": "1,92 €"
+    },
+    {
+        "nimi": "X-tra piparmündinärimiskumm 180 g",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Coop täisteraspagetti 500g",
+        "hind": "0,89 €"
+    },
+    {
+        "nimi": "Coop tex mex suured tortilla wrapid 370 g 6 tk",
+        "hind": "1,59 €"
+    },
+    {
+        "nimi": "Kotimaista magusad kurgid viilutatud 680/350 g",
+        "hind": "2,78 €"
+    },
+    {
+        "nimi": "Kotimaista pannkoogi- ja vahvlijahu 250 g",
+        "hind": "1,54 €"
+    },
+    {
+        "nimi": "Kotimaista Kartuli-Sibulasegu 500 g",
+        "hind": "1,01 €"
+    },
+    {
+        "nimi": "Coop täisteratortilla 370 g",
+        "hind": "1,59 €"
+    },
+    {
+        "nimi": "Kotimaista kaneelikuivikud 400g",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Rainbow pirnipoolikud suhkruleemes 410/230 g",
+        "hind": "2,15 €"
+    },
+    {
+        "nimi": "Kotimaista kurgisalat, 360 g",
+        "hind": "2,67 €"
+    },
+    {
+        "nimi": "Kotimaista kurgiviilud 680 g",
+        "hind": "2,27 €"
+    },
+    {
+        "nimi": "Kotimaista punapeedi viilud 700/470 g",
+        "hind": "2,19 €"
+    },
+    {
+        "nimi": "Kotimaista kurgisalat sinepiga, 360 g",
+        "hind": "2,57 €"
+    },
+    {
+        "nimi": "Geisha Dark kommikarp 150g",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "Elovena kiirkaerahelbed 500g",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Lauamäng Torn",
+        "hind": "16,95 €"
+    },
+    {
+        "nimi": "Jääkaabits Murska metallservaga",
+        "hind": "1,50 €"
+    },
+    {
+        "nimi": "Paulig filtrikohv Presidentti keskmine röst 500 g",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Paulig kohvioad Arabica keskmine röst 1 kg",
+        "hind": "15,48 €"
+    },
+    {
+        "nimi": "Santa Maria marinaadisegu kurkidele 100 g",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Linkosuo rukkisuupisted 160 g",
+        "hind": "2,84 €"
+    },
+    {
+        "nimi": "Linkosuo küüslaugumaitselised rukkisuupisted 150 g",
+        "hind": "2,84 €"
+    },
+    {
+        "nimi": "Bonne Premium, mangopüree, 0,5 l",
+        "hind": "3,34 €"
+    },
+    {
+        "nimi": "Ibero ripsmekamm",
+        "hind": "6,45 €"
+    },
+    {
+        "nimi": "Ibero küüneviil 11,5 cm 6 tk liivapaber",
+        "hind": "1,48 €"
+    },
+    {
+        "nimi": "Ibero lokirullid 28 mm, 5 tk",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Ibero lokirullid 40 mm 4 tk",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Ibero küünetangid väiksed",
+        "hind": "1,95 €"
+    },
+    {
+        "nimi": "Lapponia Lakka liköör 21%vol 500ml",
+        "hind": "13,98 €"
+    },
+    {
+        "nimi": "Lapponia Polar Karpalo jõhvikaliköör 21%vol 500ml",
+        "hind": "11,28 €"
+    },
+    {
+        "nimi": "Sini vars 140cm",
+        "hind": "14,35 €"
+    },
+    {
+        "nimi": "Sini käsnlapp kuiv 18x2 cm 3tk",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Sini hari+kühvel keskmise varrega",
+        "hind": "24,95 €"
+    },
+    {
+        "nimi": "Sini WC-hari alusega",
+        "hind": "5,25 €"
+    },
+    {
+        "nimi": "Felix, viilutatud kurk marinaadis, 560 g",
+        "hind": "3,09 €"
+    },
+    {
+        "nimi": "Felix, soolakurk, 400 g",
+        "hind": "2,78 €"
+    },
+    {
+        "nimi": "Ibero juuksepannal sesonki plast",
+        "hind": "4,98 €"
+    },
+    {
+        "nimi": "Tsingtao õlu 4,7%vol 330ml",
+        "hind": "2,48 €"
+    },
+    {
+        "nimi": "3D puzzle MIX",
+        "hind": "8,99 €"
+    },
+    {
+        "nimi": "Löfbergs filtrikohv Kharisma tume röst 500 g",
+        "hind": "6,98 €"
+    },
+    {
+        "nimi": "Dansukker demerara suhkur fairtrade 500 g",
+        "hind": "2,23 €"
+    },
+    {
+        "nimi": "Dansukker karamellsuhkur pruun 500 g",
+        "hind": "2,67 €"
+    },
+    {
+        "nimi": "Libresse String pesukaitse 30tk",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Rekorderlig Maasika-Laimi siider 4,5%vol 500ml",
+        "hind": "2,08 €"
+    },
+    {
+        "nimi": "Santa Maria kivisool 140 g",
+        "hind": "4,18 €"
+    },
+    {
+        "nimi": "Santa Maria bbq kuivmarinaadisegu universaalne 22 g",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "Santa Maria bbq kuivmarinaadisegu ürtidega 22 g",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "Santa Maria teriyaki kaste 300 ml",
+        "hind": "6,15 €"
+    },
+    {
+        "nimi": "Santa Maria magus tšillikaste 200 ml",
+        "hind": "2,33 €"
+    },
+    {
+        "nimi": "Santa Maria tex mex dipikaste 250 g",
+        "hind": "3,75 €"
+    },
+    {
+        "nimi": "Santa Maria  jalapeno roheline terav 215/110 g",
+        "hind": "3,68 €"
+    },
+    {
+        "nimi": "Santa Maria tellicherry pipar 210 g veskis",
+        "hind": "14,95 €"
+    },
+    {
+        "nimi": "Santa Maria kivisool 455 g veskis",
+        "hind": "5,98 €"
+    },
+    {
+        "nimi": "Santa Maria tsillisädemed 275 g veskis",
+        "hind": "8,98 €"
+    },
+    {
+        "nimi": "Santa Maria marinaad teriyaki 75 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Santa Maria üldmarinaad 75 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Santa Maria klassikaline kanamarinaad 75 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Absolut vodka 40%vol 500ml",
+        "hind": "9,98 €"
+    },
+    {
+        "nimi": "Absolut Vodka 40%vol 700ml",
+        "hind": "18,95 €"
+    },
+    {
+        "nimi": "Annas original piparkoogid 300 g",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Almondy Daimi kook 400 g",
+        "hind": "8,73 €"
+    },
+    {
+        "nimi": "Tualettpaber Zewa Deluxe 3-kih 8 rulli",
+        "hind": "4,85 €"
+    },
+    {
+        "nimi": "Zewa Tualettpaber Deluxe 8 rulli 3-kihiline",
+        "hind": "5,98 €"
+    },
+    {
+        "nimi": "Tualettpaber Zewa Deluxe 3-kihiline 4 rulli",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "X-tra soolapähklid 250 g",
+        "hind": "1,41 €"
+    },
+    {
+        "nimi": "Xtra kehakreem 500ml",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Xtra Sakilised Friikartulid 1 kg",
+        "hind": "2,08 €"
+    },
+    {
+        "nimi": "Shampoon Xtra 500 ml",
+        "hind": "1,25 €"
+    },
+    {
+        "nimi": "Palsam X-tra 500 ml",
+        "hind": "1,25 €"
+    },
+    {
+        "nimi": "Xtra vedelseep 500ml",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Dušigeel Xtra 500ml",
+        "hind": "1,45 €"
+    },
+    {
+        "nimi": "Taskurätikud Xtra 10x10tk 3-kihiline",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "Tükiseep Xtra 3x90g",
+        "hind": "1,18 €"
+    },
+    {
+        "nimi": "Xtra majapidamispaber 2-kihiline 4 rulli",
+        "hind": "1,88 €"
+    },
+    {
+        "nimi": "Xtra virsikupoolikud suhkruleemes 820/470 g",
+        "hind": "2,78 €"
+    },
+    {
+        "nimi": "X-tra lahustuv kohv 200 g",
+        "hind": "4,98 €"
+    },
+    {
+        "nimi": "Xtra rapsiõli 1 l",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Xtra basmatiriis 2kg",
+        "hind": "6,08 €"
+    },
+    {
+        "nimi": "Xtra kakao 1kg",
+        "hind": "4,98 €"
+    },
+    {
+        "nimi": "Xtra rohelised oliivid paprikatäidisega 935/550 g",
+        "hind": "4,06 €"
+    },
+    {
+        "nimi": "Xtra õunapüree 720 g",
+        "hind": "2,02 €"
+    },
+    {
+        "nimi": "Xtra maasikakissell 1 l",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Xtra vaarikakissell 1 l",
+        "hind": "2,45 €"
+    },
+    {
+        "nimi": "Xtra maisihelbed 750g",
+        "hind": "3,55 €"
+    },
+    {
+        "nimi": "Xtra võileivakurk 1600/880g",
+        "hind": "3,85 €"
+    },
+    {
+        "nimi": "Xtra kartulipudrupulber 540 g",
+        "hind": "4,25 €"
+    },
+    {
+        "nimi": "X-tra soolapähklid 1 kg",
+        "hind": "4,58 €"
+    },
+    {
+        "nimi": ".X-TRA PIIMASHOKOLAAD 100 GT UTZ",
+        "hind": "0,88 €"
+    },
+    {
+        "nimi": "X-tra purustatud metsapähklitega piimašokolaad 100 g",
+        "hind": "1,25 €"
+    },
+    {
+        "nimi": "X-tra tume šokolaad 100 g",
+        "hind": "1,09 €"
+    },
+    {
+        "nimi": "Xtra üldpuhastusaine 1l",
+        "hind": "1,38 €"
+    },
+    {
+        "nimi": "X-tra klaasipuhastusvahend 1 l",
+        "hind": "1,58 €"
+    },
+    {
+        "nimi": "Xtra sidrunimahl 200 ml",
+        "hind": "0,88 €"
+    },
+    {
+        "nimi": "Xtra Color pesugeel 2l",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Xtra puuviljamüsli 1 kg",
+        "hind": "5,95 €"
+    },
+    {
+        "nimi": "Xtra pohlamoos 800 g",
+        "hind": "3,04 €"
+    },
+    {
+        "nimi": "Xtra maasikamoos 800 g",
+        "hind": "3,55 €"
+    },
+    {
+        "nimi": "Xtra vaarikamoos 800 g",
+        "hind": "3,95 €"
+    },
+    {
+        "nimi": "Xtra pannkoogimoos 800 g",
+        "hind": "2,84 €"
+    },
+    {
+        "nimi": "X-tra maapähklid tšillimaitselise kattega 500 g",
+        "hind": "4,28 €"
+    },
+    {
+        "nimi": "Toblerone piimašokolaad 100 g",
+        "hind": "2,85 €"
+    },
+    {
+        "nimi": "Marabou Twist kommikott 300g",
+        "hind": "5,18 €"
+    },
+    {
+        "nimi": "Raseerija Gillette Blue 3-tera Comfort 3tk",
+        "hind": "4,38 €"
+    },
+    {
+        "nimi": "Caracter Santa Ana Chenin Chardonnay vein 13%vol 750ml",
+        "hind": "6,68 €"
+    },
+    {
+        "nimi": "Frontera Cabernet Sauvignon GT vein 12,5%vol 750ml",
+        "hind": "6,95 €"
+    },
+    {
+        "nimi": "Frontera Chardonnay GT vein 12%vol 750ml",
+        "hind": "6,95 €"
+    },
+    {
+        "nimi": "Fresita Original aromaatne kvaliteetvahuvein 8%vol 750ml",
+        "hind": "12,69 €"
+    },
+    {
+        "nimi": "CAMPARI BITTER 25%VOL 500 ML",
+        "hind": "17,98 €"
+    },
+    {
+        "nimi": "Lavazza jahvatatud kohv Qualita Oro 250 g",
+        "hind": "5,68 €"
+    },
+    {
+        "nimi": "Lavazza kohvioad Qualita Oro 1 kg 100% Arabika",
+        "hind": "27,95 €"
+    },
+    {
+        "nimi": "Lavazza jahvatatud kohv Qualita Rossa 250 g",
+        "hind": "5,48 €"
+    },
+    {
+        "nimi": "Lavazza Qualita Rossa kohvioad 1kg",
+        "hind": "18,98 €"
+    },
+    {
+        "nimi": "Ferrero Rocher kompvekid 200 g",
+        "hind": "7,95 €"
+    },
+    {
+        "nimi": "Ferrero Rocher pralineede kinkekarp 300g",
+        "hind": "8,60 €"
+    },
+    {
+        "nimi": "Raffaello kommikarp 150 g",
+        "hind": "4,18 €"
+    },
+    {
+        "nimi": "Ferrero Rocher püramiid pralineede kinkekarp 350g 28tk",
+        "hind": "11,64 €"
+    },
+    {
+        "nimi": "Kinder Pingui Kookos 30g",
+        "hind": "0,90 €"
+    },
+    {
+        "nimi": "Rocher Collection T15 kompvekid 172 g",
+        "hind": "8,48 €"
+    },
+    {
+        "nimi": "Ferrero Collection pralineede assortii 359g",
+        "hind": "11,48 €"
+    },
+    {
+        "nimi": "Martini Asti KPN kvaliteetvahuvein 7,5%vol 750ml",
+        "hind": "8,98 €"
+    },
+    {
+        "nimi": "Martini Prosecco KPN vahuvein 11,5%vol 750ml",
+        "hind": "9,99 €"
+    },
+    {
+        "nimi": "Birra Moretti L`autentica Premium Lager õlu 4,6%vol 330ml",
+        "hind": "1,98 €"
+    },
+    {
+        "nimi": "Castelli Riccotta, 250g",
+        "hind": "2,23 €"
+    },
+    {
+        "nimi": "Granarolo Mozzarella, 125 g",
+        "hind": "1,78 €"
+    },
+    {
+        "nimi": "Granoro kuskuss 1kg",
+        "hind": "3,15 €"
+    },
+    {
+        "nimi": "Peroni Nastro Azzurro õlu 5%vol 330ml",
+        "hind": "2,45 €"
+    },
+    {
+        "nimi": "Crich kreekerid soolaga 250g",
+        "hind": "2,38 €"
+    },
+    {
+        "nimi": "Schär soolakringlid, gluteenivaba 60g",
+        "hind": "1,68 €"
+    },
+    {
+        "nimi": "Schär saiapulber mix b 1 kg, gluteeni- ja laktoosivaba",
+        "hind": "6,19 €"
+    },
+    {
+        "nimi": "Barilla spagetid 500 g",
+        "hind": "1,45 €"
+    },
+    {
+        "nimi": "Barilla pasta penne rigate 500 g",
+        "hind": "1,69 €"
+    },
+    {
+        "nimi": "Barilla pasta farfalle 500 g",
+        "hind": "2,25 €"
+    },
+    {
+        "nimi": "Barilla pastakaste basilico 400 g",
+        "hind": "2,69 €"
+    },
+    {
+        "nimi": "Barilla pesto genovese, 190g",
+        "hind": "2,99 €"
+    },
+    {
+        "nimi": "Barilla barilla lasanjeplaadid 500 g",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Barilla pasta fettuccine, 500g",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Mulino bianco küpsised õunamoositäidisega 250g",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Torres San Valentin Parellada KPN vein 11,5%vol 750ml",
+        "hind": "9,55 €"
+    },
+    {
+        "nimi": "Torres Sangre De Toro KPN vein 13,5%vol 750ml",
+        "hind": "9,98 €"
+    },
+    {
+        "nimi": "Torres Ibericos Crianza KPN vein 14%vol 750ml",
+        "hind": "10,98 €"
+    },
+    {
+        "nimi": "Borges ekstra väärisoliiviõli 500 ml",
+        "hind": "11,29 €"
+    },
+    {
+        "nimi": "Borges oliiviõli classic 500 ml",
+        "hind": "11,35 €"
+    },
+    {
+        "nimi": "Castillo San Simon Tinto KPN vein 12,5%vol 750ml",
+        "hind": "6,38 €"
+    },
+    {
+        "nimi": "Don Simon Sangria aromatiseeritud veinijook 7%vol 1L",
+        "hind": "6,30 €"
+    },
+    {
+        "nimi": "Faustino VII Tempranillo KPN vein 13,5%vol 750ml",
+        "hind": "9,38 €"
+    },
+    {
+        "nimi": "Budweiser Budvar Lager õlu 5%vol 500ml",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "Budweiser Budvar Dark õlu 4,7%vol 500ml",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "Budweiser Budvar Lager õlu 5%vol 500ml",
+        "hind": "2,58 €"
+    },
+    {
+        "nimi": "KINGALÄIGE INSTANT 50 ML VÄRVITU",
+        "hind": "3,00 €"
+    },
+    {
+        "nimi": "KINGALÄIGE INSTANT 50 ML MUST",
+        "hind": "3,00 €"
+    },
+    {
+        "nimi": "Farm Frites Oven Fries Sirge Friikartul 750 g",
+        "hind": "2,94 €"
+    },
+    {
+        "nimi": "Farm Frites Sakiline Friikartul 450 g",
+        "hind": "1,89 €"
+    },
+    {
+        "nimi": "Dr. Pepper karastusjook 330ml",
+        "hind": "1,09 €"
+    },
+    {
+        "nimi": "Kikkoman, sojakaste, 150 ml",
+        "hind": "4,08 €"
+    },
+    {
+        "nimi": "Kikkoman sojakaste 150 ml vähesoolane",
+        "hind": "4,08 €"
+    },
+    {
+        "nimi": "Heinz ketšup 1 kg",
+        "hind": "4,95 €"
+    },
+    {
+        "nimi": "Kotanyi vaniljesuhkur 15 g",
+        "hind": "1,58 €"
+    },
+    {
+        "nimi": "Kotanyi loorberilehed 4 g",
+        "hind": "1,38 €"
+    },
+    {
+        "nimi": "Kotanyi meresoola veski 92g",
+        "hind": "3,58 €"
+    },
+    {
+        "nimi": "Kotanyi itaalia maitserohelineveskis 48g",
+        "hind": "3,98 €"
+    },
+    {
+        "nimi": "RED BULL 250 ML",
+        "hind": "1,29 €"
+    },
+    {
+        "nimi": "Hardys Bin 343 Cabernet Shiraz GT vein 13,5%vol 750ml",
+        "hind": "7,88 €"
+    },
+    {
+        "nimi": "Yellow Tail Shiraz GT vein 13,5%vol 750ml",
+        "hind": "9,25 €"
+    },
+    {
+        "nimi": "Villa Maria Sauvignon Blanc vein 13%vol 750ml",
+        "hind": "13,98 €"
+    },
+    {
+        "nimi": "Sileni Marlborough Sauvignon Blanc vein 12,5%vol 750 ml",
+        "hind": "13,98 €"
+    },
+    {
+        "nimi": "Orhideepott 14cm",
+        "hind": "9,59 €"
+    },
+    {
+        "nimi": "Captain Morgan Black Spiced rumm 40%vol 700ml",
+        "hind": "25,98 €"
+    },
+    {
+        "nimi": "Külmakast 30 l styrox",
+        "hind": "15,90 €"
+    },
+    {
+        "nimi": "Meira ketsup 500g",
+        "hind": "2,73 €"
+    },
+    {
+        "nimi": "Martell VS Cognac 40%vol 700 ml",
+        "hind": "37,58 €"
+    },
+    {
+        "nimi": "Melitta Kohvifilter 1x4 /80",
+        "hind": "4,16 €"
+    },
+    {
+        "nimi": "Meira sinep traditsiooniline 500 g",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Epiim Eesti juust, viilutatud, 500 g",
+        "hind": "5,48 €"
+    },
+    {
+        "nimi": "Monkey Shoulder Scotch Whisky 700ml",
+        "hind": "29,98 €"
+    },
+    {
+        "nimi": "Minttu liköör 40%vol 500ml",
+        "hind": "15,98 €"
+    },
+    {
+        "nimi": "Koskenkorva vodka 40%vol 500ml",
+        "hind": "9,99 €"
+    },
+    {
+        "nimi": "Koskenkorva Viin 40%vol 1l",
+        "hind": "19,98 €"
+    },
+    {
+        "nimi": "Hennessy VSOP Cognac karbis 40%vol 500ml",
+        "hind": "57,84 €"
+    },
+    {
+        "nimi": "NIISKUSKAITSE 300 ML",
+        "hind": "6,05 €"
+    },
+    {
+        "nimi": "Ibero juukseklamber 50 mm 24 tk must",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Ibero juukseklamber 12 tk",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Ibero lokirullid 3 tk 56mm",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Marli Juissi sidruni-laimijook 1L",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Castillo De Albai Rioja Blanco KPN vein 12,5%vol 187ml",
+        "hind": "3,75 €"
+    },
+    {
+        "nimi": "Castillo De Albai Rioja Tinto KPN vein 13%vol 187ml",
+        "hind": "3,75 €"
+    },
+    {
+        "nimi": "Annas apelsini piparkoogid 300 g",
+        "hind": "2,99 €"
+    },
+    {
+        "nimi": "Marli Juissi ananassi-apelsinimahlajook 1 l",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Marli Juissi pirni mahlajook 1L",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Marli Juissi maasikamahlajook 1 l",
+        "hind": "1,85 €"
+    },
+    {
+        "nimi": "Marli Jussi mustika-vaarika mahlajook 1L",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Merci Crispy assortiišokolaad krõbeda - mandliga 250g",
+        "hind": "6,88 €"
+    },
+    {
+        "nimi": "Raad.auto Hot Wheels 1:28 6 ass",
+        "hind": "26,95 €"
+    },
+    {
+        "nimi": "Ibero laste juukse aksessuaarid 30 tk",
+        "hind": "2,88 €"
+    },
+    {
+        "nimi": "Ibero peavõru lastele past",
+        "hind": "4,48 €"
+    },
+    {
+        "nimi": "Ibero juuksepael",
+        "hind": "4,98 €"
+    },
+    {
+        "nimi": "Zewa Salvrätikud karbis Deluxe Design 3-kihiline 90tk",
+        "hind": "1,65 €"
+    },
+    {
+        "nimi": "Õhuvärskendaja Vanilla",
+        "hind": "2,95 €"
+    },
+    {
+        "nimi": "Kolorado Blue Ocean WC-loputuskasti värskendaja 2 x 45 g",
+        "hind": "1,55 €"
+    },
+    {
+        "nimi": "Cointreau liköör 40%vol 50ml",
+        "hind": "4,18 €"
+    },
+    {
+        "nimi": "Maybelline ripsmetušš Colossal 01 Black",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Maybelline ripsmetušš Colossal 02 Extra Black",
+        "hind": "7,48 €"
+    },
+    {
+        "nimi": "Maybelline peitepulk Fit Me Concealer 6,8 ml 10 Light",
+        "hind": "8,98 €"
+    },
+    {
+        "nimi": "Maybelline peitepulk Fit Me Concealer 6,8 ml 20 Sand",
+        "hind": "8,98 €"
+    },
+    {
+        "nimi": "Maybelline ripsmetušš Colossal Go Extreme 01 Very Black",
+        "hind": "8,88 €"
+    },
+    {
+        "nimi": "Maybelline ripsmetušš Colossal Go Extreme Leather Black",
+        "hind": "8,88 €"
+    },
+    {
+        "nimi": "Bounty Milk piimašokolaadibatoon 57 g",
+        "hind": "1,35 €"
+    },
+    {
+        "nimi": "Werther´s Original koorekompvekid 50 g",
+        "hind": "0,68 €"
+    },
+    {
+        "nimi": "Zott Kohvikoor 10%, 10 tk",
+        "hind": "0,65 €"
+    },
+    {
+        "nimi": "Zott Monte šokolaadi-pähkli piimadessert, 55 g, 1 TK",
+        "hind": "0,75 €"
+    },
+    {
+        "nimi": "Juuksevaha Taft Creative look 75ml",
+        "hind": "7,08 €"
+    },
+    {
+        "nimi": "ZOTT Monte snack 29g",
+        "hind": "0,39 €"
+    },
+    {
+        "nimi": "Zottis puuviljadega piimadessert, 115 g, 1 TK",
+        "hind": "0,56 €"
+    },
+    {
+        "nimi": "Ruf vahukooretugevdaja 40 g",
+        "hind": "0,68 €"
+    },
+    {
+        "nimi": "Knoppers piima- ja pähklitäidisega krõbe vahvel 25 g",
+        "hind": "0,59 €"
+    },
+    {
+        "nimi": "Jägermeister liköör 35%vol 40ml",
+        "hind": "2,98 €"
+    },
+    {
+        "nimi": "Jägermeister Liköör 35%vol 200ml",
+        "hind": "7,88 €"
+    },
+    {
+        "nimi": "Orbit Blueberry närimiskummid 14 g",
+        "hind": "0,78 €"
+    },
+    {
+        "nimi": "Kreem Nivea 75 ml",
+        "hind": "2,78 €"
+    },
+    {
+        "nimi": "Orbit Spearmint pastillid 28 g",
+        "hind": "1,08 €"
+    },
+    {
+        "nimi": "ORBIT BUBBLEMINT 10tk",
+        "hind": "0,78 €"
+    },
+    {
+        "nimi": "Coca-Cola karastusjook 500 ml",
+        "hind": "1,19 €"
+    },
+    {
+        "nimi": "Sprite karastusjook 500ml",
+        "hind": "1,18 €"
+    },
+    {
+        "nimi": "Fanta apelsini karastusjook 500ml",
+        "hind": "1,18 €"
+    },
+    {
+        "nimi": "Actimel Jogurtijook 4x100g, maasika",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Actimel Jogurtijook 4x100g, puuvilja",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Actimel Jogurtijook 4x100g, metsamarja",
+        "hind": "1,75 €"
+    },
+    {
+        "nimi": "Bensiinilisand Carlube 300ml",
+        "hind": "5,00 €"
+    },
+    {
+        "nimi": "Diiselkütuse lisand Carlube 300ml",
+        "hind": "5,90 €"
+    },
+    {
+        "nimi": "Pihustite puhastusvahend diiselmootorile Carlube 300ml",
+        "hind": "6,90 €"
+    },
+    {
+        "nimi": "Orbit Spearmint närimiskummid 14 g",
+        "hind": "0,84 €"
+    },
+    {
+        "nimi": "Rochester Ginger 725ml",
+        "hind": "7,79 €"
+    },
+    {
+        "nimi": "Max Factor silmapliiats Kohl 60 Ice blue",
+        "hind": "7,58 €"
+    },
+    {
+        "nimi": "CHEWITS maasika 30G",
+        "hind": "0,48 €"
+    },
+    {
+        "nimi": "Halls Extra Strong kurgupastillid 33 g",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Halls mee ja sidruniga kurgupastillid 33 g",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Sukulaku lagritsapulk 14 g",
+        "hind": "0,75 €"
+    },
+    {
+        "nimi": "Mynthon Zipmint Menthol suhkruvabad pastillid  30 g",
+        "hind": "1,65 €"
+    },
+    {
+        "nimi": "Nordic kuivpärm 2*12 g 24 g",
+        "hind": "0,98 €"
+    },
+    {
+        "nimi": "Nordic Pärm, 50 g",
+        "hind": "0,36 €"
+    },
+    {
+        "nimi": "TIC TAC Mint T1 18g",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Citres päikesekuivatatud tomatid päevalilleõlis 290/168 g",
+        "hind": "3,91 €"
+    },
+    {
+        "nimi": "Kinder Bueno White šokolaadibatoon 39 g",
+        "hind": "1,15 €"
+    },
+    {
+        "nimi": "TIC-TAC STRAWBERRY MIX 18G",
+        "hind": "0,85 €"
+    },
+    {
+        "nimi": "Torres San Valentin Parellada KPN vein 11%vol 187ml",
+        "hind": "3,58 €"
+    },
+    {
+        "nimi": "Chupa Chups Melody Pops maasikamaitseline pulgakomm 15 g",
+        "hind": "0,72 €"
+    },
+    {
+        "nimi": "Mentos piparmündimaitseline nätsukomm 38 g",
+        "hind": "0,88 €"
+    }
+]
