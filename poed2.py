@@ -1,9 +1,7 @@
 import json
 import os
-import re
-import difflib
 from dataclasses import dataclass
-from typing import Dict, List, Tuple, Set
+from typing import Dict, List, Set
 
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -120,8 +118,8 @@ class Rakendus(tk.Tk):
         self.koik_tooted: List[str] = sorted(self._kogu_koik_tooted())
 
         # UI muutujad (Entry + kogus)
-        self.kogus_muuttuja = tk.IntVar(value=1)
-        self.toode_muuttuja = tk.StringVar()
+        self.kogus_muutuja = tk.IntVar(value=1)
+        self.toode_muutuja = tk.StringVar()
 
         # Ehitame kasutajaliidese
         self._ehita_ui()
@@ -158,7 +156,7 @@ class Rakendus(tk.Tk):
 
         ttk.Label(vasak, text="Toote nimi").pack(anchor="w")
 
-        self.sisestus = ttk.Entry(vasak, textvariable=self.toode_muuttuja)
+        self.sisestus = ttk.Entry(vasak, textvariable=self.toode_muutuja)
         self.sisestus.pack(fill="x", pady=(6, 4))
         self.sisestus.focus_set()
 
@@ -168,7 +166,7 @@ class Rakendus(tk.Tk):
         self.soovituste_kast.pack_forget()
 
         # Kirjutamine -> uuenda soovitusi
-        self.toode_muuttuja.trace_add("write", lambda *_: self._uuenda_soovitusi())
+        self.toode_muutuja.trace_add("write", lambda *_: self._uuenda_soovitusi())
 
         # Soovituste valimine hiire/Enteriga
         self.soovituste_kast.bind("<ButtonRelease-1>", lambda _e: self._vali_soovitus())
@@ -188,7 +186,7 @@ class Rakendus(tk.Tk):
 
         ttk.Label(koguse_rida, text="Kogus").pack(side="left")
         ttk.Button(koguse_rida, text="−", width=3, command=self._kogus_miinus).pack(side="left", padx=(10, 6))
-        ttk.Label(koguse_rida, textvariable=self.kogus_muuttuja, width=4, anchor="center").pack(side="left")
+        ttk.Label(koguse_rida, textvariable=self.kogus_muutuja, width=4, anchor="center").pack(side="left")
         ttk.Button(koguse_rida, text="+", width=3, command=self._kogus_pluss).pack(side="left", padx=(6, 0))
 
         ttk.Button(vasak, text="Lisa ostukorvi", command=self.lisa_ostukorvi).pack(fill="x")
@@ -228,7 +226,7 @@ class Rakendus(tk.Tk):
 
     def _uuenda_soovitusi(self):
         # Uuendab autocomplete soovitusi sisestuse põhjal
-        otsing = normaliseeri_tekst(self.toode_muuttuja.get())
+        otsing = normaliseeri_tekst(self.toode_muutuja.get())
         if not otsing:
             self._peida_soovitused()
             return
@@ -279,23 +277,23 @@ class Rakendus(tk.Tk):
         if not valik:
             return
         soovitus = self.soovituste_kast.get(valik[0])
-        self.toode_muuttuja.set(soovitus)
+        self.toode_muutuja.set(soovitus)
         self._peida_soovitused()
         self.sisestus.focus_set()
         self.sisestus.icursor(tk.END)
 
     def _kogus_pluss(self):
         # Suurendab kogust
-        self.kogus_muuttuja.set(self.kogus_muuttuja.get() + 1)
+        self.kogus_muutuja.set(self.kogus_muutuja.get() + 1)
 
     def _kogus_miinus(self):
         # Vähendab kogust (min 1)
-        self.kogus_muuttuja.set(max(1, self.kogus_muuttuja.get() - 1))
+        self.kogus_muutuja.set(max(1, self.kogus_muutuja.get() - 1))
 
     def lisa_ostukorvi(self):
         # Lisab sisestatud toote ostukorvi
-        toote_nimi = self.toode_muuttuja.get().strip()
-        kogus = int(self.kogus_muuttuja.get())
+        toote_nimi = self.toode_muutuja.get().strip()
+        kogus = int(self.kogus_muutuja.get())
 
         if not toote_nimi:
             messagebox.showwarning("Hoiatus", "Sisesta toote nimi.")
@@ -304,8 +302,8 @@ class Rakendus(tk.Tk):
         voti = normaliseeri_tekst(toote_nimi)
         self.ostukorv[voti] = self.ostukorv.get(voti, 0) + kogus
 
-        self.toode_muuttuja.set("")
-        self.kogus_muuttuja.set(1)
+        self.toode_muutuja.set("")
+        self.kogus_muutuja.set(1)
         self._peida_soovitused()
         self._uuenda_ostukorvi_vaadet()
 
