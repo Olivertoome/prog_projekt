@@ -1,5 +1,5 @@
 #Pealkiri: Odavaim ostukorv
-#Tegiada: Oliver Toome ja Kristofer-Robin Tiits
+#Tegijad: Oliver Toome ja Kristofer-Robin Tiits
 #Käivitamiseks tuleb panna bash terminali:
 # python poed2.py
 
