@@ -1,3 +1,8 @@
+#Pealkiri: Odavaim ostukorv
+#Tegiada: Oliver Toome ja Kristofer-Robin Tiits
+#Käivitamiseks tuleb panna bash terminali:
+# python poed2.py
+
 import json
 import os
 from typing import Dict, List, Set
